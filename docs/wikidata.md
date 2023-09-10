@@ -1,6 +1,6 @@
 # Wikidata
 
-Wikidata is not a life sciences database, but a general database related to Wikipedia [<a href="#citeref1">1</a>]. That said,
+<a name="tp1">Wikidata</a> is not a life sciences database, but a general database related to <a name="tp2">Wikipedia</a> [<a href="#citeref1">1</a>]. That said,
 various research groups have started using Wikidata for the life sciences [<a href="#citeref2">2</a>,<a href="#citeref3">3</a>].
 
 ## Data model

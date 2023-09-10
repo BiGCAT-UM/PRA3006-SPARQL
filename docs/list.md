@@ -1,6 +1,6 @@
 # List of Databases
 
-Various projects collect SPARQL endpoints, like YummyData at [yummydata.org](https://yummydata.org/) [<a href="#citeref1">1</a>].
+Various projects collect <a name="tp1">SPARQL endpoint</a>s, like <a name="tp2">YummyData</a> at [yummydata.org](https://yummydata.org/) [<a href="#citeref1">1</a>].
 Here is an alphabetically sorted list of graphical interfaces to various SPARQL endpoints:
 
 * AOP-Wiki:
