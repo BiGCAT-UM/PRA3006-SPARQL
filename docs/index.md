@@ -17,6 +17,7 @@ Wishes, comments, and pull requests can be send to
 1.1. [SPARQL query language](intro.md#sparql-query-language) <br />
 1.2. [This book](intro.md#this-book) <br />
 2. [List of Databases](list.md) <br />
+2.1. [Other useful resources](list.md#other-useful-resources) <br />
 3. [Wikidata](wikidata.md) <br />
 3.1. [Data model](wikidata.md#data-model) <br />
 3.2. [Example queries](wikidata.md#example-queries) <br />

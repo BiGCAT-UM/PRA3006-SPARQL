@@ -15,6 +15,13 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) (see also [this chapter](wikidata.i.md))
 * WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) (see also [this chapter](wikidata.i.md))
 
+## Other useful resources
+
+There are also the following <topic>ontology</topic> SPARQL endpoints:
+
+* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql)
+* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<cite>Q122382613</cite>]
+
 ## References
 
 <references/>

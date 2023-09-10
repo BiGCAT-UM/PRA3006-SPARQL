@@ -15,6 +15,13 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) (see also [this chapter](wikidata.md))
 * WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) (see also [this chapter](wikidata.md))
 
+## Other useful resources
+
+There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
+
+* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql)
+* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref10">10</a>]
+
 ## References
 
 1. <a name="citeref1"></a>Yamamoto Y, Yamamoto Y, Yamaguchi A, Splendiani A, Splendiani A. YummyData: providing high-quality open life science data. Database. 2018 Jan 1;2018.  doi:[10.1093/DATABASE/BAY022](https://doi.org/10.1093/DATABASE/BAY022) ([Scholia](https://scholia.toolforge.org/doi/10.1093/DATABASE/BAY022))
@@ -26,4 +33,5 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 7. <a name="citeref7"></a>Zahn-Zabal M, Michel P-A, Gateau A, Nikitin F, Schaeffer M, Audot E, et al. The neXtProt knowledgebase in 2020: data, tools and usability improvements. NAR. 2020 Jan 1;48(D1):D328–34.  doi:[10.1093/NAR/GKZ995](https://doi.org/10.1093/NAR/GKZ995) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKZ995))
 8. <a name="citeref8"></a>Lombardot T, Morgat A, Axelsen KB, Aimo L, Hyka-Nouspikel N, Niknejad A, et al. Updates in Rhea: SPARQLing biochemical reaction data. NAR. 2019 Jan 1;47(D1):D596–600.  doi:[10.1093/NAR/GKY876](https://doi.org/10.1093/NAR/GKY876) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY876))
 9. <a name="citeref9"></a>Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTZ817))
+10. <a name="citeref10"></a>Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. zenodo. Geneva, Confoederatio Helvetica: zenodo; 2022.  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
 
