@@ -14,7 +14,7 @@ clean:
 allScriptsCompiled: ${CODEFILES}
 	@touch allScriptsCompiled
 
-%.out: %.rq md.*.template preprocess postprocess
+%.out: %.rq %.ep
 	@echo "doing $@ ..."
-	@groovy preprocess $< > $@
-	@groovy postprocess $<
+	groovy preprocess $^ > $@
+	groovy postprocess $<

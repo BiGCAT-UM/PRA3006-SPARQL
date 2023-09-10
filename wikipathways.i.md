@@ -9,7 +9,13 @@ It comes with a SPARQL endpoint with a human-oriented interface at [sparql.wikip
 
 ## Example queries
 
-...
+For example, we can ask a list of pPathways describing the biology of oxygenated hydrocarbons (`LMFA12`):
+
+<sparql>lipidPathways</sparql>
+
+This gives:
+
+<out>lipidPathways</out>
 
 ## References
 
