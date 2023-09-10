@@ -5,7 +5,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 
 * AOP-Wiki: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q111081275</cite>]
 * Bio2RDF: [https://bio2rdf.org/sparql](https://bio2rdf.org/sparql) [<cite>Q27921271</cite>]
-* ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<cite>Q27062334</cite>]
+* ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<cite>Q27144224</cite>,<cite>Q27062334</cite>]
 * DisGeNET: [http://rdf.disgenet.org/](http://rdf.disgenet.org/) [<cite>Q28596617</cite>]
 * LIPID MAPS: [	https://lipidmaps.org/sparql](	https://lipidmaps.org/sparql)
 * neXtProt: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q91276990</cite>]
