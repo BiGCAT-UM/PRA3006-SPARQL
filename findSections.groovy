@@ -2,6 +2,8 @@
 //
 // GPL v3
 
+import groovy.xml.XmlSlurper
+
 // find all topics and makes a data file to be converted into an Index
 //
 // it takes one optional argument, which is appended to the output
