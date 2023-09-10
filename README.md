@@ -1,9 +1,7 @@
-# Markdown + SPARQL Template repository
+# Markdown + SPARQL eBook for the PRA3006 Course
 
-This ebook has the purpose to see what information is available in Wikidata
-around the virus and the pandemic. I hope other find it useful.
-If you like this project, please "star" it. If you want to contribute,
-checkout the [CONTRIBUTING.md](CONTRIBUTING.md).
+This ebook has information about life science databases, their SPARQL endpoints,
+what information they hold, what data models they use, and how to query those.
 
 The [LICENSE.md](LICENSE.md) file contains information about the various
 licenses for this repository.
