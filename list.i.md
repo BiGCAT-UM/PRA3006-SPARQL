@@ -7,7 +7,8 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * Bio2RDF: [https://bio2rdf.org/sparql](https://bio2rdf.org/sparql) [<cite>Q27921271</cite>]
 * ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<cite>Q27144224</cite>,<cite>Q27062334</cite>]
 * DisGeNET: [http://rdf.disgenet.org/](http://rdf.disgenet.org/) [<cite>Q28596617</cite>]
-* LIPID MAPS: [	https://lipidmaps.org/sparql](	https://lipidmaps.org/sparql)
+* LIPID MAPS: [https://lipidmaps.org/sparql](https://lipidmaps.org/sparql)
+* MetaNetX: [https://rdf.metanetx.org/](https://rdf.metanetx.org/) [<cite>Q36683461</cite>]
 * neXtProt: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q91276990</cite>]
 * Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<cite>Q57060627</cite>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/)

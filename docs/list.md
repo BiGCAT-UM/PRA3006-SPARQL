@@ -7,11 +7,12 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * Bio2RDF: [https://bio2rdf.org/sparql](https://bio2rdf.org/sparql) [<a href="#citeref3">3</a>]
 * ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<a href="#citeref4">4</a>,<a href="#citeref5">5</a>]
 * DisGeNET: [http://rdf.disgenet.org/](http://rdf.disgenet.org/) [<a href="#citeref6">6</a>]
-* LIPID MAPS: [	https://lipidmaps.org/sparql](	https://lipidmaps.org/sparql)
-* neXtProt: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<a href="#citeref7">7</a>]
-* Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<a href="#citeref8">8</a>]
+* LIPID MAPS: [https://lipidmaps.org/sparql](https://lipidmaps.org/sparql)
+* MetaNetX: [https://rdf.metanetx.org/](https://rdf.metanetx.org/) [<a href="#citeref7">7</a>]
+* neXtProt: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<a href="#citeref8">8</a>]
+* Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<a href="#citeref9">9</a>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/)
-* UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref9">9</a>]
+* UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref10">10</a>]
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) (see also [this chapter](wikidata.md))
 * WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) (see also [this chapter](wikidata.md))
 
@@ -20,7 +21,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 
 * Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql)
-* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref10">10</a>]
+* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref11">11</a>]
 
 ## References
 
@@ -30,8 +31,9 @@ There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 4. <a name="citeref4"></a>Bento AP, Gaulton A, Hersey A, Bellis L, Chambers J, Davies M, et al. The ChEMBL bioactivity database: an update. NAR. 2014 Jan;42(Database issue):D1083-90.  doi:[10.1093/NAR/GKT1031](https://doi.org/10.1093/NAR/GKT1031) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKT1031))
 5. <a name="citeref5"></a>Willighagen E, Waagmeester A, Spjuth O, Ansell P, Williams AJ, Tkachenko V, et al. The ChEMBL database as linked open data. J Cheminform. 2013;5(1):23.  doi:[10.1186/1758-2946-5-23](https://doi.org/10.1186/1758-2946-5-23) ([Scholia](https://scholia.toolforge.org/doi/10.1186/1758-2946-5-23))
 6. <a name="citeref6"></a>Rosinach NQ, Piñero J, Bravo À, Sanz F, Furlong LI. DisGeNET-RDF: harnessing the innovative power of the Semantic Web to explore the genetic basis of diseases. Bioinformatics. 2016 Jul 15;32(14):2236–8.  doi:[10.1093/BIOINFORMATICS/BTW214](https://doi.org/10.1093/BIOINFORMATICS/BTW214) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTW214))
-7. <a name="citeref7"></a>Zahn-Zabal M, Michel P-A, Gateau A, Nikitin F, Schaeffer M, Audot E, et al. The neXtProt knowledgebase in 2020: data, tools and usability improvements. NAR. 2020 Jan 1;48(D1):D328–34.  doi:[10.1093/NAR/GKZ995](https://doi.org/10.1093/NAR/GKZ995) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKZ995))
-8. <a name="citeref8"></a>Lombardot T, Morgat A, Axelsen KB, Aimo L, Hyka-Nouspikel N, Niknejad A, et al. Updates in Rhea: SPARQLing biochemical reaction data. NAR. 2019 Jan 1;47(D1):D596–600.  doi:[10.1093/NAR/GKY876](https://doi.org/10.1093/NAR/GKY876) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY876))
-9. <a name="citeref9"></a>Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTZ817))
-10. <a name="citeref10"></a>Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. zenodo. Geneva, Confoederatio Helvetica: zenodo; 2022.  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
+7. <a name="citeref7"></a>Ganter M, Bernard T, Moretti S, Stelling J, Pagni M. MetaNetX.org: a website and repository for accessing, analysing and manipulating metabolic networks. Bioinformatics. 2013 Jan 28;29(6):815–6.  doi:[10.1093/BIOINFORMATICS/BTT036](https://doi.org/10.1093/BIOINFORMATICS/BTT036) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTT036))
+8. <a name="citeref8"></a>Zahn-Zabal M, Michel P-A, Gateau A, Nikitin F, Schaeffer M, Audot E, et al. The neXtProt knowledgebase in 2020: data, tools and usability improvements. NAR. 2020 Jan 1;48(D1):D328–34.  doi:[10.1093/NAR/GKZ995](https://doi.org/10.1093/NAR/GKZ995) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKZ995))
+9. <a name="citeref9"></a>Lombardot T, Morgat A, Axelsen KB, Aimo L, Hyka-Nouspikel N, Niknejad A, et al. Updates in Rhea: SPARQLing biochemical reaction data. NAR. 2019 Jan 1;47(D1):D596–600.  doi:[10.1093/NAR/GKY876](https://doi.org/10.1093/NAR/GKY876) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY876))
+10. <a name="citeref10"></a>Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTZ817))
+11. <a name="citeref11"></a>Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. zenodo. Geneva, Confoederatio Helvetica: zenodo; 2022.  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
 
