@@ -4,9 +4,27 @@
 and multiple other species [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>].
 It comes with a SPARQL endpoint with a human-oriented interface at [sparql.wikipathways.org](https://sparql.wikipathways.org/) [<a href="#citeref3">3</a>].
 
+WikiPathways RDF has two parts. The first is the GPMLRDF which is an RDF representation of the Graphical Pathway Markup
+Language (GPML) in which the biological pathways are stored in the database. The second is the WPRDF
+which is the represented biological knowledge  [<a href="#citeref3">3</a>,<a href="#citeref4">4</a>].
+This chapter focuses on the WPRDF only.
+
+## Entities
+
+* Pathway: a biological pathway
+* GeneProduct: can be a gene, strand of RNA, and a protein.
+* Rna: RNA, e.g. miRNA.
+* Protein: a protein. Post-translational modifications can be indicated with *states*
+* Metabolite: metabolites, ions, and other small molecules. It includes peptides.
+* Interaction: can be a lot of things: translocation, inhibition, metabolic conversions (see [<a href="#citeref4">4</a>]).
+
+In all cases, the specific meaning is not clearly defined. Each of the above types is roughly defined by the
+database identifies linked to the entity. For example, a UniProt identifier linked to a GeneProduct
+suggests the entity is actually a protein.
+
 ## Data model
 
-...
+
 
 ## Example queries
 
@@ -70,4 +88,5 @@ This gives:
 1. <a name="citeref1"></a>Pico AR, Kelder T, van Iersel MP, Hanspers K, Conklin BR, Evelo C. WikiPathways: pathway editing for the people. PLoS Biol. 2008 Jul 22;6(7):e184.  doi:[10.1371/JOURNAL.PBIO.0060184](https://doi.org/10.1371/JOURNAL.PBIO.0060184) ([Scholia](https://scholia.toolforge.org/doi/10.1371/JOURNAL.PBIO.0060184))
 2. <a name="citeref2"></a>Martens M, Ammar A, Riutta A, Waagmeester A, Slenter D, Hanspers K, et al. WikiPathways: connecting communities. NAR [Internet]. 2021 Jan 8;49(D1):D613–21. Available from: https://academic.oup.com/nar/article/49/D1/D613/5992285 doi:[10.1093/NAR/GKAA1024](https://doi.org/10.1093/NAR/GKAA1024) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKAA1024))
 3. <a name="citeref3"></a>Waagmeester A, Summer-Kutmon M, Riutta A, Miller R, Willighagen E, Evelo CT, et al. Using the Semantic Web for Rapid Integration of WikiPathways with Other Biological Online Data Resources. PLoS Comput Biol. 2016 Jun;12(6):e1004989.  doi:[10.1371/JOURNAL.PCBI.1004989](https://doi.org/10.1371/JOURNAL.PCBI.1004989) ([Scholia](https://scholia.toolforge.org/doi/10.1371/JOURNAL.PCBI.1004989))
+4. <a name="citeref4"></a>Miller RA, Kutmon M, Bohler A, Waagmeester A, Evelo CT, Willighagen EL. Understanding signaling and metabolic paths using semantified and harmonized information about biological interactions. PLOS ONE. 2022 Apr 18;17(4):e0263057.  doi:[10.1371/JOURNAL.PONE.0263057](https://doi.org/10.1371/JOURNAL.PONE.0263057) ([Scholia](https://scholia.toolforge.org/doi/10.1371/JOURNAL.PONE.0263057))
 

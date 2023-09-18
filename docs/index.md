@@ -22,7 +22,8 @@ Wishes, comments, and pull requests can be send to
 3.1. [Data model](wikidata.md#data-model) <br />
 3.2. [Example queries](wikidata.md#example-queries) <br />
 4. [WikiPathways](wikipathways.md) <br />
-4.1. [Data model](wikipathways.md#data-model) <br />
-4.2. [Example queries](wikipathways.md#example-queries) <br />
+4.1. [Entities](wikipathways.md#entities) <br />
+4.2. [Data model](wikipathways.md#data-model) <br />
+4.3. [Example queries](wikipathways.md#example-queries) <br />
 
 [Index](indexList.md) <br />
