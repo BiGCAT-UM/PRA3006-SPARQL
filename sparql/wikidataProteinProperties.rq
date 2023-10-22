@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT DISTINCT ?p WHERE {
+  ?o wdt:P31 wd:Q8054.
+  ?o ?p [].
+} LIMIT 100

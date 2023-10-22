@@ -1,4 +1,5 @@
 intro
+generic
 list
 wikidata
 wikipathways

@@ -1,0 +1,3 @@
+SELECT DISTINCT ?type WHERE {
+  [] a ?type .
+}

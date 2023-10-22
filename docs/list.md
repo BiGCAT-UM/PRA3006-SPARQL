@@ -14,14 +14,14 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/)
 * UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref11">11</a>]
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) (see also [this chapter](wikidata.md))
-* WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) (see also [this chapter](wikidata.md))
+* WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) [<a href="#citeref12">12</a><a href="#citeref13">13</a>] (see also [this chapter](wikipathways.md))
 
 ## Other useful resources
 
 There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 
 * Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql)
-* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref12">12</a>]
+* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref14">14</a>]
 
 ## References
 
@@ -36,5 +36,7 @@ There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 9. <a name="citeref9"></a>Zahn-Zabal M, Michel P-A, Gateau A, Nikitin F, Schaeffer M, Audot E, et al. The neXtProt knowledgebase in 2020: data, tools and usability improvements. NAR. 2020 Jan 1;48(D1):D328–34.  doi:[10.1093/NAR/GKZ995](https://doi.org/10.1093/NAR/GKZ995) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKZ995))
 10. <a name="citeref10"></a>Lombardot T, Morgat A, Axelsen KB, Aimo L, Hyka-Nouspikel N, Niknejad A, et al. Updates in Rhea: SPARQLing biochemical reaction data. NAR. 2019 Jan 1;47(D1):D596–600.  doi:[10.1093/NAR/GKY876](https://doi.org/10.1093/NAR/GKY876) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY876))
 11. <a name="citeref11"></a>Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTZ817))
-12. <a name="citeref12"></a>Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. zenodo. Geneva, Confoederatio Helvetica: zenodo; 2022.  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
+12. <a name="citeref12"></a>Waagmeester A, Summer-Kutmon M, Riutta A, Miller R, Willighagen E, Evelo CT, et al. Using the Semantic Web for Rapid Integration of WikiPathways with Other Biological Online Data Resources. PLoS Comput Biol. 2016 Jun;12(6):e1004989.  doi:[10.1371/JOURNAL.PCBI.1004989](https://doi.org/10.1371/JOURNAL.PCBI.1004989) ([Scholia](https://scholia.toolforge.org/doi/10.1371/JOURNAL.PCBI.1004989))
+13. <a name="citeref13"></a>Missing
+14. <a name="citeref14"></a>Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. zenodo. Geneva, Confoederatio Helvetica: zenodo; 2022.  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
 
