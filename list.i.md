@@ -14,7 +14,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/)
 * UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<cite>Q91121270</cite>]
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) (see also [this chapter](wikidata.i.md))
-* WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) (see also [this chapter](wikipathways.i.md))
+* WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) [<cite>Q26261238</cite><cite>Q57337377</cite>] (see also [this chapter](wikipathways.i.md))
 
 ## Other useful resources
 
