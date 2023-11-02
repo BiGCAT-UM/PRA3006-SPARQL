@@ -17,7 +17,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * OrthoDB: [https://sparql.orthodb.org/](https://sparql.orthodb.org/) [<a href="#citeref8">8</a>]
 * neXtProt: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<a href="#citeref11">11</a>]
 * Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<a href="#citeref3">3</a>]
-* STRING: [https://sparql.string-db.org/] [<a href="#citeref8">8</a>]
+* STRING: [https://sparql.string-db.org/](https://sparql.string-db.org/) [<a href="#citeref8">8</a>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/) [<a href="#citeref8">8</a>]
 * UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref12">12</a>]
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) (see also [this chapter](wikidata.md))
@@ -27,12 +27,12 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 
 There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 
-* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql)
-* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref15">15</a>]
+* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql) [<a href="#citeref15">15</a>]
+* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref16">16</a>]
 
 ## References
 
-1. <a name="citeref1"></a>Yamamoto Y, Yamamoto Y, Yamaguchi A, Splendiani A, Splendiani A. YummyData: providing high-quality open life science data. Database. 2018 Jan 1;2018.  doi:[10.1093/DATABASE/BAY022](https://doi.org/10.1093/DATABASE/BAY022) ([Scholia](https://scholia.toolforge.org/doi/10.1093/DATABASE/BAY022))
+1. <a name="citeref1"></a>Yamamoto Y, Yamaguchi A, Splendiani A. YummyData: providing high-quality open life science data. Database. 2018 Jan 1;2018.  doi:[10.1093/DATABASE/BAY022](https://doi.org/10.1093/DATABASE/BAY022) ([Scholia](https://scholia.toolforge.org/doi/10.1093/DATABASE/BAY022))
 2. <a name="citeref2"></a>Martens M, Evelo CT, Willighagen EL. Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology. 2022 Feb 25;  doi:[10.1089/AIVT.2021.0010](https://doi.org/10.1089/AIVT.2021.0010) ([Scholia](https://scholia.toolforge.org/doi/10.1089/AIVT.2021.0010))
 3. <a name="citeref3"></a>Lombardot T, Morgat A, Axelsen KB, Aimo L, Hyka-Nouspikel N, Niknejad A, et al. Updates in Rhea: SPARQLing biochemical reaction data. NAR. 2019 Jan 1;47(D1):D596–600.  doi:[10.1093/NAR/GKY876](https://doi.org/10.1093/NAR/GKY876) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY876))
 4. <a name="citeref4"></a>Belleau F, Nolin M-A, Tourigny N, Rigault P, Morissette J. Bio2RDF: Towards a mashup to build bioinformatics knowledge systems. J Biomed Inform. 2008 Oct;41(5):706–16.  doi:[10.1016/J.JBI.2008.03.004](https://doi.org/10.1016/J.JBI.2008.03.004) ([Scholia](https://scholia.toolforge.org/doi/10.1016/J.JBI.2008.03.004))
@@ -46,5 +46,6 @@ There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 12. <a name="citeref12"></a>Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTZ817))
 13. <a name="citeref13"></a>Waagmeester A, Summer-Kutmon M, Riutta A, Miller R, Willighagen E, Evelo CT, et al. Using the Semantic Web for Rapid Integration of WikiPathways with Other Biological Online Data Resources. PLoS Comput Biol. 2016 Jun;12(6):e1004989.  doi:[10.1371/JOURNAL.PCBI.1004989](https://doi.org/10.1371/JOURNAL.PCBI.1004989) ([Scholia](https://scholia.toolforge.org/doi/10.1371/JOURNAL.PCBI.1004989))
 14. <a name="citeref14"></a>Miller RA, Woollard P, Willighagen EL, Digles D, Kutmon M, Loizou A, et al. Explicit interaction information from WikiPathways in RDF facilitates drug discovery in the Open PHACTS Discovery Platform. F1000Research. 2018 Oct 12;7:75.  doi:[10.12688/F1000RESEARCH.13197.2](https://doi.org/10.12688/F1000RESEARCH.13197.2) ([Scholia](https://scholia.toolforge.org/doi/10.12688/F1000RESEARCH.13197.2))
-15. <a name="citeref15"></a>Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. zenodo. Geneva, Confoederatio Helvetica: zenodo; 2022.  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
+15. <a name="citeref15"></a>Ong E, Xiang Z, Zhao B, Liu Y, Lin Y, Zheng J, et al. Ontobee: A linked ontology data server to support ontology term dereferencing, linkage, query and integration. NAR. 2016 Oct 12;45(D1):gkw918.  doi:[10.1093/NAR/GKW918](https://doi.org/10.1093/NAR/GKW918) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKW918))
+16. <a name="citeref16"></a>Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. zenodo. Geneva, Confoederatio Helvetica: zenodo; 2022.  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
 

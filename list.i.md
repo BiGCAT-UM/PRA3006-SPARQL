@@ -17,7 +17,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * OrthoDB: [https://sparql.orthodb.org/](https://sparql.orthodb.org/) [<cite>Q123285784</cite>]
 * neXtProt: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q91276990</cite>]
 * Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<cite>Q57060627</cite>]
-* STRING: [https://sparql.string-db.org/] [<cite>Q123285784</cite>]
+* STRING: [https://sparql.string-db.org/](https://sparql.string-db.org/) [<cite>Q123285784</cite>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/) [<cite>Q123285784</cite>]
 * UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<cite>Q91121270</cite>]
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) (see also [this chapter](wikidata.i.md))
@@ -27,7 +27,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 
 There are also the following <topic>ontology</topic> SPARQL endpoints:
 
-* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql)
+* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql) [<cite>Q27976541</cite>]
 * Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<cite>Q122382613</cite>]
 
 ## References

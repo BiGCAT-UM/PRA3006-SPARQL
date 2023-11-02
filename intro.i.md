@@ -15,6 +15,7 @@ Nowadays, many databases provide one or more <topic>application programming inte
 their databases. There is a fascinating history behind this, but PRA3006 is not a "History of Bioinformatics" course.
 Instead, it focuses on one API: the SPARQL endpoint. The obvious alternative is <topic>REST</topic> APIs [<cite>Q67855272</cite>],
 but <topic>SPARQL endpoint</topic>s simply provide more learning opportunity to the student.
+A [later chapter](list.i.md) provides a list of SPARQL endpoints around the life sciences.
 
 ## This book
 
