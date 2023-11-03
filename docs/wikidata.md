@@ -3,6 +3,18 @@
 <a name="tp1">Wikidata</a> is not a life sciences database, but a general database related to <a name="tp2">Wikipedia</a> [<a href="#citeref1">1</a>]. That said,
 various research groups have started using Wikidata for the life sciences [<a href="#citeref2">2</a>,<a href="#citeref3">3</a>].
 
+## Entities
+
+The RDF contains all pathways, their datanodes (genes, proteins, metabolites, etc.), author information, molecular descriptors,
+and more. The main classes are:
+
+* Pathway: a <a name="tp3">biological pathway</a>
+* GeneProduct: can be a <a name="tp4">gene</a>, strand of <a name="tp5">RNA</a>, and a <a name="tp6">protein</a>.
+* Rna: RNA, e.g. <a name="tp7">miRNA</a>.
+* Protein: a <a name="tp8">protein</a>. Post-translational modifications can be indicated with *states*
+* Metabolite: metabolites, ions, and other small molecules. It includes peptides.
+
+
 ## Data model
 
 ...

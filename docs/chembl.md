@@ -1,14 +1,17 @@
 # ChEMBL
 
-ChEMBL is a manually curated database of bioactive molecules with drug-like properties [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>].
+<a name="tp1">ChEMBL</a> is a manually curated database of bioactive
+molecules with drug-like properties [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>].
 It brings together chemical, bioactivity and genomic data to aid the translation of
 genomic information into effective new drugs. Built upon the ChEMBL database, an RDF
 representation of the ChEMBL database is produced by the European Molecular Biology
 Laboratory - European Bioinformatics Institute (EMBL-EBI) and provided for
 [download](https://www.ebi.ac.uk/rdf/services/sparql). The ChEMBL RDF model uses a
-basic internal ontology, called the ChEMBL Core Ontology (CCO), to identify all of
+basic internal ontology, called the <a name="tp2">ChEMBL Core Ontology</a> (CCO), to identify all of
 the primary entities (e.g., Documents, Assays, Substances, Targets) in the
-ChEMBL database. The Department of Bioinformatics (BiGCaT) at Maastricht University
+ChEMBL database.
+
+The Department of Bioinformatics (BiGCaT) at Maastricht University
 took the initiative to host the RDF and expose it to the scientific community through
 a SPARQL endpoint where queries can be executed against the RDF to find answers to
 biological questions. The tool is available through https://chemblmirror.rdf.bigcat-bioinformatics.org/.
@@ -17,17 +20,19 @@ biological questions. The tool is available through https://chemblmirror.rdf.big
 
 The main classes are:
 
-* Protein 
-* Drug / drug-like compound
+* Protein: <a name="tp3">protein</a> targets
+* Metabolite: ligand, e.g. <a name="tp4">drug</a> / drug-like compound
+* Assay: measures some property of, for example, the protein-ligand binding
+* Document: source of the data or knowledge
 
 ## Data model
 
-![Graphical representation of RDF schema](chembl_18_rdf_summary.png "ChEMBL RDF")
+![Graphical representation of RDF schema](images/chembl_18_rdf_summary.png "ChEMBL RDF")
 
 ## Exercises
 
 The simplest SPARQL queries to explore RDF is to retrieve full lists of subjects of a
-particular type, which is frequently defined with the predicate rdfs:type or "a" which
+particular type, which is frequently defined with the predicate `rdfs:type` or "a" which
 can be used interchangably. The type itself can be part of a hierarchy and then we can
 specify the type of a particular subclass using the predicate `rdfs:subClassOf`. See
 the below example of listing all molecules in the ChEMBL RDF where the molecule type is
@@ -106,7 +111,7 @@ WHERE {
 
 ### Binding affinities
 
-To get all assay, binding affinity type (Kd, Ki, IC50) and affinity value for all compounds
+To get all assay, <a name="tp5">binding affinity</a> type (Kd, Ki, IC50) and affinity value for all compounds
 targeting Thrombin protein (CHEMBL204):
 
 ```sparql

@@ -18,10 +18,10 @@ Figure of simplified RDF schema:
 The RDF contains all pathways, their datanodes (genes, proteins, metabolites, etc.), author information, molecular descriptors,
 and more. The main classes are:
 
-* Pathway: a biological pathway
-* GeneProduct: can be a gene, strand of RNA, and a protein.
-* Rna: RNA, e.g. miRNA.
-* Protein: a protein. Post-translational modifications can be indicated with *states*
+* Pathway: a <a name="tp3">biological pathway</a>
+* GeneProduct: can be a <a name="tp4">gene</a>, strand of <a name="tp5">RNA</a>, and a <a name="tp6">protein</a>.
+* Rna: RNA, e.g. <a name="tp7">miRNA</a>.
+* Protein: a <a name="tp8">protein</a>. Post-translational modifications can be indicated with *states*
 * Metabolite: metabolites, ions, and other small molecules. It includes peptides.
 * Interaction: can be a lot of things: translocation, inhibition, metabolic conversions (see [<a href="#citeref4">4</a>]).
 
@@ -126,7 +126,7 @@ This gives:
 
 This final example adds an extra level of difficulty by linking the AOP-Wiki RDF with another database
 through SPARQL (this is called a Federated SPARQL query). In this exercise we will explore the connection
-between WikiPathways and AOP-Wiki. 
+between WikiPathways and <a name="tp9">AOP-Wiki</a> (see [this chapter](aopwiki.md)). 
 
 <!-- To do this exercise, you might want to do
 the [AOP-Wiki SPARQL endpoint tutorial](AOP-Wiki.md) first. -->
