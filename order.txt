@@ -1,5 +1,6 @@
 intro
 generic
 list
+aopwiki
 wikidata
 wikipathways

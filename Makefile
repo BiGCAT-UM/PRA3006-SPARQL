@@ -1,7 +1,7 @@
 SOURCES := intro.i.md index.i.md wikidata.i.md wikipathways.i.md list.i.md \
-           generic.i.md
+           generic.i.md aopwiki.i.md
 TARGETS := intro.md indexList.md wikidata.md wikipathways.md list.md \
-           generic.md
+           generic.md aopwiki.md
 METAS := references.dat toc.txt indexList.i.md sections.txt
 
 SUBDIRS := sparql
