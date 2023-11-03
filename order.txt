@@ -2,5 +2,6 @@ intro
 generic
 list
 aopwiki
+chembl
 wikidata
 wikipathways

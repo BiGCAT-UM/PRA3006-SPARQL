@@ -1,6 +1,6 @@
 # Using SPARQL to query Life Science Databases
 
-**Marvin Martens, Egon L. Willighagen**
+**Ammar Ammar, Marvin Martens, Egon L. Willighagen**
 
 © 2021-2023 The Authors
 

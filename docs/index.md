@@ -1,6 +1,6 @@
 # Using SPARQL to query Life Science Databases
 
-**Marvin Martens, Egon L. Willighagen**
+**Ammar Ammar, Marvin Martens, Egon L. Willighagen**
 
 © 2021-2023 The Authors
 
@@ -29,15 +29,23 @@ Wishes, comments, and pull requests can be send to
 4.2. [Data model](aopwiki.md#data-model) <br />
 4.3. [Example queries](aopwiki.md#example-queries) <br />
 4.3.1. [Counting key events](aopwiki.md#counting-key-events) <br />
-5. [Wikidata](wikidata.md) <br />
-5.1. [Data model](wikidata.md#data-model) <br />
-5.2. [Example queries](wikidata.md#example-queries) <br />
-6. [WikiPathways](wikipathways.md) <br />
-6.1. [Entities](wikipathways.md#entities) <br />
-6.2. [Data model](wikipathways.md#data-model) <br />
-6.3. [Example queries](wikipathways.md#example-queries) <br />
-6.3.1. [Asking information for a specific pathway](wikipathways.md#asking-information-for-a-specific-pathway) <br />
-6.3.2. [A lipid pathway](wikipathways.md#a-lipid-pathway) <br />
-6.3.3. [A federated SPARQL query](wikipathways.md#a-federated-sparql-query) <br />
+5. [ChEMBL](chembl.md) <br />
+5.1. [Entities](chembl.md#entities) <br />
+5.2. [Data model](chembl.md#data-model) <br />
+5.3. [Exercises](chembl.md#exercises) <br />
+5.3.1. [ChEMBL sources](chembl.md#chembl-sources) <br />
+5.3.2. [Counting assays](chembl.md#counting-assays) <br />
+5.3.3. [Binding affinities](chembl.md#binding-affinities) <br />
+5.3.4. [Assays and UniProt IDs](chembl.md#assays-and-uniprot-ids) <br />
+6. [Wikidata](wikidata.md) <br />
+6.1. [Data model](wikidata.md#data-model) <br />
+6.2. [Example queries](wikidata.md#example-queries) <br />
+7. [WikiPathways](wikipathways.md) <br />
+7.1. [Entities](wikipathways.md#entities) <br />
+7.2. [Data model](wikipathways.md#data-model) <br />
+7.3. [Example queries](wikipathways.md#example-queries) <br />
+7.3.1. [Asking information for a specific pathway](wikipathways.md#asking-information-for-a-specific-pathway) <br />
+7.3.2. [A lipid pathway](wikipathways.md#a-lipid-pathway) <br />
+7.3.3. [A federated SPARQL query](wikipathways.md#a-federated-sparql-query) <br />
 
 [Index](indexList.md) <br />
