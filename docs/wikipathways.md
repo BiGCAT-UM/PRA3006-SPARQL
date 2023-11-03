@@ -10,7 +10,8 @@ which is the represented biological knowledge  [<a href="#citeref3">3</a>,<a hre
 This chapter focuses on the WPRDF only.
 
 Figure of simplified RDF schema:
-<img src="img/WP RDF simple schema.png">
+
+<img src="images/WP RDF simple schema.png">
 
 ## Entities
 

@@ -23,7 +23,8 @@ The main classes are:
 ## Data model
 
 The figure describing the RDF schema:
-<img src="img/AOP-Wiki-RDF-simple.png">
+
+<img src="images/AOP-Wiki-RDF-simple.png">
 
 ## Example queries
 
