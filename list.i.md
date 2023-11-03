@@ -3,11 +3,11 @@
 Various projects collect <topic>SPARQL endpoint</topic>s, like <topic>YummyData</topic> at [yummydata.org](https://yummydata.org/) [<cite>Q55007361</cite>].
 Here is an alphabetically sorted list of graphical interfaces to various SPARQL endpoints:
 
-* AOP-Wiki: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q111081275</cite>]
+* AOP-Wiki: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q111081275</cite>] (see also [this chapter](aopwiki.i.md))
 * Bgee: [https://www.bgee.org/sparql/](https://www.bgee.org/sparql/) [<cite>Q57060627</cite>]
 * Bio2RDF: [https://bio2rdf.org/sparql](https://bio2rdf.org/sparql) [<cite>Q27921271</cite>]
 * Cellosaurus: via Wikidata (see below) [<cite>Q57060627</cite>]
-* ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<cite>Q27144224</cite>,<cite>Q27062334</cite>]
+* ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<cite>Q27144224</cite>,<cite>Q27062334</cite>] (see also [this chapter](chembl.i.md))
 * DisGeNET: [http://rdf.disgenet.org/](http://rdf.disgenet.org/) [<cite>Q28596617</cite>]
 * GlyConnect: [https://glyconnect.expasy.org/sparql](https://glyconnect.expasy.org/sparql) [<cite>Q57060627</cite>]
 * HAMAP: [https://hamap.expasy.org/sparql](https://hamap.expasy.org/sparql) [<cite>Q123285784</cite>]
