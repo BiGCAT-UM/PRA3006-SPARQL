@@ -1,0 +1,4 @@
+SELECT ?KE 
+WHERE {
+  ?KE a aopo:KeyEvent .
+}

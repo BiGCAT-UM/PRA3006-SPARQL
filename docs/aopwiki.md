@@ -33,6 +33,8 @@ The simplest SPARQL queries to explore RDF is to retrieve full lists of subjects
 frequently defined with the predicate `rdfs:type` or `a` which can be used interchangably. See the below
 example of listing all Key Events.
 
+**SPARQL** [sparql/keyevent.rq](sparql/keyevent.code.html) ([run](https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/?query=SELECT%20%3FKE%20%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%7D%0A), [edit](https://aopwiki.rdf.bigcat-bioinformatics.org/?q=SELECT%20%3FKE%20%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%7D%0A))
+
 ```sparql
 SELECT ?KE 
 WHERE {
@@ -44,6 +46,8 @@ Since the Key Event links can bring you to the AOP-Wiki for further exploration 
 we can also directly request all their contents through the SPARQL query. For example, to extract the
 Key Event title, we add `?KE dc:title ?KEtitle` to the SPARQL query. The returned table upon running the
 query will get wider, so you might need to scroll to the right. 
+
+**SPARQL** [sparql/keyeventWithTitle.rq](sparql/keyeventWithTitle.code.html) ([run](https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/?query=SELECT%20%3FKE%20%3FKEtitle%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%20%20%3FKE%20dc%3Atitle%20%3FKEtitle%20.%0A%7D%0A), [edit](https://aopwiki.rdf.bigcat-bioinformatics.org/?q=SELECT%20%3FKE%20%3FKEtitle%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%20%20%3FKE%20dc%3Atitle%20%3FKEtitle%20.%0A%7D%0A))
 
 ```sparql
 SELECT ?KE ?KEtitle

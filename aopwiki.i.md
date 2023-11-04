@@ -33,25 +33,14 @@ The simplest SPARQL queries to explore RDF is to retrieve full lists of subjects
 frequently defined with the predicate `rdfs:type` or `a` which can be used interchangably. See the below
 example of listing all Key Events.
 
-```sparql
-SELECT ?KE 
-WHERE {
-  ?KE a aopo:KeyEvent .
-}
-```
+<sparql>keyevent</sparql>
 
 Since the Key Event links can bring you to the AOP-Wiki for further exploration of the corresponding webpage,
 we can also directly request all their contents through the SPARQL query. For example, to extract the
 Key Event title, we add `?KE dc:title ?KEtitle` to the SPARQL query. The returned table upon running the
 query will get wider, so you might need to scroll to the right. 
 
-```sparql
-SELECT ?KE ?KEtitle
-WHERE {
-  ?KE a aopo:KeyEvent .
-  ?KE dc:title ?KEtitle .
-}
-```
+<sparql>keyeventWithTitle</sparql>
 
 ### Counting key events
 
