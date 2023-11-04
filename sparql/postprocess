@@ -20,15 +20,15 @@ if (ep == "wikidata") {
 } else if (ep == "wikipathways") {
   ep = "https://sparql.wikipathways.org/sparql"
   editPrefix = "https://sparql.wikipathways.org/?q="
-  runPrefix = "https://sparql.wikipathways.org/sparq/?q="
+  runPrefix = "https://sparql.wikipathways.org/sparql/?query="
 } else if (ep == "chembl") {
   ep = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql"
   editPrefix = "https://chemblmirror.rdf.bigcat-bioinformatics.org/?q="
-  runPrefix = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparq/?q="
+  runPrefix = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql/?query="
 } else if (ep == "aopwiki") {
   ep = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql"
   editPrefix = "https://aopwiki.rdf.bigcat-bioinformatics.org/?q="
-  runPrefix = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparq/?q="
+  runPrefix = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/?query="
 }
 
 runClass = inFile.substring(0,inFile.indexOf(runSuffix));
