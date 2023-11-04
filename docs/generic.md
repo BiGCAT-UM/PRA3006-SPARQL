@@ -24,28 +24,28 @@ When we run this on Wikidata, we get:
     <td><b>type</b></td>
   </tr>
   <tr>
-    <td>http://schema.org/Dataset</td>
+    <td>http://www.wikidata.org/prop/novalue/P176</td>
   </tr>
   <tr>
-    <td>http://wikiba.se/ontology#GeoAutoPrecision</td>
+    <td>http://www.wikidata.org/prop/novalue/P177</td>
   </tr>
   <tr>
-    <td>http://wikiba.se/ontology#Property</td>
+    <td>http://www.wikidata.org/prop/novalue/P178</td>
   </tr>
   <tr>
-    <td>http://www.w3.org/ns/lemon/ontolex#LexicalSense</td>
+    <td>http://www.wikidata.org/prop/novalue/P179</td>
   </tr>
   <tr>
-    <td>http://wikiba.se/ontology#BestRank</td>
+    <td>http://www.wikidata.org/prop/novalue/P180</td>
   </tr>
   <tr>
-    <td>http://schema.org/Article</td>
+    <td>http://www.wikidata.org/prop/novalue/P184</td>
   </tr>
   <tr>
-    <td>http://www.w3.org/2002/07/owl#Class</td>
+    <td>http://www.wikidata.org/prop/novalue/P185</td>
   </tr>
   <tr>
-    <td>http://www.w3.org/2002/07/owl#DatatypeProperty</td>
+    <td>http://www.wikidata.org/prop/novalue/P186</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/rdfType-1.code.html">sparql/rdfType-1.rq</a></td></tr>
 </table>
@@ -117,30 +117,6 @@ which gives:
     <td><b>l</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q24190</td>
-    <td>Neurotrophin 3</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q30530</td>
-    <td>Histidine ammonia-lyase</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q58321</td>
-    <td>protein kinase</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q63398</td>
-    <td>Chromogranin B</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q74314</td>
-    <td>Titin</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q74581</td>
-    <td>Growth differentiation factor 15</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q409065</td>
     <td>Uroporphyrinogen decarboxylase</td>
   </tr>
@@ -155,6 +131,30 @@ which gives:
   <tr>
     <td>http://www.wikidata.org/entity/Q409166</td>
     <td>Coagulation factor II, thrombin</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q417867</td>
+    <td>Galanin and GMAP prepropeptide</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418097</td>
+    <td>glucose-6-phosphate isomerase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418137</td>
+    <td>Hypoxanthine phosphoribosyltransferase 1</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418404</td>
+    <td>C-C motif chemokine receptor 5</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418732</td>
+    <td>Proliferating cell nuclear antigen</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q24190</td>
+    <td>Neurotrophin 3</td>
   </tr>
 </table>
 

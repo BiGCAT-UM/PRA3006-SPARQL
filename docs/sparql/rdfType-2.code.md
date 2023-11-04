@@ -6,7 +6,7 @@ SELECT DISTINCT ?type WHERE {
   [] a ?type .
 }
 ```
-[Execute](https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A) or [Edit](https://query.wikidata.org/#SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A)
+[Execute](https://sparql.wikipathways.org/sparq/?q=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A) or [Edit](https://sparql.wikipathways.org/?q=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A)
 
 
 ### Output

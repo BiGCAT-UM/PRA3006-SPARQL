@@ -121,6 +121,12 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct/P10283</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/direct/P592</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P592</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/P279</td>
   </tr>
   <tr>
@@ -178,6 +184,9 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/P361</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/P527</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/P638</td>
   </tr>
   <tr>
@@ -185,15 +194,6 @@ SELECT DISTINCT ?p WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct-normalized/P638</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P680</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P681</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P527</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P692</td>
@@ -208,16 +208,22 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/P682</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/P680</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P681</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/P705</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P2888</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct/P592</td>
+    <td>http://www.wikidata.org/prop/P652</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P592</td>
+    <td>http://www.wikidata.org/prop/P592</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P373</td>
@@ -235,18 +241,6 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/P672</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/P592</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P8224</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P18</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P18</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/direct/P351</td>
   </tr>
   <tr>
@@ -254,6 +248,12 @@ SELECT DISTINCT ?p WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P639</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P18</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P18</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P351</td>
@@ -274,31 +274,13 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct/P2576</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/P639</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P684</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P652</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P2576</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P591</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P591</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P8224</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/direct-normalized/P349</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P349</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P591</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P910</td>
@@ -307,16 +289,34 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct/P2924</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/P639</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P684</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P8224</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P2576</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P268</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P267</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P508</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/direct/P129</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P129</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct/P7260</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P7260</td>
+    <td>http://www.wikidata.org/prop/P244</td>
   </tr>
 </table>
 ## Code examples
