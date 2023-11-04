@@ -9,7 +9,7 @@ SELECT DISTINCT ?p WHERE {
   ?o ?p [].
 } LIMIT 100
 ```
-[Execute](https://query.wikidata.org/embed.html#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fp%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ8054.%0A%20%20%3Fo%20%3Fp%20%5B%5D.%0A%7D%20LIMIT%20100%0A) or [Edit](https://query.wikidata.org/#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fp%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ8054.%0A%20%20%3Fo%20%3Fp%20%5B%5D.%0A%7D%20LIMIT%20100%0A)
+[Run](https://query.wikidata.org/embed.html#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fp%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ8054.%0A%20%20%3Fo%20%3Fp%20%5B%5D.%0A%7D%20LIMIT%20100%0A) or [Edit](https://query.wikidata.org/#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fp%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ8054.%0A%20%20%3Fo%20%3Fp%20%5B%5D.%0A%7D%20LIMIT%20100%0A)
 
 
 ### Output
@@ -94,10 +94,7 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct-normalized/P486</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct/P592</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P592</td>
+    <td>http://www.wikidata.org/prop/direct-normalized/P637</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P692</td>
@@ -112,6 +109,9 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct/P705</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/direct/P2892</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/direct/P2888</td>
   </tr>
   <tr>
@@ -119,6 +119,12 @@ SELECT DISTINCT ?p WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P10283</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P592</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P592</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P352</td>
@@ -137,9 +143,6 @@ SELECT DISTINCT ?p WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct-normalized/P638</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P637</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct-normalized/P646</td>
@@ -175,7 +178,10 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/P2888</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct/P2892</td>
+    <td>http://www.wikidata.org/prop/P486</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P2892</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P279</td>
@@ -184,16 +190,10 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct/P279</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/P486</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/direct/P1417</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P1417</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P2892</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P3222</td>
@@ -223,6 +223,30 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/P10283</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P349</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P349</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P373</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P591</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P672</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P672</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P910</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P2924</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/P592</td>
   </tr>
   <tr>
@@ -235,13 +259,16 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct/P639</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct/P672</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/P18</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P18</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P373</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P672</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P351</td>
@@ -256,46 +283,10 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/direct-normalized/P594</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P672</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/direct/P684</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P2576</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P349</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P349</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P373</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P591</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P910</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P2924</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P639</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P672</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P684</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P373</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P2576</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/P349</td>
@@ -310,19 +301,28 @@ SELECT DISTINCT ?p WHERE {
     <td>http://www.wikidata.org/prop/P2924</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/P639</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P684</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/direct/P274</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P8224</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct/P7818</td>
+    <td>http://www.wikidata.org/prop/P2576</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P8224</td>
   </tr>
 </table>
 ## Code examples
 ### curl
 ```shell
-curl -o wikidataProteinProperties.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/wikidataProteinProperties.rq
+curl -o wikidataProteinProperties.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/wikidataProteinProperties.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@wikidataProteinProperties.rq
 ```
 This SPARQL query is available under CCZero.

@@ -6,7 +6,7 @@ SELECT DISTINCT ?type WHERE {
   [] a ?type .
 }
 ```
-[Execute](https://sparql.wikipathways.org/sparql/?query=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A) or [Edit](https://sparql.wikipathways.org/?q=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A)
+[Run](https://sparql.wikipathways.org/sparql/?query=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A) or [Edit](https://sparql.wikipathways.org/?q=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A)
 
 
 ### Output
@@ -193,7 +193,7 @@ SELECT DISTINCT ?type WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -o rdfType-2.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/rdfType-2.rq
+curl -o rdfType-2.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/rdfType-2.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@rdfType-2.rq
 ```
 This SPARQL query is available under CCZero.

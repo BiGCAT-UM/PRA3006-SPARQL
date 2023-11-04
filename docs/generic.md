@@ -117,20 +117,28 @@ which gives:
     <td><b>l</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q409065</td>
-    <td>Uroporphyrinogen decarboxylase</td>
+    <td>http://www.wikidata.org/entity/Q24190</td>
+    <td>Neurotrophin 3</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q409106</td>
-    <td>marker of proliferation Ki-67</td>
+    <td>http://www.wikidata.org/entity/Q30530</td>
+    <td>Histidine ammonia-lyase</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q409114</td>
-    <td>Sex determining region Y</td>
+    <td>http://www.wikidata.org/entity/Q58321</td>
+    <td>protein kinase</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q409166</td>
-    <td>Coagulation factor II, thrombin</td>
+    <td>http://www.wikidata.org/entity/Q63398</td>
+    <td>Chromogranin B</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q74314</td>
+    <td>Titin</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q74581</td>
+    <td>Growth differentiation factor 15</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q417867</td>
@@ -147,14 +155,6 @@ which gives:
   <tr>
     <td>http://www.wikidata.org/entity/Q418404</td>
     <td>C-C motif chemokine receptor 5</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q418732</td>
-    <td>Proliferating cell nuclear antigen</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q92594</td>
-    <td>Opsin 4</td>
   </tr>
 </table>
 
