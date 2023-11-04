@@ -10,6 +10,27 @@ srcSuffix = runSuffix;
 
 inFile = args[0];
 
+epFile = args[1]
+ep = new File(epFile).text.trim()
+
+runPrefix = "https://query.wikidata.org/embed.html#"
+editPrefix = "https://query.wikidata.org/#"
+if (ep == "wikidata") {
+  ep = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+} else if (ep == "wikipathways") {
+  ep = "https://sparql.wikipathways.org/sparql"
+  editPrefix = "https://sparql.wikipathways.org/?q="
+  runPrefix = "https://sparql.wikipathways.org/sparq/?q="
+} else if (ep == "chembl") {
+  ep = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql"
+  editPrefix = "https://chemblmirror.rdf.bigcat-bioinformatics.org/?q="
+  runPrefix = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparq/?q="
+} else if (ep == "aopwiki") {
+  ep = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql"
+  editPrefix = "https://aopwiki.rdf.bigcat-bioinformatics.org/?q="
+  runPrefix = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparq/?q="
+}
+
 runClass = inFile.substring(0,inFile.indexOf(runSuffix));
 runExt = runSuffix.substring(1)
 srcExt = srcSuffix.substring(1)
@@ -48,8 +69,8 @@ unencodedSPARQL = ""
 srcLines.each { String srcLine -> unencodedSPARQL += srcLine + "\n" }
 encodedSPARQL = java.net.URLEncoder.encode(unencodedSPARQL, "UTF-8")
 encodedSPARQL = encodedSPARQL.replace("+","%20");
-runURL = "https://query.wikidata.org/embed.html#" + encodedSPARQL
-editURL = "https://query.wikidata.org/#" + encodedSPARQL
+runURL = runPrefix + encodedSPARQL
+editURL = editPrefix + encodedSPARQL
 
 for (int type=0; type<mdTypes.size(); type++) {
   mdFile = runClass + "." + mdTypes.get(type) + ".md";

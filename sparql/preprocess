@@ -14,6 +14,14 @@ epFile = args[1]
 ep = new File(epFile).text.trim()
 sparql = new File(inFile).text
 
+if (ep == "wikidata") {
+  ep = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+} else if (ep == "wikipathways") {
+  ep = "https://sparql.wikipathways.org/sparql"
+} else if (ep == "chembl") {
+  ep = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql"
+}
+
 println "<!-- $ep -->"
 
 if (bioclipse.isOnline()) {
