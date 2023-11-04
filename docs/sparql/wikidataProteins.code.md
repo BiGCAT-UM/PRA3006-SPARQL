@@ -57,8 +57,8 @@ SELECT * WHERE {
     <td>Proliferating cell nuclear antigen</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q24190</td>
-    <td>Neurotrophin 3</td>
+    <td>http://www.wikidata.org/entity/Q92594</td>
+    <td>Opsin 4</td>
   </tr>
 </table>
 ## Code examples

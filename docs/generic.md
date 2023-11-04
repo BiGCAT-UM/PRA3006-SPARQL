@@ -24,28 +24,28 @@ When we run this on Wikidata, we get:
     <td><b>type</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P176</td>
+    <td>http://schema.org/Dataset</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P177</td>
+    <td>http://wikiba.se/ontology#GeoAutoPrecision</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P178</td>
+    <td>http://wikiba.se/ontology#Property</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P179</td>
+    <td>http://www.w3.org/ns/lemon/ontolex#LexicalSense</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P180</td>
+    <td>http://wikiba.se/ontology#BestRank</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P184</td>
+    <td>http://schema.org/Article</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P185</td>
+    <td>http://www.w3.org/2002/07/owl#Class</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P186</td>
+    <td>http://www.w3.org/2002/07/owl#DatatypeProperty</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/rdfType-1.code.html">sparql/rdfType-1.rq</a></td></tr>
 </table>
@@ -153,8 +153,8 @@ which gives:
     <td>Proliferating cell nuclear antigen</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q24190</td>
-    <td>Neurotrophin 3</td>
+    <td>http://www.wikidata.org/entity/Q92594</td>
+    <td>Opsin 4</td>
   </tr>
 </table>
 
