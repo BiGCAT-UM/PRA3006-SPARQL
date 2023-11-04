@@ -11,7 +11,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 PREFIX cco: <http://rdf.ebi.ac.uk/terms/chembl#>
 PREFIX chembl_molecule: <http://rdf.ebi.ac.uk/resource/chembl/molecule/>
-SELECT ?activityLabel ?assayType ?targetLabel ?uniprot
+SELECT ?activity ?activityLabel ?assayType ?target ?targetLabel ?uniprot
 WHERE {
 
   ?activity a cco:Activity ;
