@@ -20,6 +20,8 @@ if (ep == "wikidata") {
   ep = "https://sparql.wikipathways.org/sparql"
 } else if (ep == "chembl") {
   ep = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql"
+} else if (ep == "aopwiki") {
+  ep = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql"
 }
 
 println "<!-- $ep -->"
