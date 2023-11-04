@@ -1,10 +1,12 @@
-// Copyright (c) 2011-2019  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2011-2023  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
 // find all references to scripts
 //
 // it takes one optional argument, which is appended to the output
+
+import groovy.xml.XmlSlurper
 
 if (args.length == 0) {
   println "groovy findScripts.groovy <directory> [suffix]"
@@ -26,14 +28,18 @@ files.each { file ->
         end = line.indexOf("</sparql>")
         text = line.substring(start + 8, end)
         println "" + text + suffix
-      } else if (line.contains("<out>")) {
-        start = line.indexOf("<out>")
+      } else if (line.contains("<out")) {
+        start = line.indexOf("<out")
         end = line.indexOf("</out>")
-        text = line.substring(start + 5, end)
-        println "" + text + suffix
+        instructionText = line.substring(start, end+6)
+        def outInstruction = new XmlSlurper().parseText(instructionText)
+        outText = outInstruction.text()
+        if (!outText.isEmpty()) 
+          println "" + outText + suffix
       }
     } catch (Exception exception) {
       println "Error reading line: " + line
+      println "  " + exception.getMessage()
       System.exit(-1)
     }
   }
