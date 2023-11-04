@@ -8,7 +8,7 @@
 %SOURCECODE%
 ```
 
-[Execute](%RUNURL%) or [Edit](%EDITURL%)
+[Run](%RUNURL%) or [Edit](%EDITURL%)
 
 ### Output
 
@@ -19,7 +19,7 @@
 ### curl
 
 ```shell
-curl -o %STEM%.%EXT% https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/%STEM%.%EXT%
+curl -o %STEM%.%EXT% https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/%STEM%.%EXT%
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@%STEM%.%EXT%
 ```
 
