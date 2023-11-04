@@ -1,0 +1,22 @@
+PREFIX chembl: <http://rdf.ebi.ac.uk/terms/chembl#>
+PREFIX cco: <http://rdf.ebi.ac.uk/terms/chembl#>
+PREFIX chembl_molecule: <http://rdf.ebi.ac.uk/resource/chembl/molecule/>
+PREFIX chembl_target: <http://rdf.ebi.ac.uk/resource/chembl/target/>
+
+SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHERE {
+
+  ?assay  chembl:hasTarget chembl_target:CHEMBL204.
+  
+  ?activity chembl:hasAssay  ?assay.
+  ?assay cco:assayType ?assayType.
+  ?activity chembl:hasMolecule ?molecule .
+
+  chembl_target:CHEMBL204 rdfs:label ?targetLabel.
+  ?molecule rdfs:label ?molLabel.
+  ?assay  rdfs:label ?assayLabel.
+
+  VALUES ?bindingAffinityType {"Kd" "Ki" "IC50"}
+  ?activity chembl:type ?bindingAffinityType.
+  ?activity chembl:standardValue ?value.
+
+} limit 100
