@@ -1,5 +1,5 @@
 CODEFILES: \
- $(shell groovy ../findScripts.groovy .. .out)
+ $(shell groovy ../findScripts.groovy .. .out | sort | uniq )
 
 .PRECIOUS: %.java %.groovy
 
@@ -17,4 +17,4 @@ allScriptsCompiled: ${CODEFILES}
 %.out: %.rq %.ep
 	@echo "doing $@ ..."
 	groovy preprocess $^ > $@
-	groovy postprocess $<
+	groovy postprocess $^
