@@ -194,13 +194,13 @@ SELECT ?Source
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_9</td>
   </tr>
   <tr>
-    <td>1927410b28e44ea6ba570dbe88d2ff3a</td>
+    <td>159a5a109bed3d9e918584590913ca99</td>
   </tr>
   <tr>
-    <td>6362fec426568c3bdf3bef9609820bde</td>
+    <td>758a4fe06b1a484eda2de711a4473d37</td>
   </tr>
   <tr>
-    <td>58b80e74108dac23a82c2a3591b4ce5a</td>
+    <td>14687ed4fefe333b01f927abd81d7b40</td>
   </tr>
   <tr>
     <td>cco:hasSource</td>

@@ -117,6 +117,22 @@ which gives:
     <td><b>l</b></td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q409065</td>
+    <td>Uroporphyrinogen decarboxylase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409106</td>
+    <td>marker of proliferation Ki-67</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409114</td>
+    <td>Sex determining region Y</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409166</td>
+    <td>Coagulation factor II, thrombin</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q24190</td>
     <td>Neurotrophin 3</td>
   </tr>
@@ -139,22 +155,6 @@ which gives:
   <tr>
     <td>http://www.wikidata.org/entity/Q74581</td>
     <td>Growth differentiation factor 15</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q417867</td>
-    <td>Galanin and GMAP prepropeptide</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q418097</td>
-    <td>glucose-6-phosphate isomerase</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q418137</td>
-    <td>Hypoxanthine phosphoribosyltransferase 1</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q418404</td>
-    <td>C-C motif chemokine receptor 5</td>
   </tr>
 </table>
 
@@ -184,7 +184,16 @@ which gives:
     <td>http://www.wikidata.org/prop/direct/P352</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P352</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/direct/P361</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P486</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P486</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P527</td>
@@ -193,13 +202,13 @@ which gives:
     <td>http://www.wikidata.org/prop/direct/P638</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P637</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/direct/P637</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P646</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P652</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P682</td>
@@ -211,43 +220,34 @@ which gives:
     <td>http://www.wikidata.org/prop/direct/P681</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/direct/P692</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P702</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P703</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P705</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P2892</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P2888</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P6366</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P10283</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/P31</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P31</td>
-  </tr>
-  <tr>
-    <td>http://www.w3.org/2004/02/skos/core#altLabel</td>
-  </tr>
-  <tr>
-    <td>http://schema.org/version</td>
-  </tr>
-  <tr>
-    <td>http://schema.org/dateModified</td>
-  </tr>
-  <tr>
-    <td>http://schema.org/description</td>
-  </tr>
-  <tr>
-    <td>http://www.w3.org/2000/01/rdf-schema#label</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P231</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/P231</td>
-  </tr>
-  <tr>
-    <td>http://wikiba.se/ontology#statements</td>
-  </tr>
-  <tr>
-    <td>http://wikiba.se/ontology#sitelinks</td>
-  </tr>
-  <tr>
-    <td>http://wikiba.se/ontology#identifiers</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P352</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/wikidataProteinProperties.code.html">sparql/wikidataProteinProperties.rq</a></td></tr>
 </table>

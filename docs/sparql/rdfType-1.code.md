@@ -4594,9 +4594,6 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P10322</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P10332</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10338</td>
   </tr>
   <tr>

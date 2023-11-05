@@ -21,6 +21,22 @@ SELECT * WHERE {
     <td><b>l</b></td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q409065</td>
+    <td>Uroporphyrinogen decarboxylase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409106</td>
+    <td>marker of proliferation Ki-67</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409114</td>
+    <td>Sex determining region Y</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409166</td>
+    <td>Coagulation factor II, thrombin</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q24190</td>
     <td>Neurotrophin 3</td>
   </tr>
@@ -43,22 +59,6 @@ SELECT * WHERE {
   <tr>
     <td>http://www.wikidata.org/entity/Q74581</td>
     <td>Growth differentiation factor 15</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q417867</td>
-    <td>Galanin and GMAP prepropeptide</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q418097</td>
-    <td>glucose-6-phosphate isomerase</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q418137</td>
-    <td>Hypoxanthine phosphoribosyltransferase 1</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q418404</td>
-    <td>C-C motif chemokine receptor 5</td>
   </tr>
 </table>
 ## Code examples
