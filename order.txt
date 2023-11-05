@@ -1,6 +1,7 @@
 intro
-generic
 list
+entities
+generic
 aopwiki
 chembl
 wikidata
