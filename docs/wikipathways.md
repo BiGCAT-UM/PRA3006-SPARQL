@@ -1,5 +1,7 @@
 # WikiPathways
 
+| **License** | [CCZero](https://creativecommons.org/public-domain/cc0/) |
+
 <a name="tp1">WikiPathways</a> is a database with machine-readable models of <a name="tp2">biological process</a>es for human
 and multiple other species [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>].
 It comes with a SPARQL endpoint with a human-oriented interface at [sparql.wikipathways.org](https://sparql.wikipathways.org/) [<a href="#citeref3">3</a>].

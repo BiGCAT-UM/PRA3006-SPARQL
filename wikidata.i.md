@@ -1,7 +1,11 @@
 # Wikidata
 
+| **License** | [CCZero](https://creativecommons.org/public-domain/cc0/) |
+
 <topic>Wikidata</topic> is not a life sciences database, but a general database related to <topic>Wikipedia</topic> [<cite>Q118130164</cite>]. That said,
-various research groups have started using Wikidata for the life sciences [<cite>Q87830400</cite>,<cite>Q105037759</cite>].
+various research groups have started using Wikidata for the life sciences [<cite>Q87830400</cite>,<cite>Q105037759</cite>]. For example, CAS registry
+numbers in Wikidata and Wikipedia have been validated against the Common Chemistry database [<cite>Q111987319</cite>], and Wikidata has been used to make
+chemicals in taxon available in the LOTUS project [<cite>Q112143478</cite>].
 
 ## Entities
 

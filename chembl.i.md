@@ -1,5 +1,8 @@
 # ChEMBL
 
+| **Website** | [https://www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/) |
+| **License** | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
+
 <topic>ChEMBL</topic> is a manually curated database of bioactive
 molecules with drug-like properties [<cite>Q27144224</cite>,<cite>Q27062334</cite>].
 It brings together chemical, bioactivity and genomic data to aid the translation of
