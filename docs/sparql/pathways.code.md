@@ -1,4 +1,7 @@
 # pathways.rq
+| **Database** | WikiPathways |
+| **SPARQl endpoint** | [https://sparql.wikipathways.org/sparql](https://sparql.wikipathways.org/sparql) |
+| **License** | CCZero |
 **Code examples:** [curl](#curl)
 ### SPARQL
 ```sparql
@@ -9996,6 +9999,6 @@ WHERE {
 ### curl
 ```shell
 curl -o pathways.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/pathways.rq
-curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@pathways.rq
+curl -H "Accept: text/tab-separated-values" -G https://sparql.wikipathways.org/sparql --data-urlencode query@pathways.rq
 ```
 This SPARQL query is available under CCZero.

@@ -1,4 +1,7 @@
 # keyeventCount.rq
+| **Database** | AOP-Wiki |
+| **SPARQl endpoint** | [https://aopwiki.rdf.bigcat-bioinformatics.org/sparql](https://aopwiki.rdf.bigcat-bioinformatics.org/sparql) |
+| **License** | Ask Marvin |
 **Code examples:** [curl](#curl)
 ### SPARQL
 ```sparql
@@ -24,6 +27,6 @@ WHERE {
 ### curl
 ```shell
 curl -o keyeventCount.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/keyeventCount.rq
-curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@keyeventCount.rq
+curl -H "Accept: text/tab-separated-values" -G https://aopwiki.rdf.bigcat-bioinformatics.org/sparql --data-urlencode query@keyeventCount.rq
 ```
 This SPARQL query is available under CCZero.

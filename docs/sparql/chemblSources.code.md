@@ -1,4 +1,7 @@
 # chemblSources.rq
+| **Database** | ChEMBL |
+| **SPARQl endpoint** | [https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql](https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql) |
+| **License** | CC-BY-SA 3.0 Unported |
 **Code examples:** [curl](#curl)
 ### SPARQL
 ```sparql
@@ -194,13 +197,13 @@ SELECT ?Source
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_9</td>
   </tr>
   <tr>
-    <td>159a5a109bed3d9e918584590913ca99</td>
+    <td>bc7f8c6424766d1ed3d2f24a7639919d</td>
   </tr>
   <tr>
-    <td>758a4fe06b1a484eda2de711a4473d37</td>
+    <td>68498b8243923adff6e7a49ea07ca0cb</td>
   </tr>
   <tr>
-    <td>14687ed4fefe333b01f927abd81d7b40</td>
+    <td>97c30907cc1ba5d26bf24d2436569f79</td>
   </tr>
   <tr>
     <td>cco:hasSource</td>
@@ -210,6 +213,6 @@ SELECT ?Source
 ### curl
 ```shell
 curl -o chemblSources.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/chemblSources.rq
-curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@chemblSources.rq
+curl -H "Accept: text/tab-separated-values" -G https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql --data-urlencode query@chemblSources.rq
 ```
 This SPARQL query is available under CCZero.

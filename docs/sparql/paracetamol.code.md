@@ -1,4 +1,7 @@
 # paracetamol.rq
+| **Database** | ChEMBL |
+| **SPARQl endpoint** | [https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql](https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql) |
+| **License** | CC-BY-SA 3.0 Unported |
 **Code examples:** [curl](#curl)
 ### SPARQL
 ```sparql
@@ -61,6 +64,6 @@ WHERE {
 ### curl
 ```shell
 curl -o paracetamol.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/paracetamol.rq
-curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@paracetamol.rq
+curl -H "Accept: text/tab-separated-values" -G https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql --data-urlencode query@paracetamol.rq
 ```
 This SPARQL query is available under CCZero.

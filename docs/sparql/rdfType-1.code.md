@@ -1,4 +1,7 @@
 # rdfType-1.rq
+| **Database** | Wikidata |
+| **SPARQl endpoint** | [https://query.wikidata.org/bigdata/namespace/wdq/sparql](https://query.wikidata.org/bigdata/namespace/wdq/sparql) |
+| **License** | CCZero |
 **Code examples:** [curl](#curl)
 ### SPARQL
 ```sparql

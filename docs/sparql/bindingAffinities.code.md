@@ -1,4 +1,7 @@
 # bindingAffinities.rq
+| **Database** | ChEMBL |
+| **SPARQl endpoint** | [https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql](https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql) |
+| **License** | CC-BY-SA 3.0 Unported |
 **Code examples:** [curl](#curl)
 ### SPARQL
 ```sparql
@@ -541,6 +544,6 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
 ### curl
 ```shell
 curl -o bindingAffinities.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/bindingAffinities.rq
-curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@bindingAffinities.rq
+curl -H "Accept: text/tab-separated-values" -G https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql --data-urlencode query@bindingAffinities.rq
 ```
 This SPARQL query is available under CCZero.

@@ -1,4 +1,7 @@
 # wikidataChemicals.rq
+| **Database** | Wikidata |
+| **SPARQl endpoint** | [https://query.wikidata.org/bigdata/namespace/wdq/sparql](https://query.wikidata.org/bigdata/namespace/wdq/sparql) |
+| **License** | CCZero |
 **Code examples:** [curl](#curl)
 ### SPARQL
 ```sparql
@@ -21,10 +24,6 @@ SELECT * WHERE {
     <td><b>l</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q153</td>
-    <td>ethanol</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q50703</td>
     <td>cesium iodide</td>
   </tr>
@@ -37,6 +36,10 @@ SELECT * WHERE {
     <td>benzyl alcohol</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q153</td>
+    <td>ethanol</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q150681</td>
     <td>octane</td>
   </tr>
@@ -45,64 +48,64 @@ SELECT * WHERE {
     <td>nonane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150717</td>
-    <td>decane</td>
+    <td>http://www.wikidata.org/entity/Q116073</td>
+    <td>disilane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150731</td>
-    <td>undecane</td>
+    <td>http://www.wikidata.org/entity/Q116163</td>
+    <td>ethyl sulfate</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150831</td>
-    <td>pentadecane</td>
+    <td>http://www.wikidata.org/entity/Q116269</td>
+    <td>silicon dioxide</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150843</td>
-    <td>hexadecane</td>
+    <td>http://www.wikidata.org/entity/Q1997</td>
+    <td>carbon dioxide</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150888</td>
-    <td>heptadecane</td>
+    <td>http://www.wikidata.org/entity/Q161498</td>
+    <td>1,3-propanediamine</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150900</td>
-    <td>octadecane</td>
+    <td>http://www.wikidata.org/entity/Q161503</td>
+    <td>1,3-butadiene</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q283</td>
-    <td>water</td>
+    <td>http://www.wikidata.org/entity/Q161505</td>
+    <td>1,3-diiodopropane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150911</td>
-    <td>nonadecane</td>
+    <td>http://www.wikidata.org/entity/Q161506</td>
+    <td>trimethylene carbonate</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150925</td>
-    <td>icosane</td>
+    <td>http://www.wikidata.org/entity/Q161507</td>
+    <td>(1E)-1,3-dichloropropene</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150955</td>
-    <td>heneicosane</td>
+    <td>http://www.wikidata.org/entity/Q161510</td>
+    <td>1,3-indandione</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150968</td>
-    <td>docosane</td>
+    <td>http://www.wikidata.org/entity/Q117422</td>
+    <td>glycol salicylate</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150977</td>
-    <td>tricosane</td>
+    <td>http://www.wikidata.org/entity/Q118033</td>
+    <td>cycloundecane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q2270</td>
-    <td>benzene</td>
+    <td>http://www.wikidata.org/entity/Q118040</td>
+    <td>cyclododecane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q52822</td>
-    <td>2,3,7,8-tetrachlorodibenzo-p-dioxin</td>
+    <td>http://www.wikidata.org/entity/Q118551</td>
+    <td>clarithromycin</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q52858</td>
-    <td>ethane</td>
+    <td>http://www.wikidata.org/entity/Q118815</td>
+    <td>cyclodecane</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q161557</td>
@@ -133,92 +136,92 @@ SELECT * WHERE {
     <td>eucalyptol</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q58221</td>
-    <td>myristoleic acid</td>
+    <td>http://www.wikidata.org/entity/Q2025</td>
+    <td>carbon monoxide</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q58356</td>
-    <td>amoxapine</td>
+    <td>http://www.wikidata.org/entity/Q283</td>
+    <td>water</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q58375</td>
-    <td>thioridazine</td>
+    <td>http://www.wikidata.org/entity/Q2270</td>
+    <td>benzene</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q58376</td>
-    <td>fluphenazine</td>
+    <td>http://www.wikidata.org/entity/Q150831</td>
+    <td>pentadecane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q58396</td>
-    <td>imipramine</td>
+    <td>http://www.wikidata.org/entity/Q150843</td>
+    <td>hexadecane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q116073</td>
-    <td>disilane</td>
+    <td>http://www.wikidata.org/entity/Q150888</td>
+    <td>heptadecane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q116163</td>
-    <td>ethyl sulfate</td>
+    <td>http://www.wikidata.org/entity/Q150900</td>
+    <td>octadecane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q116269</td>
-    <td>silicon dioxide</td>
+    <td>http://www.wikidata.org/entity/Q52822</td>
+    <td>2,3,7,8-tetrachlorodibenzo-p-dioxin</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q58397</td>
-    <td>amitriptyline</td>
+    <td>http://www.wikidata.org/entity/Q52858</td>
+    <td>ethane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q58447</td>
-    <td>hydrazine</td>
+    <td>http://www.wikidata.org/entity/Q121802</td>
+    <td>beta-sitosterol</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161498</td>
-    <td>1,3-propanediamine</td>
+    <td>http://www.wikidata.org/entity/Q121874</td>
+    <td>potassium iodide</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161503</td>
-    <td>1,3-butadiene</td>
+    <td>http://www.wikidata.org/entity/Q121881</td>
+    <td>cobalt(III) oxide</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161505</td>
-    <td>1,3-diiodopropane</td>
+    <td>http://www.wikidata.org/entity/Q122043</td>
+    <td>keto-D-fructose</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161506</td>
-    <td>trimethylene carbonate</td>
+    <td>http://www.wikidata.org/entity/Q57054</td>
+    <td>i-urobilinogen</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161507</td>
-    <td>(1E)-1,3-dichloropropene</td>
+    <td>http://www.wikidata.org/entity/Q57055</td>
+    <td>paracetamol</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161510</td>
-    <td>1,3-indandione</td>
+    <td>http://www.wikidata.org/entity/Q150717</td>
+    <td>decane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q59712</td>
-    <td>stibine</td>
+    <td>http://www.wikidata.org/entity/Q150731</td>
+    <td>undecane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q59714</td>
-    <td>zinc phosphate</td>
+    <td>http://www.wikidata.org/entity/Q150988</td>
+    <td>tetracosane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q60154</td>
-    <td>mercury(I) iodide</td>
+    <td>http://www.wikidata.org/entity/Q151007</td>
+    <td>pentacosane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161514</td>
-    <td>1,3-propanediol</td>
+    <td>http://www.wikidata.org/entity/Q151016</td>
+    <td>hexacosane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161515</td>
-    <td>tetraxetan</td>
+    <td>http://www.wikidata.org/entity/Q151028</td>
+    <td>heptacosane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q161516</td>
-    <td>1,4-bis(2-methylstyryl)benzene</td>
+    <td>http://www.wikidata.org/entity/Q151038</td>
+    <td>nonacosane</td>
   </tr>
 </table>
 ## Code examples
