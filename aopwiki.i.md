@@ -47,12 +47,11 @@ query will get wider, so you might need to scroll to the right.
 This exercise is about creating simple SPARQL queries that count particular types of subjects in the
 RDF. See the example SPARQL query below that counts the number of Key Events in the RDF.
 
-```sparql
-SELECT (count (?KE) as ?nKE) 
-WHERE {
-  ?KE a aopo:KeyEvent .
-}
-```
+<sparql>keyeventCount</sparql>
+
+Which returns:
+
+<out>keyeventCount</out>
 
 ## References
 

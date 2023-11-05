@@ -1,0 +1,5 @@
+SELECT ?pathwaytitle WHERE{
+    ?pathway a wp:Pathway .
+    ?pathway dc:title ?pathwaytitle .
+    ?pathway dcterms:identifier "WP4868"^^xsd:string .
+}

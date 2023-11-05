@@ -62,12 +62,26 @@ WHERE {
 This exercise is about creating simple SPARQL queries that count particular types of subjects in the
 RDF. See the example SPARQL query below that counts the number of Key Events in the RDF.
 
+**SPARQL** [sparql/keyeventCount.rq](sparql/keyeventCount.code.html) ([run](https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/?query=SELECT%20%28count%20%28%3FKE%29%20as%20%3FnKE%29%20%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%7D%0A), [edit](https://aopwiki.rdf.bigcat-bioinformatics.org/?q=SELECT%20%28count%20%28%3FKE%29%20as%20%3FnKE%29%20%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%7D%0A))
+
 ```sparql
 SELECT (count (?KE) as ?nKE) 
 WHERE {
   ?KE a aopo:KeyEvent .
 }
 ```
+
+Which returns:
+
+<!-- https://aopwiki.rdf.bigcat-bioinformatics.org/sparql -->
+<table>
+  <tr>
+    <td><b>nKE</b></td>
+  </tr>
+  <tr>
+    <td>1371</td>
+  </tr>
+</table>
 
 ## References
 

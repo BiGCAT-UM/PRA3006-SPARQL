@@ -42,6 +42,8 @@ The simplest SPARQL queries to explore RDF is to retrieve full lists of subjects
 frequently defined with the predicate `rdfs:type` or `a` which can be used interchangably. See the below example
 of listing all pathways.
 
+**SPARQL** [sparql/pathways.rq](sparql/pathways.code.html) ([run](https://sparql.wikipathways.org/sparql/?query=SELECT%20%3Fpathway%20%0AWHERE%20%7B%0A%3Fpathway%20a%20wp%3APathway%20.%0A%7D%0A), [edit](https://sparql.wikipathways.org/?q=SELECT%20%3Fpathway%20%0AWHERE%20%7B%0A%3Fpathway%20a%20wp%3APathway%20.%0A%7D%0A))
+
 ```sparql
 SELECT ?pathway 
 WHERE {
@@ -49,12 +51,33 @@ WHERE {
 }
 ```
 
+The list is long and this is the first five:
+
+<!-- https://sparql.wikipathways.org/sparql -->
+<table>
+  <tr>
+    <td><b>pathway</b></td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-373076</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-5694530</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-73929</td>
+  </tr>
+  <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/pathways.code.html">sparql/pathways.rq</a></td></tr>
+</table>
+
 ### Asking information for a specific pathway
 
 With this exercise, the RDF will be explored a little more extensively. By combining statements in the RDF query,
 we can link multiple subjects and filter for content that we want to get back from the service. Important: when
 filtering for a literal (gene label, organism, etc.) the literal should have the following format: 
 `"text"^^xsd:string`. For example, the next query returns the title for pathway with ID `WP4846`:
+
+**SPARQL** [sparql/pathwayWP4846.rq](sparql/pathwayWP4846.code.html) ([run](https://sparql.wikipathways.org/sparql/?query=SELECT%20%3Fpathwaytitle%20WHERE%7B%0A%20%20%20%20%3Fpathway%20a%20wp%3APathway%20.%0A%20%20%20%20%3Fpathway%20dc%3Atitle%20%3Fpathwaytitle%20.%0A%20%20%20%20%3Fpathway%20dcterms%3Aidentifier%20%22WP4868%22%5E%5Exsd%3Astring%20.%0A%7D%0A), [edit](https://sparql.wikipathways.org/?q=SELECT%20%3Fpathwaytitle%20WHERE%7B%0A%20%20%20%20%3Fpathway%20a%20wp%3APathway%20.%0A%20%20%20%20%3Fpathway%20dc%3Atitle%20%3Fpathwaytitle%20.%0A%20%20%20%20%3Fpathway%20dcterms%3Aidentifier%20%22WP4868%22%5E%5Exsd%3Astring%20.%0A%7D%0A))
 
 ```sparql
 SELECT ?pathwaytitle WHERE{
@@ -64,6 +87,13 @@ SELECT ?pathwaytitle WHERE{
 }
 ```
 
+Which returns the following title:
+
+<!-- https://sparql.wikipathways.org/sparql -->
+<table>
+  <tr>
+  </tr>
+</table>
 
 ### A lipid pathway
 

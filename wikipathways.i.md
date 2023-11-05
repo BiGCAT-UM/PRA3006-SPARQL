@@ -42,12 +42,11 @@ The simplest SPARQL queries to explore RDF is to retrieve full lists of subjects
 frequently defined with the predicate `rdfs:type` or `a` which can be used interchangably. See the below example
 of listing all pathways.
 
-```sparql
-SELECT ?pathway 
-WHERE {
-?pathway a wp:Pathway .
-}
-```
+<sparql>pathways</sparql>
+
+The list is long and this is the first five:
+
+<out limit="5">pathways</out>
 
 ### Asking information for a specific pathway
 
@@ -56,14 +55,11 @@ we can link multiple subjects and filter for content that we want to get back fr
 filtering for a literal (gene label, organism, etc.) the literal should have the following format: 
 `"text"^^xsd:string`. For example, the next query returns the title for pathway with ID `WP4846`:
 
-```sparql
-SELECT ?pathwaytitle WHERE{
-    ?pathway a wp:Pathway .
-    ?pathway dc:title ?pathwaytitle .
-    ?pathway dcterms:identifier "WP4868"^^xsd:string .
-}
-```
+<sparql>pathwayWP4846</sparql>
 
+Which returns the following title:
+
+<out>pathwayWP4846</out>
 
 ### A lipid pathway
 
