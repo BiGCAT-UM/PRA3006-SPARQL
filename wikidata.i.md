@@ -21,7 +21,25 @@ and more. The main classes are:
 
 ## Example queries
 
-...
+### Proteins
+
+We can list proteins with the following query:
+
+<sparql>wikidataProteins</sparql>
+
+which gives:
+
+<out>wikidataProteins</out>
+
+### Chemicals
+
+We can also list chemicals, with this query:
+
+<sparql>wikidataChemicals</sparql>
+
+which gives:
+
+<out limit="10">wikidataChemicals</out>
 
 ## References
 

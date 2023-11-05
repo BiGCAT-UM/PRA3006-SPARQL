@@ -41,6 +41,8 @@ Wishes, comments, and pull requests can be send to
 6.1. [Entities](wikidata.md#entities) <br />
 6.2. [Data model](wikidata.md#data-model) <br />
 6.3. [Example queries](wikidata.md#example-queries) <br />
+6.3.1. [Proteins](wikidata.md#proteins) <br />
+6.3.2. [Chemicals](wikidata.md#chemicals) <br />
 7. [WikiPathways](wikipathways.md) <br />
 7.1. [Entities](wikipathways.md#entities) <br />
 7.2. [Data model](wikipathways.md#data-model) <br />

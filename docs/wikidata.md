@@ -21,7 +21,128 @@ and more. The main classes are:
 
 ## Example queries
 
-...
+### Proteins
+
+We can list proteins with the following query:
+
+**SPARQL** [sparql/wikidataProteins.rq](sparql/wikidataProteins.code.html) ([run](https://query.wikidata.org/embed.html#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20*%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ8054.%0A%20%20%3Fo%20rdfs%3Alabel%20%3Fl.%0A%20%20FILTER%28LANG%28%3Fl%29%3D%27en%27%29%0A%7D%20LIMIT%2010%0A), [edit](https://query.wikidata.org/#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20*%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ8054.%0A%20%20%3Fo%20rdfs%3Alabel%20%3Fl.%0A%20%20FILTER%28LANG%28%3Fl%29%3D%27en%27%29%0A%7D%20LIMIT%2010%0A))
+
+```sparql
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT * WHERE {
+  ?o wdt:P31 wd:Q8054.
+  ?o rdfs:label ?l.
+  FILTER(LANG(?l)='en')
+} LIMIT 10
+```
+
+which gives:
+
+<!-- https://query.wikidata.org/bigdata/namespace/wdq/sparql -->
+<table>
+  <tr>
+    <td><b>o</b></td>
+    <td><b>l</b></td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409065</td>
+    <td>Uroporphyrinogen decarboxylase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409106</td>
+    <td>marker of proliferation Ki-67</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409114</td>
+    <td>Sex determining region Y</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q409166</td>
+    <td>Coagulation factor II, thrombin</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q24190</td>
+    <td>Neurotrophin 3</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q30530</td>
+    <td>Histidine ammonia-lyase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q58321</td>
+    <td>protein kinase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q63398</td>
+    <td>Chromogranin B</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q74314</td>
+    <td>Titin</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q74581</td>
+    <td>Growth differentiation factor 15</td>
+  </tr>
+</table>
+
+### Chemicals
+
+We can also list chemicals, with this query:
+
+**SPARQL** [sparql/wikidataChemicals.rq](sparql/wikidataChemicals.code.html) ([run](https://query.wikidata.org/embed.html#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20*%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ113145171%20.%0A%20%20%3Fo%20rdfs%3Alabel%20%3Fl.%0A%20%20FILTER%28LANG%28%3Fl%29%3D%27en%27%29%0A%7D%20LIMIT%2050%0A), [edit](https://query.wikidata.org/#PREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20*%20WHERE%20%7B%0A%20%20%3Fo%20wdt%3AP31%20wd%3AQ113145171%20.%0A%20%20%3Fo%20rdfs%3Alabel%20%3Fl.%0A%20%20FILTER%28LANG%28%3Fl%29%3D%27en%27%29%0A%7D%20LIMIT%2050%0A))
+
+```sparql
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT * WHERE {
+  ?o wdt:P31 wd:Q113145171 .
+  ?o rdfs:label ?l.
+  FILTER(LANG(?l)='en')
+} LIMIT 50
+```
+
+which gives:
+
+<!-- https://query.wikidata.org/bigdata/namespace/wdq/sparql -->
+<table>
+  <tr>
+    <td><b>o</b></td>
+    <td><b>l</b></td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q153</td>
+    <td>ethanol</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q50703</td>
+    <td>cesium iodide</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q50980</td>
+    <td>xanthine</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q52353</td>
+    <td>benzyl alcohol</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q150681</td>
+    <td>octane</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q150694</td>
+    <td>nonane</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q150717</td>
+    <td>decane</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q150731</td>
+    <td>undecane</td>
+  </tr>
+  <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/wikidataChemicals.code.html">sparql/wikidataChemicals.rq</a></td></tr>
+</table>
 
 ## References
 
