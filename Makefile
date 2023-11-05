@@ -1,13 +1,10 @@
-SOURCES := intro.i.md index.i.md wikidata.i.md wikipathways.i.md list.i.md \
-           generic.i.md aopwiki.i.md chembl.i.md
-TARGETS := intro.md indexList.md wikidata.md wikipathways.md list.md \
-           generic.md aopwiki.md chembl.md
+SOURCES := index.i.md ${shell cat order.txt | sed -e 's/\(.*\)/\1.i.md/' }
+TARGETS := docs/intro.md ${shell cat order.txt | sed -e 's/\(.*\)/docs\/\1.md/' }
 METAS := references.dat toc.txt indexList.i.md sections.txt
 
 SUBDIRS := sparql
 
 all: ${SUBDIRS} ${METAS} ${TARGETS} index.md
-	@mv ${TARGETS} docs/
 	@cp sparql/*.code.md docs/sparql/
 
 sections.txt: order.txt ${SOURCES}
