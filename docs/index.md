@@ -23,11 +23,8 @@ Wishes, comments, and pull requests can be send to
 3. [Biology](entities.md) <br />
 3.1. [Biological entities](entities.md#biological-entities) <br />
 3.1.1. [Genes](entities.md#genes) <br />
-3.1.2. [Transcripts](entities.md#transcripts) <br />
-3.1.3. [Proteins](entities.md#proteins) <br />
-3.1.4. [Small compounds](entities.md#small-compounds) <br />
-3.2. [Other](entities.md#other) <br />
-3.2.1. [Biological assay](entities.md#biological-assay) <br />
+3.1.2. [Proteins](entities.md#proteins) <br />
+3.1.3. [Small compounds](entities.md#small-compounds) <br />
 4. [Generic queries](generic.md) <br />
 4.1. [Listing all classess](generic.md#listing-all-classess) <br />
 4.2. [Listing all items of some class](generic.md#listing-all-items-of-some-class) <br />

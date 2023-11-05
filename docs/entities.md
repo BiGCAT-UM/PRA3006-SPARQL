@@ -9,27 +9,24 @@ but actually have a different model.
 
 ### Genes
 
-| | **Example** | **Databases** |
-| **Concept**  | The concept `cancer gene` refers to something abstract. | Wikipedia |
-|              | The human gene `BRCA1`. | |
-| **Sequence** | A specific nucleotide sequence of the human `BRCA1` gene. | NCBI RefSeq |
-
-### Transcripts
+| | **Example** | **Databases** | **Represetation** |
+| **Concept**  | The concept `cancer gene` refers to something abstract. | Wikipedia | name |
+|              | The human gene `BRCA1`. | | name, identifier |
+| **Sequence** | A specific nucleotide sequence of the human `BRCA1` gene. | NCBI RefSeq | nucleotide sequence |
 
 ### Proteins
 
-| | **Example** | **Databases** |
-| **Concept**  | The concept `enzyme` refers to something abstract. | Wikipedia |
-|              | The human protein. | |
-| **Sequence** | A specific amino acid sequence of the human `BRCA1` gene. | UniProt |
+| | **Example** | **Databases** | **Represetation** |
+| **Concept**  | The concept `enzyme` refers to something abstract. | Wikipedia | name |
+|              | The human protein. | | name |
+| **Sequence** | A specific amino acid sequence of the human `BRCA1` gene. | UniProt | amino acid sequence  |
+| **Protein structure** | A crystal structure of a protein. | PDB | 3D coordinate model |
 
 ### Small compounds
 
-| | **Example** | **Databases** |
-| **Concept**  | The concept `glucose`. | Wikipedia |
-| **A chemical structure** | The chemical structure of the neutral `formaldehyde`. | [Wikidata](wikidata.md) |
-| **A specific chemical** | Deprotonated `acetic acid`. | ChEBI |
+| | **Example** | **Databases** | **Represetation** |
+| **Concept**  | The concept `glucose`. | Wikipedia | name |
+| **A chemical structure** | The chemical structure of the neutral `formaldehyde`. | [Wikidata](wikidata.md) | chemical graph |
+| **A chemical structure** | `Deprotonated acetic acid` or `heavy water`. | ChEBI | chemical graph |
 
-## Other
 
-### Biological assay
