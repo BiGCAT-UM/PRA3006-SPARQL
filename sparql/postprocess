@@ -133,6 +133,9 @@ for (int type=0; type<mdTypes.size(); type++) {
         line = line + "\n";
       }
       mdWriter.write(line);
+    } else {
+      // preserve newlines
+      mdWriter.write("\n");
     }
     line = template.readLine();
   }

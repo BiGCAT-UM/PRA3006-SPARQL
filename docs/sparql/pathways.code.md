@@ -1,19 +1,26 @@
 # pathways.rq
+
 | **Database** | WikiPathways |
 | **SPARQl endpoint** | [https://sparql.wikipathways.org/sparql](https://sparql.wikipathways.org/sparql) |
 | **License** | CCZero |
+
 **Code examples:** [curl](#curl)
+
 ### SPARQL
+
 ```sparql
 SELECT ?pathway 
 WHERE {
 ?pathway a wp:Pathway .
 }
 ```
+
 [Run](https://sparql.wikipathways.org/sparql/?query=SELECT%20%3Fpathway%20%0AWHERE%20%7B%0A%3Fpathway%20a%20wp%3APathway%20.%0A%7D%0A) or [Edit](https://sparql.wikipathways.org/?q=SELECT%20%3Fpathway%20%0AWHERE%20%7B%0A%3Fpathway%20a%20wp%3APathway%20.%0A%7D%0A)
 
 
+
 ### Output
+
 <!-- https://sparql.wikipathways.org/sparql -->
 <table>
   <tr>
@@ -9995,10 +10002,14 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP696_r106311</td>
   </tr>
 </table>
+
 ## Code examples
+
 ### curl
+
 ```shell
 curl -o pathways.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/pathways.rq
 curl -H "Accept: text/tab-separated-values" -G https://sparql.wikipathways.org/sparql --data-urlencode query@pathways.rq
 ```
+
 This SPARQL query is available under CCZero.

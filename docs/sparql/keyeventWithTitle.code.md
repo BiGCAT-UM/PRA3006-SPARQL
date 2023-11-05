@@ -1,9 +1,13 @@
 # keyeventWithTitle.rq
+
 | **Database** | AOP-Wiki |
 | **SPARQl endpoint** | [https://aopwiki.rdf.bigcat-bioinformatics.org/sparql](https://aopwiki.rdf.bigcat-bioinformatics.org/sparql) |
 | **License** | Ask Marvin |
+
 **Code examples:** [curl](#curl)
+
 ### SPARQL
+
 ```sparql
 SELECT ?KE ?KEtitle
 WHERE {
@@ -11,10 +15,13 @@ WHERE {
   ?KE dc:title ?KEtitle .
 }
 ```
+
 [Run](https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/?query=SELECT%20%3FKE%20%3FKEtitle%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%20%20%3FKE%20dc%3Atitle%20%3FKEtitle%20.%0A%7D%0A) or [Edit](https://aopwiki.rdf.bigcat-bioinformatics.org/?q=SELECT%20%3FKE%20%3FKEtitle%0AWHERE%20%7B%0A%20%20%3FKE%20a%20aopo%3AKeyEvent%20.%0A%20%20%3FKE%20dc%3Atitle%20%3FKEtitle%20.%0A%7D%0A)
 
 
+
 ### Output
+
 <!-- https://aopwiki.rdf.bigcat-bioinformatics.org/sparql -->
 <table>
   <tr>
@@ -5506,10 +5513,14 @@ WHERE {
     <td>Increased pro-inflammatory cytokine expression</td>
   </tr>
 </table>
+
 ## Code examples
+
 ### curl
+
 ```shell
 curl -o keyeventWithTitle.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/keyeventWithTitle.rq
 curl -H "Accept: text/tab-separated-values" -G https://aopwiki.rdf.bigcat-bioinformatics.org/sparql --data-urlencode query@keyeventWithTitle.rq
 ```
+
 This SPARQL query is available under CCZero.

@@ -1,18 +1,25 @@
 # rdfType-2.rq
+
 | **Database** | WikiPathways |
 | **SPARQl endpoint** | [https://sparql.wikipathways.org/sparql](https://sparql.wikipathways.org/sparql) |
 | **License** | CCZero |
+
 **Code examples:** [curl](#curl)
+
 ### SPARQL
+
 ```sparql
 SELECT DISTINCT ?type WHERE {
   [] a ?type .
 }
 ```
+
 [Run](https://sparql.wikipathways.org/sparql/?query=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A) or [Edit](https://sparql.wikipathways.org/?q=SELECT%20DISTINCT%20%3Ftype%20WHERE%20%7B%0A%20%20%5B%5D%20a%20%3Ftype%20.%0A%7D%0A)
 
 
+
 ### Output
+
 <!-- https://sparql.wikipathways.org/sparql -->
 <table>
   <tr>
@@ -193,10 +200,14 @@ SELECT DISTINCT ?type WHERE {
     <td>http://xmlns.com/foaf/0.1/Person</td>
   </tr>
 </table>
+
 ## Code examples
+
 ### curl
+
 ```shell
 curl -o rdfType-2.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/rdfType-2.rq
 curl -H "Accept: text/tab-separated-values" -G https://sparql.wikipathways.org/sparql --data-urlencode query@rdfType-2.rq
 ```
+
 This SPARQL query is available under CCZero.

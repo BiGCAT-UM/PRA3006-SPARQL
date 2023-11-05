@@ -1,9 +1,13 @@
 # bindingAffinities.rq
+
 | **Database** | ChEMBL |
 | **SPARQl endpoint** | [https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql](https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql) |
 | **License** | CC-BY-SA 3.0 Unported |
+
 **Code examples:** [curl](#curl)
+
 ### SPARQL
+
 ```sparql
 PREFIX chembl: <http://rdf.ebi.ac.uk/terms/chembl#>
 PREFIX cco: <http://rdf.ebi.ac.uk/terms/chembl#>
@@ -28,10 +32,13 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
 
 } limit 100
 ```
+
 [Run](https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql/?query=PREFIX%20chembl%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fterms%2Fchembl%23%3E%0APREFIX%20cco%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fterms%2Fchembl%23%3E%0APREFIX%20chembl_molecule%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fresource%2Fchembl%2Fmolecule%2F%3E%0APREFIX%20chembl_target%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fresource%2Fchembl%2Ftarget%2F%3E%0A%0ASELECT%20distinct%20%3FassayLabel%20%3FassayType%20%3FmolLabel%20%3FbindingAffinityType%20%3Fvalue%20WHERE%20%7B%0A%0A%20%20%3Fassay%20%20chembl%3AhasTarget%20chembl_target%3ACHEMBL204.%0A%20%20%0A%20%20%3Factivity%20chembl%3AhasAssay%20%20%3Fassay.%0A%20%20%3Fassay%20cco%3AassayType%20%3FassayType.%0A%20%20%3Factivity%20chembl%3AhasMolecule%20%3Fmolecule%20.%0A%0A%20%20chembl_target%3ACHEMBL204%20rdfs%3Alabel%20%3FtargetLabel.%0A%20%20%3Fmolecule%20rdfs%3Alabel%20%3FmolLabel.%0A%20%20%3Fassay%20%20rdfs%3Alabel%20%3FassayLabel.%0A%0A%20%20VALUES%20%3FbindingAffinityType%20%7B%22Kd%22%20%22Ki%22%20%22IC50%22%7D%0A%20%20%3Factivity%20chembl%3Atype%20%3FbindingAffinityType.%0A%20%20%3Factivity%20chembl%3AstandardValue%20%3Fvalue.%0A%0A%7D%20limit%20100%0A) or [Edit](https://chemblmirror.rdf.bigcat-bioinformatics.org/?q=PREFIX%20chembl%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fterms%2Fchembl%23%3E%0APREFIX%20cco%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fterms%2Fchembl%23%3E%0APREFIX%20chembl_molecule%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fresource%2Fchembl%2Fmolecule%2F%3E%0APREFIX%20chembl_target%3A%20%3Chttp%3A%2F%2Frdf.ebi.ac.uk%2Fresource%2Fchembl%2Ftarget%2F%3E%0A%0ASELECT%20distinct%20%3FassayLabel%20%3FassayType%20%3FmolLabel%20%3FbindingAffinityType%20%3Fvalue%20WHERE%20%7B%0A%0A%20%20%3Fassay%20%20chembl%3AhasTarget%20chembl_target%3ACHEMBL204.%0A%20%20%0A%20%20%3Factivity%20chembl%3AhasAssay%20%20%3Fassay.%0A%20%20%3Fassay%20cco%3AassayType%20%3FassayType.%0A%20%20%3Factivity%20chembl%3AhasMolecule%20%3Fmolecule%20.%0A%0A%20%20chembl_target%3ACHEMBL204%20rdfs%3Alabel%20%3FtargetLabel.%0A%20%20%3Fmolecule%20rdfs%3Alabel%20%3FmolLabel.%0A%20%20%3Fassay%20%20rdfs%3Alabel%20%3FassayLabel.%0A%0A%20%20VALUES%20%3FbindingAffinityType%20%7B%22Kd%22%20%22Ki%22%20%22IC50%22%7D%0A%20%20%3Factivity%20chembl%3Atype%20%3FbindingAffinityType.%0A%20%20%3Factivity%20chembl%3AstandardValue%20%3Fvalue.%0A%0A%7D%20limit%20100%0A)
 
 
+
 ### Output
+
 <!-- https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql -->
 <table>
   <tr>
@@ -540,10 +547,14 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
     <td>130.0</td>
   </tr>
 </table>
+
 ## Code examples
+
 ### curl
+
 ```shell
 curl -o bindingAffinities.rq https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/bindingAffinities.rq
 curl -H "Accept: text/tab-separated-values" -G https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql --data-urlencode query@bindingAffinities.rq
 ```
+
 This SPARQL query is available under CCZero.
