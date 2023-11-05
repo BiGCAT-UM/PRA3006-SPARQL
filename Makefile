@@ -4,7 +4,7 @@ METAS := references.dat toc.txt indexList.i.md sections.txt
 
 SUBDIRS := sparql
 
-all: ${SUBDIRS} ${METAS} ${TARGETS} index.md
+all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
 	@cp sparql/*.code.md docs/sparql/
 
 sections.txt: order.txt ${SOURCES}
