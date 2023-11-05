@@ -1,5 +1,20 @@
 # Using SPARQL to query Life Science Databases
 
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org/",
+  "@type":"CreativeWork",
+  "about":"This book describes various life sciences databases with SPARQL endpoints.",
+  "genre":[{
+    "@type":"URL","url":"http://edamontology.org/topic_4019"
+  }],
+  "name":"Using SPARQL to query Life Science Databases",
+  "keywords":"cheminformatics, chemoinformatics, bioinformatics, databases, SPARQL",
+  "license":"CC BY-SA 4.0",
+  "url": "https://bigcat-um.github.io/PRA3006-SPARQL/"
+}
+</script>
+
 **Ammar Ammar, Marvin Martens, Egon L. Willighagen**
 
 © 2021-2023 The Authors
