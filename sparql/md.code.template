@@ -1,5 +1,9 @@
 # %STEM%.%EXT%
 
+| **Database** | %DATABASE% |
+| **SPARQl endpoint** | [%ENDPOINT%](%ENDPOINT%) |
+| **License** | %LICENSE% |
+
 **Code examples:** [curl](#curl)
 
 ### SPARQL
@@ -20,7 +24,7 @@
 
 ```shell
 curl -o %STEM%.%EXT% https://raw.githubusercontent.com/BiGCAT-UM/PRA3006-SPARQL/master/sparql/%STEM%.%EXT%
-curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@%STEM%.%EXT%
+curl -H "Accept: text/tab-separated-values" -G %ENDPOINT% --data-urlencode query@%STEM%.%EXT%
 ```
 
 This SPARQL query is available under CCZero.

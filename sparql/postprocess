@@ -17,18 +17,26 @@ runPrefix = "https://query.wikidata.org/embed.html#"
 editPrefix = "https://query.wikidata.org/#"
 if (ep == "wikidata") {
   ep = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+  license = "CCZero"
+  database = "Wikidata"
 } else if (ep == "wikipathways") {
   ep = "https://sparql.wikipathways.org/sparql"
   editPrefix = "https://sparql.wikipathways.org/?q="
   runPrefix = "https://sparql.wikipathways.org/sparql/?query="
+  license = "CCZero"
+  database = "WikiPathways"
 } else if (ep == "chembl") {
   ep = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql"
   editPrefix = "https://chemblmirror.rdf.bigcat-bioinformatics.org/?q="
   runPrefix = "https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql/?query="
+  license = "CC-BY-SA 3.0 Unported"
+  database = "ChEMBL"
 } else if (ep == "aopwiki") {
   ep = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql"
   editPrefix = "https://aopwiki.rdf.bigcat-bioinformatics.org/?q="
   runPrefix = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/?query="
+  license = "Ask Marvin"
+  database = "AOP-Wiki"
 }
 
 runClass = inFile.substring(0,inFile.indexOf(runSuffix));
@@ -107,6 +115,18 @@ for (int type=0; type<mdTypes.size(); type++) {
       if (line.contains("%RUNURL%")) {
         line = line.replace("%RUNURL%", runURL);
         line = line + "\n";
+      }
+      if (line.contains("%ENDPOINT%")) {
+        line = line.replace("%ENDPOINT%", ep);
+        if (!line.endsWith("\n")) line = line + "\n";
+      }
+      if (line.contains("%LICENSE%")) {
+        line = line.replace("%LICENSE%", license);
+        if (!line.endsWith("\n")) line = line + "\n";
+      }
+      if (line.contains("%DATABASE%")) {
+        line = line.replace("%DATABASE%", database);
+        if (!line.endsWith("\n")) line = line + "\n";
       }
       if (line.contains("%EDITURL%")) {
         line = line.replace("%EDITURL%", editURL);
