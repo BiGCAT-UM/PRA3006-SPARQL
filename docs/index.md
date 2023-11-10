@@ -15,7 +15,9 @@
 }
 </script>
 
-**Ammar Ammar, Marvin Martens, Egon L. Willighagen**
+**Ammar Ammar&nbsp;<a href="https://orcid.org/0000-0002-8399-8990"><img alt="ORCID icon" src="/images/orcig.png">&nbsp;0000-0002-8399-8990</a>,
+Marvin Martens&nbsp;<a href="https://orcid.org/0000-0003-2230-0840"><img alt="ORCID icon" src="/images/orcig.png">&nbsp;0000-0003-2230-0840</a>,
+Egon L. Willighagen&nbsp;<a href="https://orcid.org/0000-0001-7542-0286"><img alt="ORCID icon" src="/images/orcig.png">&nbsp;0000-0001-7542-0286</a>**
 
 © 2021-2023 The Authors
 
