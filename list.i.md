@@ -1,6 +1,7 @@
 # List of Databases
 
-Various projects collect <topic>SPARQL endpoint</topic>s, like <topic>YummyData</topic> at [yummydata.org](https://yummydata.org/) [<cite>Q55007361</cite>].
+Various projects collect <topic>SPARQL endpoint</topic>s, like <topic>YummyData</topic> at [yummydata.org](https://yummydata.org/) [<cite>Q55007361</cite>]
+and [RDF Portal](https://rdfportal.org/datasets).
 Here is an alphabetically sorted list of graphical interfaces to various SPARQL endpoints:
 
 * AOP-Wiki: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q111081275</cite>] (see also [this chapter](aopwiki.i.md))
