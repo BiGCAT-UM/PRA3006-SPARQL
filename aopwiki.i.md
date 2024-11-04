@@ -2,7 +2,7 @@
 
 The <topic>AOP-Wiki</topic> SPARQL endpoint is loaded with RDF of the
 <topic>Adverse Outcome Pathway</topic> (AOP)-Wiki database
-(https://aopwiki.org/)  [<cite>Q111081275</cite>]. The AOP-Wiki serves as the primary repository of qualitative information
+([https://aopwiki.org/](https://aopwiki.org/))  [<cite>Q111081275</cite>]. The AOP-Wiki serves as the primary repository of qualitative information
 for AOPs and is a central component in the AOP development effort coordinated by the Organisation
 for Economic Co-operation and Development (OECD). These AOPs describe mechanistic information about
 toxicodynamic processes and can be used to develop effective risk assessment strategies. An AOP
