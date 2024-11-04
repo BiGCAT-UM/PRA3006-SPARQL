@@ -1,5 +1,7 @@
 # AOP-Wiki
 
+| **SPARQL endpoint** | [https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/](https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/) |
+
 The <topic>AOP-Wiki</topic> SPARQL endpoint is loaded with RDF of the
 <topic>Adverse Outcome Pathway</topic> (AOP)-Wiki database
 ([https://aopwiki.org/](https://aopwiki.org/))  [<cite>Q111081275</cite>]. The AOP-Wiki serves as the primary repository of qualitative information

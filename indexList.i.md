@@ -17,11 +17,14 @@ knowledge dissemination [intro](intro.i.md#tp1)<br />
 miRNA [wikidata](wikidata.i.md#tp7) [wikipathways](wikipathways.i.md#tp7)<br />
 Molecular Initiating Event [aopwiki](aopwiki.i.md#tp3)<br />
 ontology [list](list.i.md#tp3)<br />
-protein [chembl](chembl.i.md#tp3) [wikidata](wikidata.i.md#tp6) [wikidata](wikidata.i.md#tp8) [wikipathways](wikipathways.i.md#tp6) [wikipathways](wikipathways.i.md#tp8)<br />
+protein [chembl](chembl.i.md#tp3)<br />
+protein sequence [uniprot](uniprot.i.md#tp2)<br />
+protein [wikidata](wikidata.i.md#tp6) [wikidata](wikidata.i.md#tp8) [wikipathways](wikipathways.i.md#tp6) [wikipathways](wikipathways.i.md#tp8)<br />
 REST [intro](intro.i.md#tp4)<br />
 RNA [wikidata](wikidata.i.md#tp5) [wikipathways](wikipathways.i.md#tp5)<br />
 SPARQL endpoint [intro](intro.i.md#tp5) [list](list.i.md#tp1)<br />
 SPARQL [intro](intro.i.md#tp6)<br />
+UniProtKB [uniprot](uniprot.i.md#tp1)<br />
 Wikidata [wikidata](wikidata.i.md#tp1)<br />
 WikiPathways [wikipathways](wikipathways.i.md#tp1)<br />
 Wikipedia [wikidata](wikidata.i.md#tp2)<br />

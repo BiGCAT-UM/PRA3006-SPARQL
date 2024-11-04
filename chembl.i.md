@@ -1,6 +1,7 @@
 # ChEMBL
 
 | **Website** | [https://www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/) |
+| **SPARQL endpoint** | [https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql/](https://chemblmirror.rdf.bigcat-bioinformatics.org/sparql/) |
 | **License** | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 
 <topic>ChEMBL</topic> is a manually curated database of bioactive

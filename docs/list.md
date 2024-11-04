@@ -19,7 +19,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<a href="#citeref3">3</a>]
 * STRING: [https://sparql.string-db.org/](https://sparql.string-db.org/) [<a href="#citeref7">7</a>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/) [<a href="#citeref7">7</a>]
-* UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref11">11</a>]
+* UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref11">11</a>] (see also [this chapter](uniprot.md))
 * Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) [<a href="#citeref12">12</a>] (see also [this chapter](wikidata.md))
 * WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) [<a href="#citeref13">13</a>,<a href="#citeref14">14</a>] (see also [this chapter](wikipathways.md))
 

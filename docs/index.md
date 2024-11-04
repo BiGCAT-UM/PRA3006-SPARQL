@@ -59,18 +59,21 @@ Wishes, comments, and pull requests can be send to
 6.3.2. [Counting assays](chembl.md#counting-assays) <br />
 6.3.3. [Binding affinities](chembl.md#binding-affinities) <br />
 6.3.4. [Assays and UniProt IDs](chembl.md#assays-and-uniprot-ids) <br />
-7. [Wikidata](wikidata.md) <br />
-7.1. [Entities](wikidata.md#entities) <br />
-7.2. [Data model](wikidata.md#data-model) <br />
-7.3. [Example queries](wikidata.md#example-queries) <br />
-7.3.1. [Proteins](wikidata.md#proteins) <br />
-7.3.2. [Chemicals](wikidata.md#chemicals) <br />
-8. [WikiPathways](wikipathways.md) <br />
-8.1. [Entities](wikipathways.md#entities) <br />
-8.2. [Data model](wikipathways.md#data-model) <br />
-8.3. [Example queries](wikipathways.md#example-queries) <br />
-8.3.1. [Asking information for a specific pathway](wikipathways.md#asking-information-for-a-specific-pathway) <br />
-8.3.2. [A lipid pathway](wikipathways.md#a-lipid-pathway) <br />
-8.3.3. [A federated SPARQL query](wikipathways.md#a-federated-sparql-query) <br />
+7. [UniProtKB](uniprot.md) <br />
+7.1. [Entities](uniprot.md#entities) <br />
+7.2. [Example queries](uniprot.md#example-queries) <br />
+8. [Wikidata](wikidata.md) <br />
+8.1. [Entities](wikidata.md#entities) <br />
+8.2. [Data model](wikidata.md#data-model) <br />
+8.3. [Example queries](wikidata.md#example-queries) <br />
+8.3.1. [Proteins](wikidata.md#proteins) <br />
+8.3.2. [Chemicals](wikidata.md#chemicals) <br />
+9. [WikiPathways](wikipathways.md) <br />
+9.1. [Entities](wikipathways.md#entities) <br />
+9.2. [Data model](wikipathways.md#data-model) <br />
+9.3. [Example queries](wikipathways.md#example-queries) <br />
+9.3.1. [Asking information for a specific pathway](wikipathways.md#asking-information-for-a-specific-pathway) <br />
+9.3.2. [A lipid pathway](wikipathways.md#a-lipid-pathway) <br />
+9.3.3. [A federated SPARQL query](wikipathways.md#a-federated-sparql-query) <br />
 
 [Index](indexList.md) <br />

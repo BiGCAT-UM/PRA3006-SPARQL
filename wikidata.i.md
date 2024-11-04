@@ -1,5 +1,6 @@
 # Wikidata
 
+| **Website** | [https://www.wikidata.org/](https://www.wikidata.org/) |
 | **License** | [CCZero](https://creativecommons.org/public-domain/cc0/) |
 
 <topic>Wikidata</topic> is not a life sciences database, but a general database related to <topic>Wikipedia</topic> [<cite>Q118130164</cite>]. That said,

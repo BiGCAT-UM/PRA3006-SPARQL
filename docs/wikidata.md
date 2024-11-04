@@ -1,5 +1,6 @@
 # Wikidata
 
+| **Website** | [https://www.wikidata.org/](https://www.wikidata.org/) |
 | **License** | [CCZero](https://creativecommons.org/public-domain/cc0/) |
 
 <a name="tp1">Wikidata</a> is not a life sciences database, but a general database related to <a name="tp2">Wikipedia</a> [<a href="#citeref1">1</a>]. That said,
@@ -114,22 +115,6 @@ which gives:
     <td><b>l</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q153</td>
-    <td>ethanol</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q50703</td>
-    <td>cesium iodide</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q50980</td>
-    <td>xanthine</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q52353</td>
-    <td>benzyl alcohol</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q150681</td>
     <td>octane</td>
   </tr>
@@ -138,12 +123,28 @@ which gives:
     <td>nonane</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150717</td>
-    <td>decane</td>
+    <td>http://www.wikidata.org/entity/Q153</td>
+    <td>ethanol</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q150731</td>
-    <td>undecane</td>
+    <td>http://www.wikidata.org/entity/Q116073</td>
+    <td>disilane</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q116163</td>
+    <td>ethyl sulfate</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q116269</td>
+    <td>silicon dioxide</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q161498</td>
+    <td>1,3-propanediamine</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q161503</td>
+    <td>1,3-butadiene</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/wikidataChemicals.code.html">sparql/wikidataChemicals.rq</a></td></tr>
 </table>
