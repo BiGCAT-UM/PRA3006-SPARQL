@@ -11,6 +11,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<cite>Q27144224</cite>,<cite>Q27062334</cite>] (see also [this chapter](chembl.i.md))
 * GlyConnect: [https://glyconnect.expasy.org/sparql](https://glyconnect.expasy.org/sparql) [<cite>Q57060627</cite>]
 * HAMAP: [https://hamap.expasy.org/sparql](https://hamap.expasy.org/sparql) [<cite>Q123285784</cite>]
+* Integrated Database of Small Molecules (IDSM): [https://idsm.elixir-czech.cz/chemweb/](https://idsm.elixir-czech.cz/chemweb/) [<cite>Q106823303</cite>]
 * LIPID MAPS: [https://lipidmaps.org/sparql](https://lipidmaps.org/sparql) [<cite>Q123135804</cite>]
 * MetaNetX: [https://rdf.metanetx.org/](https://rdf.metanetx.org/) [<cite>Q36683461</cite>]
 * OMA: [https://sparql.omabrowser.org/](https://sparql.omabrowser.org/) [<cite>Q123285784</cite>]
