@@ -16,7 +16,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * MetaNetX: [https://rdf.metanetx.org/](https://rdf.metanetx.org/) [<cite>Q36683461</cite>]
 * OMA: [https://sparql.omabrowser.org/](https://sparql.omabrowser.org/) [<cite>Q123285784</cite>]
 * OrthoDB: [https://sparql.orthodb.org/](https://sparql.orthodb.org/) [<cite>Q123285784</cite>]
-* neXtProt: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<cite>Q91276990</cite>]
+* neXtProt: [https://snorql.nextprot.org/](https://snorql.nextprot.org/) [<cite>Q91276990</cite>]
 * Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<cite>Q57060627</cite>]
 * STRING: [https://sparql.string-db.org/](https://sparql.string-db.org/) [<cite>Q123285784</cite>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/) [<cite>Q123285784</cite>]
