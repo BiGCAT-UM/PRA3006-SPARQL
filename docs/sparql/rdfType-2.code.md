@@ -26,6 +26,9 @@ SELECT DISTINCT ?type WHERE {
     <td><b>type</b></td>
   </tr>
   <tr>
+    <td>http://www.openlinksw.com/schemas/virtrdf#QuadMap</td>
+  </tr>
+  <tr>
     <td>http://www.openlinksw.com/schemas/virtrdf#QuadMapFormat</td>
   </tr>
   <tr>
@@ -33,9 +36,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.openlinksw.com/schemas/virtrdf#array-of-QuadMapFormat</td>
-  </tr>
-  <tr>
-    <td>http://www.openlinksw.com/schemas/virtrdf#QuadMap</td>
   </tr>
   <tr>
     <td>http://www.openlinksw.com/schemas/virtrdf#QuadMapValue</td>
@@ -81,6 +81,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.w3.org/ns/sparql-service-description#Service</td>
+  </tr>
+  <tr>
+    <td>http://vocabularies.wikipathways.org/wp#DirectedInteraction</td>
   </tr>
   <tr>
     <td>http://www.w3.org/2004/02/skos/core#Collection</td>
@@ -140,9 +143,6 @@ SELECT DISTINCT ?type WHERE {
     <td>http://vocabularies.wikipathways.org/wp#DataNode</td>
   </tr>
   <tr>
-    <td>http://vocabularies.wikipathways.org/wp#DirectedInteraction</td>
-  </tr>
-  <tr>
     <td>http://vocabularies.wikipathways.org/wp#GeneProduct</td>
   </tr>
   <tr>
@@ -179,19 +179,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://rdfs.org/ns/void#Dataset</td>
   </tr>
   <tr>
-    <td>http://www.w3.org/ns/dcat#Distribution</td>
-  </tr>
-  <tr>
     <td>http://rdfs.org/ns/void#DatasetDescription</td>
   </tr>
   <tr>
     <td>http://rdfs.org/ns/void#Linkset</td>
   </tr>
   <tr>
-    <td>http://www.w3.org/2002/07/owl#Axiom</td>
+    <td>http://www.w3.org/ns/dcat#Distribution</td>
   </tr>
   <tr>
     <td>http://www.w3.org/2004/02/skos/core#ConceptScheme</td>
+  </tr>
+  <tr>
+    <td>http://www.w3.org/2002/07/owl#Axiom</td>
   </tr>
   <tr>
     <td>http://vocabularies.wikipathways.org/wp#Translocation</td>

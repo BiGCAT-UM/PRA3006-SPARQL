@@ -27,7 +27,7 @@ WHERE {
     <td><b>nKE</b></td>
   </tr>
   <tr>
-    <td>1371</td>
+    <td>1561</td>
   </tr>
 </table>
 

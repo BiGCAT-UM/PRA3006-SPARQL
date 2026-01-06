@@ -27,1096 +27,820 @@ WHERE {
     <td><b>pathway</b></td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-373076</td>
+    <td>https://identifiers.org/wikipathways/WP5382_r129730</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5694530</td>
+    <td>https://identifiers.org/wikipathways/WP5472</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-73929</td>
+    <td>https://identifiers.org/wikipathways/WP5473</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q106291866</td>
+    <td>https://identifiers.org/wikipathways/WP5372_r129533</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q115189418</td>
+    <td>https://identifiers.org/wikipathways/WP4747_r129741</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q14762265</td>
+    <td>https://identifiers.org/wikipathways/WP3147_r134262</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q14864044</td>
+    <td>https://identifiers.org/wikipathways/WP3223_r134266</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q1517140</td>
+    <td>https://identifiers.org/wikipathways/WP4835_r134351</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q1805481</td>
+    <td>https://identifiers.org/wikipathways/WP4879_r134355</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q189814</td>
+    <td>https://identifiers.org/wikipathways/WP5320_r134471</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q1981368</td>
+    <td>https://identifiers.org/wikipathways/WP5353_r134870</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q6556360</td>
+    <td>https://identifiers.org/wikipathways/WP562_r134381</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q70690408</td>
+    <td>https://identifiers.org/wikipathways/WP5052_r134598</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1471</td>
+    <td>https://identifiers.org/wikipathways/WP5130_r134675</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1823</td>
+    <td>https://identifiers.org/wikipathways/WP112_r135334</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1823_r116423</td>
+    <td>https://identifiers.org/wikipathways/WP1453_r135405</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1852_r115020</td>
+    <td>https://identifiers.org/wikipathways/WP525_r135406</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP186</td>
+    <td>https://identifiers.org/wikipathways/WP1546_r135384</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1889_r115088</td>
+    <td>https://identifiers.org/wikipathways/WP4463_r135645</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2249_r107453</td>
+    <td>https://identifiers.org/wikipathways/WP2915_r135380</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2276_r124894</td>
+    <td>https://identifiers.org/wikipathways/WP367_r135390</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2453_r123103</td>
+    <td>https://identifiers.org/wikipathways/WP125_r135412</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2653</td>
+    <td>https://identifiers.org/wikipathways/WP2221_r135393</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2659_r115026</td>
+    <td>https://identifiers.org/wikipathways/WP96_r135392</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2710_r114999</td>
+    <td>https://identifiers.org/wikipathways/WP1765_r135404</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2712_r112294</td>
+    <td>https://identifiers.org/wikipathways/WP2226_r135399</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2740</td>
+    <td>https://identifiers.org/wikipathways/WP5358_r135254</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2788_r114769</td>
+    <td>https://identifiers.org/wikipathways/WP680_r135382</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2884_r106658</td>
+    <td>https://identifiers.org/wikipathways/WP2222_r135402</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2916</td>
+    <td>https://identifiers.org/wikipathways/WP2578_r135395</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2916_r104425</td>
+    <td>https://identifiers.org/wikipathways/WP1489_r135394</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2942_r119083</td>
+    <td>https://identifiers.org/wikipathways/WP2005_r135702</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP306_r127184</td>
+    <td>https://identifiers.org/wikipathways/WP2006_r135703</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3305_r123264</td>
+    <td>https://identifiers.org/wikipathways/WP4814_r136147</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3313_r114890</td>
+    <td>https://identifiers.org/wikipathways/WP103_r136920</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3345_r114715</td>
+    <td>https://identifiers.org/wikipathways/WP1047_r137510</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3372_r114686</td>
+    <td>https://identifiers.org/wikipathways/WP1189_r137527</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3556</td>
+    <td>https://identifiers.org/wikipathways/WP1227_r137023</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3556_r114709</td>
+    <td>https://identifiers.org/wikipathways/WP161_r137232</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3613_r106539</td>
+    <td>https://identifiers.org/wikipathways/WP1631_r137615</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3678_r117647</td>
+    <td>https://identifiers.org/wikipathways/WP2453_r137810</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3924_r96137</td>
+    <td>https://identifiers.org/wikipathways/WP24_r137493</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3929_r119247</td>
+    <td>https://identifiers.org/wikipathways/WP2643_r137818</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3945_r116679</td>
+    <td>https://identifiers.org/wikipathways/WP310_r137423</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4063_r115095</td>
+    <td>https://identifiers.org/wikipathways/WP3251_r136906</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4115_r114616</td>
+    <td>https://identifiers.org/wikipathways/WP375_r137489</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4148_r110682</td>
+    <td>https://identifiers.org/wikipathways/WP3965_r137668</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4172</td>
+    <td>https://identifiers.org/wikipathways/WP4204_r137077</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4430_r114690</td>
+    <td>https://identifiers.org/wikipathways/WP5152_r137686</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP45_r127353</td>
+    <td>https://identifiers.org/wikipathways/WP5215_r137704</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4629</td>
+    <td>https://identifiers.org/wikipathways/WP5311_r137661</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4673_r119920</td>
+    <td>https://identifiers.org/wikipathways/WP570_r137263</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4722_r124748</td>
+    <td>https://identifiers.org/wikipathways/WP902_r137198</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4752</td>
+    <td>https://identifiers.org/wikipathways/WP1064_r137515</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4753</td>
+    <td>https://identifiers.org/wikipathways/WP1090_r136928</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4830</td>
+    <td>https://identifiers.org/wikipathways/WP1135_r137524</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4830_r125308</td>
+    <td>https://identifiers.org/wikipathways/WP1186_r136924</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4846_r124663</td>
+    <td>https://identifiers.org/wikipathways/WP1245_r136870</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4860</td>
+    <td>https://identifiers.org/wikipathways/WP1544_r137605</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4861</td>
+    <td>https://identifiers.org/wikipathways/WP1600_r136559</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4868</td>
+    <td>https://identifiers.org/wikipathways/WP2018_r137624</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4876</td>
+    <td>https://identifiers.org/wikipathways/WP217_r137009</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4946</td>
+    <td>https://identifiers.org/wikipathways/WP247_r137427</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4946_r117703</td>
+    <td>https://identifiers.org/wikipathways/WP278_r137001</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4978_r114735</td>
+    <td>https://identifiers.org/wikipathways/WP3236_r137829</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5002_r114924</td>
+    <td>https://identifiers.org/wikipathways/WP4656_r136252</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5083_r120385</td>
+    <td>https://identifiers.org/wikipathways/WP4753_r136568</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5093_r126328</td>
+    <td>https://identifiers.org/wikipathways/WP784_r137046</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP51</td>
+    <td>https://identifiers.org/wikipathways/WP802_r137033</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5221_r127056</td>
+    <td>https://identifiers.org/wikipathways/WP887_r136903</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5292</td>
+    <td>https://identifiers.org/wikipathways/WP97_r136883</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP531</td>
+    <td>https://identifiers.org/wikipathways/WP1495_r139879</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5311_r125791</td>
+    <td>https://identifiers.org/wikipathways/WP2622_r139677</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5313_r125782</td>
+    <td>https://identifiers.org/wikipathways/WP2_r140402</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5314</td>
+    <td>https://identifiers.org/wikipathways/WP3271_r140144</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5413_r127459</td>
+    <td>https://identifiers.org/wikipathways/WP35_r139801</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP673</td>
+    <td>https://identifiers.org/wikipathways/WP3648_r139785</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP673_r127240</td>
+    <td>https://identifiers.org/wikipathways/WP373_r140035</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP678</td>
+    <td>https://identifiers.org/wikipathways/WP4205_r140085</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP678_r126228</td>
+    <td>https://identifiers.org/wikipathways/WP4224_r140400</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP722_r125764</td>
+    <td>https://identifiers.org/wikipathways/WP4724_r139831</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP78_r119082</td>
+    <td>https://identifiers.org/wikipathways/WP511_r140269</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04520</td>
+    <td>https://identifiers.org/wikipathways/WP5222_r140530</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/kegg.pathway/map04010</td>
+    <td>https://identifiers.org/wikipathways/WP54_r139585</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5601884</td>
+    <td>https://identifiers.org/wikipathways/WP5521_r139853</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6782861</td>
+    <td>https://identifiers.org/wikipathways/WP1274_r140348</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8983432</td>
+    <td>https://identifiers.org/wikipathways/WP43_r139476</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8985947</td>
+    <td>https://identifiers.org/wikipathways/WP4630_r140457</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikidata/Q1532402</td>
+    <td>https://identifiers.org/wikipathways/WP4658_r140173</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/Glycogenolysis</td>
+    <td>https://identifiers.org/wikipathways/WP4861_r140454</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/Glycolysis</td>
+    <td>https://identifiers.org/wikipathways/WP1023_r140276</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1799_r115025</td>
+    <td>https://identifiers.org/wikipathways/WP4589_r140100</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1800_r114658</td>
+    <td>https://identifiers.org/wikipathways/WP4940_r140408</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP185</td>
+    <td>https://identifiers.org/wikipathways/WP541_r140427</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP185_r126267</td>
+    <td>https://identifiers.org/wikipathways/WP769_r139875</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1907</td>
+    <td>https://identifiers.org/wikipathways/WP111_r140273</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1907_r114896</td>
+    <td>https://identifiers.org/wikipathways/WP190_r140217</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1919</td>
+    <td>https://identifiers.org/wikipathways/WP203_r140403</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1937_r114879</td>
+    <td>https://identifiers.org/wikipathways/WP215_r139797</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2038</td>
+    <td>https://identifiers.org/wikipathways/WP2436_r139680</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP211</td>
+    <td>https://identifiers.org/wikipathways/WP3146_r139699</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP22_r126261</td>
+    <td>https://identifiers.org/wikipathways/WP3250_r140021</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2513</td>
+    <td>https://identifiers.org/wikipathways/WP3282_r140023</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2513_r119820</td>
+    <td>https://identifiers.org/wikipathways/WP4153_r139763</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2675_r114621</td>
+    <td>https://identifiers.org/wikipathways/WP4313_r140359</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2698_r115022</td>
+    <td>https://identifiers.org/wikipathways/WP4690_r139824</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2718_r115082</td>
+    <td>https://identifiers.org/wikipathways/WP4919_r140179</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2732_r115080</td>
+    <td>https://identifiers.org/wikipathways/WP5240_r139969</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2813_r102405</td>
+    <td>https://identifiers.org/wikipathways/WP5300_r140090</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2816_r117724</td>
+    <td>https://identifiers.org/wikipathways/WP5411_r139856</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2870_r106411</td>
+    <td>https://identifiers.org/wikipathways/WP1263_r139941</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2902</td>
+    <td>https://identifiers.org/wikipathways/WP1338_r139955</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3306_r115002</td>
+    <td>https://identifiers.org/wikipathways/WP1346_r116888</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3395_r123265</td>
+    <td>https://identifiers.org/wikipathways/WP1390_r140266</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3436</td>
+    <td>https://identifiers.org/wikipathways/WP1941_r139661</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3436_r114942</td>
+    <td>https://identifiers.org/wikipathways/WP2624_r140492</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3527_r126527</td>
+    <td>https://identifiers.org/wikipathways/WP2636_r140125</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3561</td>
+    <td>https://identifiers.org/wikipathways/WP2912_r140184</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3561_r115064</td>
+    <td>https://identifiers.org/wikipathways/WP3286_r140415</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3571_r114981</td>
+    <td>https://identifiers.org/wikipathways/WP423_r139491</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3578_r114946</td>
+    <td>https://identifiers.org/wikipathways/WP4357_r140180</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3612_r124813</td>
+    <td>https://identifiers.org/wikipathways/WP4539_r140098</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3645</td>
+    <td>https://identifiers.org/wikipathways/WP480_r118027</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3645_r123910</td>
+    <td>https://identifiers.org/wikipathways/WP4875_r140145</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3800_r114843</td>
+    <td>https://identifiers.org/wikipathways/WP5036_r139761</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3853</td>
+    <td>https://identifiers.org/wikipathways/WP5089_r139850</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3853_r120593</td>
+    <td>https://identifiers.org/wikipathways/WP5097_r140127</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3944_r120596</td>
+    <td>https://identifiers.org/wikipathways/WP5200_r140209</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4090_r114687</td>
+    <td>https://identifiers.org/wikipathways/WP5269_r140105</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4114_r114767</td>
+    <td>https://identifiers.org/wikipathways/WP5289_r140108</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4121</td>
+    <td>https://identifiers.org/wikipathways/WP533_r140489</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4121_r114664</td>
+    <td>https://identifiers.org/wikipathways/WP5348_r140354</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4255_r127237</td>
+    <td>https://identifiers.org/wikipathways/WP5443_r140026</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4269_r117715</td>
+    <td>https://identifiers.org/wikipathways/WP5557_r140345</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4458_r114943</td>
+    <td>https://identifiers.org/wikipathways/WP5558_r140521</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4549</td>
+    <td>https://identifiers.org/wikipathways/WP5563_r140339</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4549_r125304</td>
+    <td>https://identifiers.org/wikipathways/WP5579_r140077</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4558_r107928</td>
+    <td>https://identifiers.org/wikipathways/WP561_r139836</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4584_r123407</td>
+    <td>https://identifiers.org/wikipathways/WP1006_r140671</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4864_r124634</td>
+    <td>https://identifiers.org/wikipathways/WP2276_r141767</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4872_r110081</td>
+    <td>https://identifiers.org/wikipathways/WP2360_r141021</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4925_r123438</td>
+    <td>https://identifiers.org/wikipathways/WP272_r140999</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4933</td>
+    <td>https://identifiers.org/wikipathways/WP2863_r142081</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5020_r124662</td>
+    <td>https://identifiers.org/wikipathways/WP303_r141479</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5029_r125459</td>
+    <td>https://identifiers.org/wikipathways/WP321_r141436</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5053</td>
+    <td>https://identifiers.org/wikipathways/WP3924_r142033</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5053_r118778</td>
+    <td>https://identifiers.org/wikipathways/WP4339_r117470</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP51_r126235</td>
+    <td>https://identifiers.org/wikipathways/WP4628_r140635</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5258_r123975</td>
+    <td>https://identifiers.org/wikipathways/WP4673_r142162</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5322_r126211</td>
+    <td>https://identifiers.org/wikipathways/WP521_r140874</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5342_r126930</td>
+    <td>https://identifiers.org/wikipathways/WP5221_r140829</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5381_r127450</td>
+    <td>https://identifiers.org/wikipathways/WP5428_r141656</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP690_r117170</td>
+    <td>https://identifiers.org/wikipathways/WP5431_r141660</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP706_r124910</td>
+    <td>https://identifiers.org/wikipathways/WP5529_r140902</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/go/GO:0006694</td>
+    <td>https://identifiers.org/wikipathways/WP5587_r142132</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/go/GO:0006699</td>
+    <td>https://identifiers.org/wikipathways/WP5601</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/go/GO:0032803</td>
+    <td>https://identifiers.org/wikipathways/WP5602</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/go/GO:0035382</td>
+    <td>https://identifiers.org/wikipathways/WP5603</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/go/GO:0042368</td>
+    <td>https://identifiers.org/wikipathways/WP5603_r141485</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/go/GO:0140306</td>
+    <td>https://identifiers.org/wikipathways/WP66_r141855</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1474228</td>
+    <td>https://identifiers.org/wikipathways/WP678_r140958</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1474290</td>
+    <td>https://identifiers.org/wikipathways/WP722_r141562</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1566948</td>
+    <td>https://identifiers.org/wikipathways/WP78_r141553</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-191273</td>
+    <td>https://identifiers.org/wikipathways/WP1067_r141890</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-195258</td>
+    <td>https://identifiers.org/wikipathways/WP1282_r142108</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-212436</td>
+    <td>https://identifiers.org/wikipathways/WP156_r140577</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3000170</td>
+    <td>https://identifiers.org/wikipathways/WP2640_r140961</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5652084</td>
+    <td>https://identifiers.org/wikipathways/WP3245_r141004</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5684996</td>
+    <td>https://identifiers.org/wikipathways/WP331_r140625</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6807505</td>
+    <td>https://identifiers.org/wikipathways/WP3891_r140984</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9706574</td>
+    <td>https://identifiers.org/wikipathways/WP4194_r142017</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1539_r118358</td>
+    <td>https://identifiers.org/wikipathways/WP498_r141783</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1604_r125609</td>
+    <td>https://identifiers.org/wikipathways/WP5077_r137859</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1836_r115093</td>
+    <td>https://identifiers.org/wikipathways/WP1239_r141921</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1904_r114870</td>
+    <td>https://identifiers.org/wikipathways/WP1309_r142111</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1906_r115030</td>
+    <td>https://identifiers.org/wikipathways/WP2485_r140644</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1917_r114825</td>
+    <td>https://identifiers.org/wikipathways/WP2491_r141585</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2007_r106626</td>
+    <td>https://identifiers.org/wikipathways/WP2596_r141749</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2034_r126347</td>
+    <td>https://identifiers.org/wikipathways/WP27_r140656</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2338_r117159</td>
+    <td>https://identifiers.org/wikipathways/WP2840_r141970</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2359</td>
+    <td>https://identifiers.org/wikipathways/WP2895_r141349</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2359_r123101</td>
+    <td>https://identifiers.org/wikipathways/WP314_r141702</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2489</td>
+    <td>https://identifiers.org/wikipathways/WP406_r141533</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2533_r126497</td>
+    <td>https://identifiers.org/wikipathways/WP432_r140696</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2703_r114873</td>
+    <td>https://identifiers.org/wikipathways/WP455_r141734</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2706_r123263</td>
+    <td>https://identifiers.org/wikipathways/WP4595_r140765</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2724_r116473</td>
+    <td>https://identifiers.org/wikipathways/WP4923_r140969</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2751_r116666</td>
+    <td>https://identifiers.org/wikipathways/WP5110_r141689</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2783</td>
+    <td>https://identifiers.org/wikipathways/WP5440_r141591</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2882_r126680</td>
+    <td>https://identifiers.org/wikipathways/WP5600_r142140</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3287_r121705</td>
+    <td>https://identifiers.org/wikipathways/WP590_r141093</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3309_r114684</td>
+    <td>https://identifiers.org/wikipathways/WP1287_r142109</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3317_r117672</td>
+    <td>https://identifiers.org/wikipathways/WP1335_r142112</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP334_r117741</td>
+    <td>https://identifiers.org/wikipathways/WP2035_r141726</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3400_r114841</td>
+    <td>https://identifiers.org/wikipathways/WP2291_r141141</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3513_r114787</td>
+    <td>https://identifiers.org/wikipathways/WP2324_r140842</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3558_r114849</td>
+    <td>https://identifiers.org/wikipathways/WP2328_r140863</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3565_r114855</td>
+    <td>https://identifiers.org/wikipathways/WP2875_r141123</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP363_r126288</td>
+    <td>https://identifiers.org/wikipathways/WP346_r141157</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3672_r123394</td>
+    <td>https://identifiers.org/wikipathways/WP410_r141645</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3674_r117841</td>
+    <td>https://identifiers.org/wikipathways/WP4190_r140675</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3685_r114746</td>
+    <td>https://identifiers.org/wikipathways/WP437_r141382</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3820_r114987</td>
+    <td>https://identifiers.org/wikipathways/WP4553_r141654</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3844_r127077</td>
+    <td>https://identifiers.org/wikipathways/WP4659_r141754</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3969_r123402</td>
+    <td>https://identifiers.org/wikipathways/WP470_r141444</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4059_r114903</td>
+    <td>https://identifiers.org/wikipathways/WP47_r141979</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4258_r127462</td>
+    <td>https://identifiers.org/wikipathways/WP4803_r141106</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4409_r115009</td>
+    <td>https://identifiers.org/wikipathways/WP4823_r141762</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4450_r114937</td>
+    <td>https://identifiers.org/wikipathways/WP4860_r142005</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4491</td>
+    <td>https://identifiers.org/wikipathways/WP4876_r140856</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4537_r127213</td>
+    <td>https://identifiers.org/wikipathways/WP4917_r140714</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4542_r120673</td>
+    <td>https://identifiers.org/wikipathways/WP4932_r140747</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4562_r117956</td>
+    <td>https://identifiers.org/wikipathways/WP502_r141785</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4571_r123434</td>
+    <td>https://identifiers.org/wikipathways/WP5055_r141012</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4586_r119267</td>
+    <td>https://identifiers.org/wikipathways/WP5169_r141986</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4686_r122622</td>
+    <td>https://identifiers.org/wikipathways/WP524_r141731</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4751_r123418</td>
+    <td>https://identifiers.org/wikipathways/WP608_r142078</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4767_r127270</td>
+    <td>https://identifiers.org/wikipathways/WP1048_r141675</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4853_r124602</td>
+    <td>https://identifiers.org/wikipathways/WP146_r141481</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5030_r120416</td>
+    <td>https://identifiers.org/wikipathways/WP256_r141003</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5047_r115128</td>
+    <td>https://identifiers.org/wikipathways/WP2634_r141156</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5102_r123632</td>
+    <td>https://identifiers.org/wikipathways/WP2864_r140956</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5153_r127082</td>
+    <td>https://identifiers.org/wikipathways/WP291_r141091</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5272_r123542</td>
+    <td>https://identifiers.org/wikipathways/WP3207_r142127</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5329_r126886</td>
+    <td>https://identifiers.org/wikipathways/WP3668_r142021</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5408_r127198</td>
+    <td>https://identifiers.org/wikipathways/WP4233_r140855</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5414_r127286</td>
+    <td>https://identifiers.org/wikipathways/WP4249_r141977</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP623_r107189</td>
+    <td>https://identifiers.org/wikipathways/WP4518_r141741</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP688_r117673</td>
+    <td>https://identifiers.org/wikipathways/WP4583_r140764</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP698_r126233</td>
+    <td>https://identifiers.org/wikipathways/WP49_r141561</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP108_r117940</td>
+    <td>https://identifiers.org/wikipathways/WP5031_r140994</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP116_r117893</td>
+    <td>https://identifiers.org/wikipathways/WP5195_r141354</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1241_r106835</td>
+    <td>https://identifiers.org/wikipathways/WP5213_r141010</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1242_r69140</td>
+    <td>https://identifiers.org/wikipathways/WP5223_r140831</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1244_r114031</td>
+    <td>https://identifiers.org/wikipathways/WP5445_r140918</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1245_r116708</td>
+    <td>https://identifiers.org/wikipathways/WP5513_r140914</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1247_r106838</td>
+    <td>https://identifiers.org/wikipathways/WP578_r140639</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1248_r106839</td>
+    <td>https://identifiers.org/wikipathways/WP617_r141856</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1250_r117861</td>
+    <td>https://identifiers.org/wikipathways/WP62_r141681</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1251_r94721</td>
+    <td>https://identifiers.org/wikipathways/WP63_r141682</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1254_r95784</td>
+    <td>https://identifiers.org/wikipathways/WP1148_r141888</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1257_r69073</td>
+    <td>https://identifiers.org/wikipathways/WP1212_r141891</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1259_r124798</td>
+    <td>https://identifiers.org/wikipathways/WP1265_r142080</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1263_r117918</td>
+    <td>https://identifiers.org/wikipathways/WP1290_r142086</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1265_r106846</td>
+    <td>https://identifiers.org/wikipathways/WP1397_r142142</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1266_r117943</td>
+    <td>https://identifiers.org/wikipathways/WP1591_r141976</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1269_r124924</td>
+    <td>https://identifiers.org/wikipathways/WP220_r140729</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1273</td>
+    <td>https://identifiers.org/wikipathways/WP2261_r141768</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1273_r125270</td>
+    <td>https://identifiers.org/wikipathways/WP2854_r141756</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1274_r125273</td>
+    <td>https://identifiers.org/wikipathways/WP2873_r142156</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1397_r117924</td>
+    <td>https://identifiers.org/wikipathways/WP3214_r142128</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1398_r117933</td>
+    <td>https://identifiers.org/wikipathways/WP3414_r142103</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1496_r126385</td>
+    <td>https://identifiers.org/wikipathways/WP3925_r140875</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1498_r126387</td>
+    <td>https://identifiers.org/wikipathways/WP3996_r141639</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP151_r117905</td>
+    <td>https://identifiers.org/wikipathways/WP4159_r140746</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1596_r126400</td>
+    <td>https://identifiers.org/wikipathways/WP4300_r141648</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP163_r117051</td>
+    <td>https://identifiers.org/wikipathways/WP4389_r140989</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP164_r106858</td>
+    <td>https://identifiers.org/wikipathways/WP4536_r141763</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP166_r117860</td>
+    <td>https://identifiers.org/wikipathways/WP466_r141138</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP175_r116832</td>
+    <td>https://identifiers.org/wikipathways/WP4806_r141858</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1770_r116575</td>
+    <td>https://identifiers.org/wikipathways/WP4808_r141620</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1771_r126406</td>
+    <td>https://identifiers.org/wikipathways/WP514_r140591</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP189_r117889</td>
+    <td>https://identifiers.org/wikipathways/WP5218_r141651</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP18_r124937</td>
+    <td>https://identifiers.org/wikipathways/WP534_r141823</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1983_r123566</td>
+    <td>https://identifiers.org/wikipathways/WP5389_r141131</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1_r117947</td>
+    <td>https://identifiers.org/wikipathways/WP5516_r140901</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP200_r117868</td>
+    <td>https://identifiers.org/wikipathways/WP5569_r140808</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2079_r125629</td>
+    <td>https://identifiers.org/wikipathways/WP694_r140968</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP207_r106865</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2084_r125280</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2140_r106868</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2141_r101828</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2152_r120589</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2185</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2185_r125281</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2271_r69962</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2318_r106871</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2375_r104965</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2852_r87526</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2872_r126379</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2902_r88290</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2904_r117927</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2910_r120273</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2928_r118946</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP298_r116836</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP29_r122790</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP300_r71890</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP317</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP317_r121826</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP318_r117878</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP327_r117891</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP336_r125350</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP339_r116720</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP33_r124578</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP350_r123113</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP353_r117944</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3592_r94329</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3626_r116838</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3638_r126357</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3652_r123392</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3673_r90722</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3675</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP373_r117904</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP374_r117938</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP37_r117902</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3855_r123115</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3857_r118851</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP385_r122794</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3864_r117939</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP396_r116828</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3979_r108126</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3991_r92555</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP401_r117919</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP407_r117910</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP412_r117038</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP413_r84705</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4183_r118998</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP426</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4344_r124750</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4345_r124739</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4351_r126146</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP435_r116571</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4398_r117929</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP441_r117913</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP447_r126310</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4491_r125976</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP454_r117932</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP456_r117890</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP460_r117865</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4690_r124752</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4763_r108519</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4820_r125307</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP493_r117912</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5023_r126538</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5024_r119059</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5025_r126537</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5056_r119775</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5128_r120386</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP512_r120690</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP519_r117058</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5240_r124561</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5298_r124558</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP539_r120581</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP55_r117948</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP567_r117881</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP578_r116798</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP608_r69184</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP63</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP63_r117935</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP662</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP662_r122074</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP683_r120459</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP6_r116713</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP79_r104913</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP85_r116710</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP88_r116521</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/wp157</td>
+    <td>https://identifiers.org/wikipathways/WP956_r142131</td>
   </tr>
   <tr>
     <td>https://identifiers.org/go/GO:0006412</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP102_r126086</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP109_r117358</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP110</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP110_r125264</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP112_r117329</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP121_r125511</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP123_r125266</td>
@@ -1128,109 +852,25 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP126_r118473</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP128_r117301</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP132_r117277</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP137_r117288</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP13_r117289</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1401_r123622</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1411_r118330</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1431_r78454</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1453_r118334</td>
+    <td>https://identifiers.org/wikipathways/WP137</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP148</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1489_r126278</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP148_r121852</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1497_r126386</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP14_r125514</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1518_r117273</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1546_r126396</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP156_r102416</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP158_r117064</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP159_r117359</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP165_r117354</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP16_r124936</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP171_r117313</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1765_r126405</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP178_r117305</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP17_r106023</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP180_r117308</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP181_r117318</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP191_r117344</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP192_r125278</td>
+    <td>https://identifiers.org/wikipathways/WP191</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP194_r117326</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP196_r117295</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP198_r117306</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP203_r118180</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP209</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP209_r118916</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP210_r117045</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP212</td>
@@ -1239,109 +879,22 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP212_r118568</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP214_r125509</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP218_r117337</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP219_r117282</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP220_r117334</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2220_r118371</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2221_r118368</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2222_r118057</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2224_r118113</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2226_r96247</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2227_r96861</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2229_r118270</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2231_r118114</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2233_r120941</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2234_r118399</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2235_r124762</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP224_r117270</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2287_r123896</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP228_r109414</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2293_r106026</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2313_r107082</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP2357_r118340</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP235_r118033</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP253</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP253_r107251</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2569_r78457</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP256_r125521</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP2578</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2578_r123105</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP257_r117340</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2591</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP260_r107252</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP261_r92999</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2626_r120717</td>
+    <td>https://identifiers.org/wikipathways/WP261</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2628_r127033</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2630_r107270</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2631_r107271</td>
@@ -1353,187 +906,37 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP264_r117857</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP266_r124926</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP275_r120446</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP27_r117323</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP280_r89704</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2829_r118448</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2869_r110881</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP287_r117360</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2888_r118034</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP290_r117328</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2915_r118329</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP291_r87661</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP2925</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2926</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP296_r117347</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2_r118865</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP301_r117356</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP312_r124579</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP321_r117315</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP328_r117271</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP32_r117350</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP331_r117349</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP332_r111625</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP345_r117303</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP346_r117330</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP354</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP354_r117309</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP359_r117304</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP361_r87431</td>
+    <td>https://identifiers.org/wikipathways/WP36</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3636_r107022</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3648_r118060</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP367_r118158</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP369_r117320</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP36_r124941</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP370_r117339</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP377_r125517</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP379_r117314</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP38</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP380_r117293</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP381_r117333</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP38_r125346</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP390_r102418</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP394_r73143</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3962_r122563</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP398_r117351</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP414</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP414_r117274</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4162_r125299</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP416_r122754</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4173_r114094</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP423_r117348</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP425_r117292</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP427_r118592</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP432_r89547</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP436_r118434</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP448_r118575</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP452_r120825</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP459_r117338</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP462_r126683</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP463_r117332</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP46_r117317</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP470_r118348</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP471</td>
@@ -1542,22 +945,10 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP471_r119998</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP472_r117324</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP478_r117297</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP490_r124735</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP499</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP499_r118552</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP503_r97401</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP510</td>
@@ -1569,127 +960,28 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP515</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP515_r117299</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP518_r118093</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP5201_r122220</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP525_r117061</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5354_r126523</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP538_r117357</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP540_r117042</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP546_r116499</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP54_r89653</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP552_r69954</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP563_r125335</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP573_r117322</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP575_r89136</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP580_r118394</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP60_r89654</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP62_r117312</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP670_r117321</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP67_r117278</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP680_r118353</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP70_r119989</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP71_r70049</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP740_r118337</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP741_r118328</td>
+    <td>https://identifiers.org/wikipathways/WP580</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP76</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP77_r89655</td>
+    <td>https://identifiers.org/wikipathways/WP9</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP7_r125063</td>
+    <td>https://identifiers.org/wikipathways/WP92</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP84_r117316</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP91_r124911</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP92_r117290</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP95_r126209</td>
+    <td>https://identifiers.org/wikipathways/WP95</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP96</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP96_r118471</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP9_r124935</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/00010</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/00071</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/00240</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1002_r117502</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1004_r115956</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1006_r80841</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1007_r117578</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1008_r105985</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1010</td>
@@ -1698,49 +990,13 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP1010_r120483</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1011_r117623</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1015_r117614</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1016_r117633</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1018_r95783</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1019_r120928</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1022_r117535</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1025_r117479</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1027</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1029_r122565</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1031_r117538</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1033_r117471</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1040_r117545</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1047</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1047_r116471</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1050_r117036</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1051_r117528</td>
@@ -1755,28 +1011,10 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP1062_r120933</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1067_r122566</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1069_r117549</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1074_r117577</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1079</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1079_r117056</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1080_r116614</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1081_r117608</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1083_r120485</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP143</td>
@@ -1824,16 +1062,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3140_r117554</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3147_r80709</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3162_r117629</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3165_r117564</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3167_r125293</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3168_r117480</td>
@@ -1842,34 +1071,10 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3176_r117959</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3182_r116446</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3193_r120912</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3195_r117476</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3197</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3198_r125339</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3200_r117588</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3212_r117559</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3219_r117521</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3223_r117496</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3228_r117560</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3240_r117507</td>
@@ -1878,43 +1083,10 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3241_r87366</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3245_r123273</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3246_r117509</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3247_r105915</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3251_r120913</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3255_r117565</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3257_r120914</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3262_r123267</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3265_r108255</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3280_r117534</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3281_r107913</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3538_r106103</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3583_r117433</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3641_r125297</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP382</td>
@@ -1950,49 +1122,1183 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP78</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP967_r117542</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP982_r117541</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP985_r117858</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP986_r105997</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP992_r117555</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP994_r106018</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP996_r117505</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP997_r117494</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/wikipathways/WP3529_r134312</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4928_r134862</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5265_r134513</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5345_r134459</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5351_r134654</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5399_r134656</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP7_r134130</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1256_r134201</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP386_r134395</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4341_r134957</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5150_r134569</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5279_r134507</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5409_r134420</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3167_r134263</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4312_r134292</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5044_r134362</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5234_r134514</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2199_r134214</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3213_r134265</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3890_r134328</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4337_r134811</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4487_r134765</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5038_r134348</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5098_r135185</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5181_r134495</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5394_r134440</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5442_r134411</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1000_r134190</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2869_r134113</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4963_r134604</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5183_r134567</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP984_r134384</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1270_r142032</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1329_r140550</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1425_r141002</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP307_r141497</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3165_r140896</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3219_r142135</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3620_r141092</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3678_r140880</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3896_r141196</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3929_r141086</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4582_r141029</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP45_r141729</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4718_r141101</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4815_r141835</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4946_r141154</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5104_r140869</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5219_r141590</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5405_r140819</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5473_r140922</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5474_r141039</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5496_r140910</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5586_r141386</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5589_r141384</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP914_r141557</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1248_r141923</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP151_r141626</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1541_r141630</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2118_r140962</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2263_r140881</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2536_r141116</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP253_r140628</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2865_r142053</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP286_r142061</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP305_r141475</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3408_r140811</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3633_r141028</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3646_r142011</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP364_r142066</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4016_r141198</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4162_r140657</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4818_r141125</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4863_r142020</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4966_r141723</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5292_r141861</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5314_r140724</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5495_r140920</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5565_r141669</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP75_r142110</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP80_r141296</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1119_r140571</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1278_r140677</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1398_r141008</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1403_r140847</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP143_r141705</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1601_r141572</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP186_r142015</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2108_r142149</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP218_r140632</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2289_r141430</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP244_r140866</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3150_r142123</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3209_r142154</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3244_r142134</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3635_r142105</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3893_r141195</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3926_r140888</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4519_r140663</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4523_r141108</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP462_r140640</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP474_r142072</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4904_r141676</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4927_r141026</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP503_r140631</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5237_r124088</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5380_r140549</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5437_r140921</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5475_r141974</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5514_r140913</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5518_r140909</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5604_r141502</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5607_r141960</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP696_r140986</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP699_r140859</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1041_r141295</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP128_r140694</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1322_r141624</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1384_r142130</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1589_r141725</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP159_r140590</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP164_r141190</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP176_r142172</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP18_r140692</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP197_r141096</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP250_r140730</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2526_r140649</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2630_r142138</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2806_r141200</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3879_r140833</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4191_r141031</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4540_r142010</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP463_r141780</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5101_r141121</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5173_r141377</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5175_r140669</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5273_r141612</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5470_r141613</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5509_r140915</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5597_r141683</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP799_r141558</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP824_r142045</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1042_r141297</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1244_r141440</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1251_r141948</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP127_r142064</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1376_r142129</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP158_r141168</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2029_r141072</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP209_r140780</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2828_r140995</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3149_r142119</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3407_r141666</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3930_r141373</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP395_r142063</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP401_r141673</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4155_r141627</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4931_r141432</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5091_r141816</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5109_r141688</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5145_r141025</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5193_r141102</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5202_r141250</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5298_r140757</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5406_r140821</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5497_r140919</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5500_r140917</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5523_r141965</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5527_r140903</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5588_r141385</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5591_r141327</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5602_r141493</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP710_r141135</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP92_r140562</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1253_r142075</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1323_r140551</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1604_r141113</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1770_r142121</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP240_r142009</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2571_r140713</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP334_r141529</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP387_r141671</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3969_r141962</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4352_r141104</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4537_r142014</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4562_r141034</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4571_r140721</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4751_r141967</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4767_r141655</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5102_r141695</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5228_r140963</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5331_r140974</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5414_r142048</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5571_r140572</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP579_r140592</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP688_r141041</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP698_r141775</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP712_r141636</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP8_r141252</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP973_r141556</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1056_r134194</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2435_r134254</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4399_r134792</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5035_r134596</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5056_r134368</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2804</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4315_r134827</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5220_r134560</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5397_r135005</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP691_r135040</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2233_r134215</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5092_r134741</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5398_r134435</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1294_r134206</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4331_r135060</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4483_r134778</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4586_r134732</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5272_r134931</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5408_r134535</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5461_r134143</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2235_r135407</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2569_r135386</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2287_r135396</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP235_r135381</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1963_r135360</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2829_r135379</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2888_r135400</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4030_r136176</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1016_r137416</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1238_r136956</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1249_r136945</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1295_r137029</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1388_r137530</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1581_r137608</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2113_r137744</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2253_r137724</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP268_r137130</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP28_r137819</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3182_r137860</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3596_r137164</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3634_r137773</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3849_r137216</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3937_r137099</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP465_r137474</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP581_r137892</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP74_r136995</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP839_r137201</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP950_r137006</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP996_r136946</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2249_r137733</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2884_r137766</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2916_r137757</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3613_r137769</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3945_r137098</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP422_r137226</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4347_r137731</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5156_r137337</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP518_r136954</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP734_r137462</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1015_r137047</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1080_r137520</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3858_r137308</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP571_r137264</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1068_r137008</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1205_r136978</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1372_r137017</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1471_r137123</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP17_r137452</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2258_r137700</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP231_r137590</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2877_r137751</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP299_r137585</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3527_r137760</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3612_r137768</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3638_r137774</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3645_r137654</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4336_r137048</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4342_r136783</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5123_r137660</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5258_r137692</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP706_r137458</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP732_r137461</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP835_r137202</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP854_r136930</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP951_r136994</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP95_r136880</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP976_r136887</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1217_r136898</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP129_r136876</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1545_r137606</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP173_r137018</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1771_r137455</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1971_r137094</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2011_r137623</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2038_r137713</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2271_r137781</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2878_r137752</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP298_r136975</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP318_r136929</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3191_r137181</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3303_r137162</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4022_r137677</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP408_r137012</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4241_r137599</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5072_r137799</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5076_r137800</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5133_r136741</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5432_r136290</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP785_r137205</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP878_r136944</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP925_r136899</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP968_r136882</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4010_r137676</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP727_r137460</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1012_r137414</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1027_r137420</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1073_r137518</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1176_r136999</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1622_r137614</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP183_r137331</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2032_r137627</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2272_r137831</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3981_r136827</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3982_r137141</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4172_r137597</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4345_r137727</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP436_r137256</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4397_r137392</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP585_r137059</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP823_r136998</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP830_r136950</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP832_r136992</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP974_r136886</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP978_r137196</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP988_r137193</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP241_r138045</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3658_r138852</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3933_r137957</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4961_r137993</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP615_r138832</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1292_r138043</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3274_r137948</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP353_r138011</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4141_r137951</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5549</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5549_r139215</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP716_r138417</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP98_r138847</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3601_r137976</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3630_r138896</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1165_r139927</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1242_r140280</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1299_r140282</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1310_r140423</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1311_r140424</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1993_r126081</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2816_r139962</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP301_r140494</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP358_r139803</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP380_r140490</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP398_r139565</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4255_r140411</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4344_r139559</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP440_r139577</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP459_r139581</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5051_r139768</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5053_r140093</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5342_r139906</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5393_r127449</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5585_r140450</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP890_r139865</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP999_r140474</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1043_r140174</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1603_r140126</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP178_r140283</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP179_r140412</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP200_r139532</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2208_r139674</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3243_r139745</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP332_r140363</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3998_r140063</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4756_r139939</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5236_r139737</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP808_r140194</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/00010</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/00071</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/00240</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/kegg.pathway/ko04064</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1000_r117475</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1001_r115319</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1005_r117527</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1012_r117547</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1013_r120484</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1014_r115964</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1017_r86918</td>
@@ -2004,79 +2310,19 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP1020_r125343</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1023_r95764</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1024_r121240</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1027_r117532</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1028</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1028_r125261</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1032_r117028</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1041_r117611</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1042_r120930</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1043_r117482</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1046_r118734</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1048_r117630</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1052_r115918</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1053_r106011</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1056_r117491</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1060_r117558</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1063_r117519</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1064_r117573</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1066_r118352</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1068_r117576</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP107</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1070_r118367</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1072_r117525</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1073_r122661</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1076_r115322</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1077_r125262</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1082_r122662</td>
@@ -2109,9 +2355,6 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP2267</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2276</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP2685</td>
   </tr>
   <tr>
@@ -2133,37 +2376,13 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP2908_r80898</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2912_r107057</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3114_r123384</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3118_r117553</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3120_r117516</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3122_r105919</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3124_r89797</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3126_r108132</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3130_r117605</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3131_r117492</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3132_r80689</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3134_r117551</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3136_r88673</td>
@@ -2175,25 +2394,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3139_r87525</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3141_r105936</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3142_r117523</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3145_r80707</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3146_r107060</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3148_r117474</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3149_r117622</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3150_r117617</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3152_r117495</td>
@@ -2202,16 +2403,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3154_r117473</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3155_r107062</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3156_r117585</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3157_r80723</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3158_r116003</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3160_r88663</td>
@@ -2229,34 +2421,19 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3174_r117536</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3177_r117596</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3184_r80764</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3185_r117574</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3186_r117610</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3190_r87958</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3191_r117636</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3192_r117569</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3194_r116414</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3196_r117498</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3197_r117515</td>
+    <td>https://identifiers.org/wikipathways/WP3197</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3198_r125339</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3199</td>
@@ -2274,31 +2451,10 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3206_r120959</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3207_r107067</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3209_r80804</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3210_r105978</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3213_r107069</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3214_r105960</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3217_r102616</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3221_r117478</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3222_r116443</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3224_r117618</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3226_r117477</td>
@@ -2307,10 +2463,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3227_r117637</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3230_r117510</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3231_r117600</td>
+    <td>https://identifiers.org/wikipathways/WP3228_r117560</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3232_r117616</td>
@@ -2322,25 +2475,13 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3234_r117613</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3236_r123271</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3242_r125627</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3243_r123114</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3244_r117557</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3248_r105983</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP325</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3250_r117483</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3254_r106002</td>
@@ -2355,31 +2496,13 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP3263_r97778</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3264_r108155</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3268_r80913</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3271_r115997</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3273_r117561</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3274_r115998</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3275_r117513</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3277_r117572</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3278_r117522</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3282_r117615</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP35</td>
@@ -2424,52 +2547,13 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP966_r116790</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP968_r117540</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP969_r117620</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP970_r117512</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP971_r117609</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP972_r117503</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP974_r117546</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP976_r115832</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP977_r117490</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP978_r119000</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP979_r80791</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP981_r117571</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP983_r117497</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP984_r80822</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP987_r80782</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP988_r105999</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP989_r124928</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP990_r117531</td>
@@ -2484,109 +2568,628 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP998</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP998_r116803</td>
+    <td>https://identifiers.org/wikidata/Q101991</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP999_r125338</td>
+    <td>https://identifiers.org/wikidata/Q119689804</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikidata/Q189092</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikidata/Q189159</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikidata/Q210861</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1425</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP186</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1878</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1892</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP241</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3558</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3656</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3656_r117955</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3790</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3933</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3965</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4034</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4098</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4110</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4225</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4249</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4316_r120818</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4320</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4629</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4718</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4720</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4725</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4752</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4753</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4830</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4946</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4961</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4969</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5104</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5292</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP531</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5314</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP69</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-2559580</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-446652</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-6783589</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-8853884</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2839</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3359</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3604</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4074</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4075</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4224</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4259</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4533_r103380</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4936</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5039</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP716</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2507</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2725</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2729</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2813</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2824</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2877</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3561</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP364</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3853</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4342</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4756</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4818</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4912</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5035</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5036</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5068</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5089</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP554</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP690_r117170</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1254</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP150</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2082</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2332</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3380</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3930</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP412</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4147_r94394</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4331</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP501_r117742</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5078</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5188_r122585</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP710</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/WP4172</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/map04350</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP135_r125589</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4220_r128514</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3863_r127932</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4627_r129311</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5187_r129216</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1577_r125586</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4541_r128259</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5023_r128731</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5367_r129307</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP79_r128037</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2838_r127796</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3857_r129329</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5271_r123973</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1034_r117472</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1065_r117504</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1071_r117041</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1096_r117445</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1099_r107084</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1113_r122663</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1118_r117439</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1121_r117459</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1126_r122665</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1129</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1129_r117465</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1137</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1142_r122786</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1151_r117438</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1154_r122865</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1156</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1157_r117462</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1168_r120693</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1170_r106058</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1180_r117992</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1200</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1566</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1567_r120958</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1621</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1642_r126822</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1647</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1669</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1684</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1701</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1910</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2276</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2564_r122569</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2565</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2566</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2566_r97588</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3115_r125631</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3123</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3123_r117544</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3151_r122792</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3163_r117506</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3166_r117533</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3173_r86896</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3178_r117963</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3183_r117550</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3187_r117489</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3189_r117514</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3205_r117862</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3208_r117500</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3211_r117575</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3216_r87528</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3224_r117618</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3230_r117510</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3237_r117624</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3249_r115748</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3252_r117627</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3272_r125632</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3276_r122795</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4198_r116588</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP852_r117392</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP860_r117388</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP863_r109476</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP879_r117385</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP880</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP886_r117405</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP905_r117402</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP906_r95768</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP915_r117381</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP918_r116818</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP920</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP921_r117410</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP927_r118823</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP934_r120691</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP936_r106941</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP959_r95751</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP963_r117082</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP964_r111047</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP979_r80791</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2859_r125290</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2860_r102771</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2861_r89174</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2862_r124471</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2918_r123066</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP869_r87027</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP946_r117386</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1229_r122784</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1231_r118327</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1236_r105894</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3856_r117226</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP752_r117193</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP755_r109452</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP769</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP774_r117208</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP779_r125337</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP782_r123954</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP787_r95787</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP790_r117206</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP793_r117212</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP801_r117188</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP803_r116822</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP805_r106122</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP815_r117207</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP827_r117192</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP840_r95750</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP844</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP844_r109474</td>
   </tr>
   <tr>
     <td>https://identifiers.org/ensembl/ENSG00000100030</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04064</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/reactome/R-HSA-109581</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1227986</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1234174</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1236394</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1257604</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-177929</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-373755</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-397795</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-445989</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-449836</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-450294</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-453279</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5218859</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5625740</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5625900</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5625970</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5626467</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5627123</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5663213</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5663220</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5673001</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5693532</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/reactome/R-HSA-5693571</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5693606</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5696398</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6804756</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-69242</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8878171</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-888590</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9009391</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP129</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1403</td>
@@ -2598,19 +3201,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP1772</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1772_r126407</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1871</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1871_r114636</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1883_r116645</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1929_r116436</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1980</td>
@@ -2625,133 +3216,28 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP2029</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2113_r105848</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2366_r123102</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2666</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP268</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP268_r126344</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2697_r118420</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2752_r114711</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2761_r114639</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2768_r114887</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2798</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2848</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP2849</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2855</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2855_r126378</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP288</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2884</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3330_r114798</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3377</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3377_r114713</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3396</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3549</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3549_r115006</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3567_r123633</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3569</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3569_r126149</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3579_r115028</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3596_r105860</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3624</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3624_r122572</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP368</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3807_r114882</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3828_r114950</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3872_r123397</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3915</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3915_r123920</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3925</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3929</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3937_r120792</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3947_r106483</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP405_r126311</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP408</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4109</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4109_r114703</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4210</td>
@@ -2760,1261 +3246,256 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP4239</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4290_r118611</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4427_r116411</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4432_r114816</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4437_r114927</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4448</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4448_r114871</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4478</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4506_r123552</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4534_r127231</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP453_r116780</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP465</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP465_r122957</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP474</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4784_r111633</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4789_r117775</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4846</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4883</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4891_r120510</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4905_r124898</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4942_r115789</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5205_r122560</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP5231</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5231_r123335</td>
+    <td>https://identifiers.org/wikipathways/WP5285</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5285_r125922</td>
+    <td>https://identifiers.org/kegg.pathway/map04151</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5315_r125120</td>
+    <td>https://identifiers.org/wikipathways/WP1530</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP560</td>
+    <td>https://identifiers.org/wikipathways/WP167</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP75</td>
+    <td>https://identifiers.org/wikipathways/WP170</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-109704</td>
+    <td>https://identifiers.org/wikipathways/WP1800</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-15869</td>
+    <td>https://identifiers.org/wikipathways/WP1887</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-163200</td>
+    <td>https://identifiers.org/wikipathways/WP1906</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-165159</td>
+    <td>https://identifiers.org/wikipathways/WP2380</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2162123</td>
+    <td>https://identifiers.org/wikipathways/WP2684</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2426168</td>
+    <td>https://identifiers.org/wikipathways/WP2702</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3299685</td>
+    <td>https://identifiers.org/wikipathways/WP2717</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-448706</td>
+    <td>https://identifiers.org/wikipathways/WP2735</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5627117</td>
+    <td>https://identifiers.org/wikipathways/WP2760</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-71291</td>
+    <td>https://identifiers.org/wikipathways/WP2773</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-71387</td>
+    <td>https://identifiers.org/wikipathways/WP2815</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-72187</td>
+    <td>https://identifiers.org/wikipathways/WP2873</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-844456</td>
+    <td>https://identifiers.org/wikipathways/WP3399</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8937144</td>
+    <td>https://identifiers.org/wikipathways/WP3851</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-927802</td>
+    <td>https://identifiers.org/wikipathways/WP3878</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9614657</td>
+    <td>https://identifiers.org/wikipathways/WP4008</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9615017</td>
+    <td>https://identifiers.org/wikipathways/WP4055</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9617828</td>
+    <td>https://identifiers.org/wikipathways/WP4073</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-SCE-6790166</td>
+    <td>https://identifiers.org/wikipathways/WP4099</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/19587085</td>
+    <td>https://identifiers.org/wikipathways/WP4190</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP100</td>
+    <td>https://identifiers.org/wikipathways/WP4428</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP100_r107114</td>
+    <td>https://identifiers.org/wikipathways/WP4442</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1397</td>
+    <td>https://identifiers.org/wikipathways/WP4518</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1797</td>
+    <td>https://identifiers.org/wikipathways/WP4536</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1820_r115076</td>
+    <td>https://identifiers.org/wikipathways/WP4585</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1845</td>
+    <td>https://identifiers.org/wikipathways/WP4806</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1913_r116792</td>
+    <td>https://identifiers.org/wikipathways/WP4963</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1918_r114743</td>
+    <td>https://identifiers.org/wikipathways/WP5037</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP195</td>
+    <td>https://identifiers.org/wikipathways/WP5088</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP195_r126269</td>
+    <td>https://identifiers.org/wikipathways/WP5096</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2002</td>
+    <td>https://identifiers.org/wikipathways/WP5122</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2064</td>
+    <td>https://identifiers.org/wikipathways/WP5216_r126981</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2118</td>
+    <td>https://identifiers.org/wikipathways/WP5274</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2355_r126374</td>
+    <td>https://identifiers.org/wikipathways/WP5280</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2369</td>
+    <td>https://identifiers.org/wikipathways/WP702</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2456_r119185</td>
+    <td>https://identifiers.org/wikipathways/Wp1822</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2572_r119251</td>
+    <td>https://identifiers.org/wikipathways/Wp428</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2637_r117962</td>
+    <td>https://identifiers.org/wikipathways/Wp47</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2650_r114781</td>
+    <td>https://identifiers.org/wikipathways/Wp4803</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2686_r114831</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04520</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2719_r118475</td>
+    <td>https://identifiers.org/kegg.pathway/map04010</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2720_/_WP2718_/_WP2722</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2722</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2772</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2777_r115083</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2799</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2801_r114700</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2846_r116729</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP313</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP313_r118735</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3298</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3298_r123268</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3300_r102277</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3308</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3310</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3315_r114867</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3316_r114910</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3331</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3349_r114836</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3362</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3381</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3391</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3404</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3529_r120882</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3545</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3580</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3608</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3651_r122573</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3655_r117757</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP366</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3827</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3844</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3845_r123396</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3871_r106754</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3874</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3874_r116461</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3875_r117657</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP391_r117794</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3941</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP395</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3_r127273</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4018_r127315</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4068_r114757</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4085_r112448</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4156</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4156_r126053</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4195</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4195_r123457</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4220</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4220_r126301</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4271</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4277</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4292</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4292_r124957</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4404_r114682</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4481_r121702</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4486_r119317</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4524</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4524_r119308</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4535</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4560_r108134</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4562</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4564_r124549</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4577</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4688</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4688_r120418</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4740</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4742_r122056</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4877_r124642</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4879_r123415</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4921</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4928_r120795</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5008_r114996</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5014_r123626</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5048_r115132</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5049</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5049_r124803</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5101</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5102</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5103</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5105_r125316</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5108</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5109</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5110</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5111</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5112</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5113_r125765</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5136_r126553</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5158_r126484</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5172_r122518</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5175</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5176_r126993</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5189_r122491</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5256_r124640</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5260_r124647</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5283</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP528_r120525</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5345_r127117</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5347_r126468</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5351_r126041</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5385_r126898</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5399_r127059</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5422_r127461</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP550</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP704</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa03050</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04512</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map05416</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-112314</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1368071</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1368082</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1368108</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1433557</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-167060</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-186797</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-196791</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-202733</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2172127</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2404192</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2454202</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-375165</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-451927</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-512988</td>
+    <td>https://identifiers.org/reactome/R-HSA-5601884</td>
   </tr>
   <tr>
     <td>https://identifiers.org/reactome/R-HSA-5654736</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5654738</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5654741</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/reactome/R-HSA-5654743</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5685939</td>
+    <td>https://identifiers.org/wikidata/Q1532402</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-74752</td>
+    <td>https://identifiers.org/wikipathways/Glycogenolysis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9648002</td>
+    <td>https://identifiers.org/wikipathways/Glycolysis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9663891</td>
+    <td>https://identifiers.org/wikipathways/WP185</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-983705</td>
+    <td>https://identifiers.org/wikipathways/WP1907</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1438_r108357</td>
+    <td>https://identifiers.org/wikipathways/WP1919</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1455_r126351</td>
+    <td>https://identifiers.org/wikipathways/WP2038</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1528_r126391</td>
+    <td>https://identifiers.org/wikipathways/WP211</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1584_r126398</td>
+    <td>https://identifiers.org/wikipathways/WP2513</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1797_r115092</td>
+    <td>https://identifiers.org/wikipathways/WP2817</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1919_r114739</td>
+    <td>https://identifiers.org/wikipathways/WP2902</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1935_r114951</td>
+    <td>https://identifiers.org/wikipathways/WP3436</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2666_r115050</td>
+    <td>https://identifiers.org/wikipathways/WP3645</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2722_r114804</td>
+    <td>https://identifiers.org/wikipathways/WP4121</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2735_r114761</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2736</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2736_r114707</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2766</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2766_r123311</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2805_r106523</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2817_r123894</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP322_r126329</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3310_r114740</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3348</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3348_r114623</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3365</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3365_r116649</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3376_r114918</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3543_r114907</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3577_r117684</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3580_r120915</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3644_r118983</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3801_r114821</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP383</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3865_r123636</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3876_r123398</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4038_r115097</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4039_r115072</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4046_r115024</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4064_r114864</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4079_r114978</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4134_r114724</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4150</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4150_r116677</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4298_r123508</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4313</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4435_r114868</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4443</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4443_r116430</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4456_r114901</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4535_r109210</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4545_r127388</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4580</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4580_r123582</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4707_r116586</td>
+    <td>https://identifiers.org/wikipathways/WP4549</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4900</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4900_r123440</td>
+    <td>https://identifiers.org/wikipathways/WP4933</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4963_r122690</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4970_r113773</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5005_r114959</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5013_r115068</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5186</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5400_r127098</td>
+    <td>https://identifiers.org/wikipathways/WP5053</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP73</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/kegg.genes/path:hsa04520</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04010</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/kegg.genes/path:hsa04530</td>
+    <td>https://identifiers.org/wikipathways/1980</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/kegg.genes/path:map02040</td>
+    <td>https://identifiers.org/wikipathways/WP1803</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-168249</td>
+    <td>https://identifiers.org/wikipathways/WP1821</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-194138</td>
+    <td>https://identifiers.org/wikipathways/WP3299_r88676</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-381426</td>
+    <td>https://identifiers.org/wikipathways/WP4065</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5633007</td>
+    <td>https://identifiers.org/wikipathways/WP4174_r125300</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-75153</td>
+    <td>https://identifiers.org/wikipathways/WP4521</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-75157</td>
+    <td>https://identifiers.org/wikipathways/WP5312</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-75158</td>
+    <td>https://identifiers.org/wikipathways/WP1254_r95784</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-917937</td>
+    <td>https://identifiers.org/wikipathways/WP1259_r124798</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9645135</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-983169</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP157</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1591_r118366</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1604</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1742</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1795_r114644</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1838_r114673</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP183_r117060</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1978_r116415</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2032_r126346</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2272_r118427</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2645_r123107</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2657</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2657_r114989</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2673_r114835</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2746_r112687</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2753_r114726</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2854_r106431</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2873_r123110</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3332_r115047</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3336_r114753</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3354_r123634</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3396_r116651</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3414_r106735</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3548_r114805</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3593_r117786</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3601_r117687</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3630_r121716</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3802_r115032</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3814_r114806</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3925_r123124</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3981_r108114</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3996_r125197</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4049_r114799</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4099_r114861</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4159_r124609</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4172_r127444</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4300_r123361</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4389_r123503</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4397_r123433</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP43_r122562</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4536_r110928</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4630_r127187</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4658_r127394</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP466_r117096</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4760_r108400</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4806_r127253</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4808_r117708</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4861_r124658</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4922_r117792</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4999_r114921</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5016_r115094</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5151_r126030</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5218_r124884</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP534_r125947</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5398_r127052</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP585</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP585_r126248</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP61_r126223</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP694_r106139</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04720</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04810</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04912</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1254</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP150</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1794_r112591</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1839_r114671</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1859_r114706</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1872_r114634</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1925_r115034</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1928_r114708</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1941_r126408</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2029_r120346</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2064_r117162</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2082</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2332</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2636_r116781</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2720_r115081</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2728_r114648</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2729_r117777</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2749_r115089</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3286_r106367</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3363</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3363_r114949</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3380</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3380_r114940</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3407_r124812</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3798_r116687</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3827_r114956</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP383_r118423</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3930_r116431</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3941_r123242</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP399_r119242</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4070_r114830</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4071_r114653</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4107_r114631</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP411_r126308</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP412</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4147_r94394</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4155_r127383</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4329_r124845</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4331_r107654</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4352_r102218</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4454_r114685</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4483_r107927</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4875_r116427</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5003_r116589</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP501_r117742</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5036_r125920</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5039_r125309</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5078_r125927</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5089_r118192</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5091_r124069</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5097_r126447</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5103_r119170</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5109_r120391</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5145_r124659</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5188_r122585</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5331_r126176</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5358_r127191</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5406_r127152</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP561_r124939</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP710</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP710_r126217</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP712_r126218</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP113_r116497</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1211_r106095</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1212_r87791</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1213_r125265</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1217_r106096</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1218_r106097</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1253_r71753</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1258_r69162</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1272_r120916</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1313_r116791</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1318_r116859</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1326_r107094</td>
+    <td>https://identifiers.org/wikipathways/WP1266_r117943</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1327_r116881</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1330_r116872</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1331_r101904</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1335_r106071</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1336_r116862</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1337_r116770</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1338_r88301</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1339</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1339_r122866</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1344</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1344_r122591</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1349_r82353</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1351</td>
@@ -4023,61 +3504,19 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP1351_r95786</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1355_r116584</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1356</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1356_r116884</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1358_r116448</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1372_r116901</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1375_r106080</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1376_r117985</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1384_r118905</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1386_r71515</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1387_r116846</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1388_r116877</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1389_r118402</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1393</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1393_r111031</td>
+    <td>https://identifiers.org/wikipathways/WP1496_r126385</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP152_r118460</td>
+    <td>https://identifiers.org/wikipathways/WP1596_r126400</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP154_r116851</td>
+    <td>https://identifiers.org/wikipathways/WP163_r117051</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP157_r116837</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP19</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP19_r125413</td>
+    <td>https://identifiers.org/wikipathways/WP189_r117889</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP201_r109433</td>
@@ -4089,19 +3528,163 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP2067_r126370</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/wikipathways/WP2079_r125629</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2140_r106868</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2152_r120589</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP222_r116835</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2316_r106870</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2375_r104965</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP273_r118921</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2852_r87526</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2872_r126379</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2904_r117927</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2928_r118946</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP29_r122790</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP300_r71890</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP324_r116855</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP336_r125350</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP33_r124578</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP350_r123113</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3626_r116838</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3673_r90722</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3675_r90178</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3864_r117939</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP396_r116828</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3991_r92555</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4021_r93043</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP407_r117910</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP413_r84705</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4398_r117929</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP447_r126310</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4491_r125976</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP456_r117890</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP468_r116845</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4820_r125307</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP488_r117859</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP493_r117912</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5024_r119059</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5128_r120386</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP512_r120690</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/wp157</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1218_r106097</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1313_r116791</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1326_r107094</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1330_r116872</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1331_r101904</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1339</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1355_r116584</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1356</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1358_r116448</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1375_r106080</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1393_r111031</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP152_r118460</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP19</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP19_r125413</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/wikipathways/WP211_r118479</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP215_r116895</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2199_r125282</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2207_r117414</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2208_r125283</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2209</td>
@@ -4125,58 +3708,10 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP2212</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2212_r123064</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP222_r116835</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2258_r106133</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2316_r106870</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP232_r117886</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP234_r117936</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP240_r124585</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP273_r118921</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2841_r116712</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2940_r124694</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3009_r127040</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP324_r116855</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP341_r118480</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3675_r90178</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP387_r117906</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3992_r123369</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4020_r123454</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4021_r93043</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP402_r118447</td>
@@ -4185,667 +3720,1276 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP4231_r96496</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4364_r116681</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP445_r96476</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP450_r117903</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP451_r116856</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP467_r122797</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP468_r116845</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP476_r116847</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP488_r117859</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP498_r116891</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP509_r89865</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP548_r73522</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP562_r116864</td>
+    <td>https://identifiers.org/wikipathways/WP2625_r125287</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP617_r124757</td>
+    <td>https://identifiers.org/wikipathways/WP4297_r129257</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP730_r116583</td>
+    <td>https://identifiers.org/wikipathways/WP522_r116829</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1021_r125260</td>
+    <td>https://identifiers.org/wikipathways/WP65_r128033</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1034_r117472</td>
+    <td>https://identifiers.org/wikipathways/WP3184_r128739</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1035_r80710</td>
+    <td>https://identifiers.org/wikipathways/WP55_r128026</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1036_r118344</td>
+    <td>https://identifiers.org/wikipathways/WP1344_r115731</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1045_r117635</td>
+    <td>https://identifiers.org/wikipathways/WP2910_r129303</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1049_r117517</td>
+    <td>https://identifiers.org/wikipathways/WP4701_r117377</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1055_r117539</td>
+    <td>https://identifiers.org/wikipathways/WP5058_r128421</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1065_r117504</td>
+    <td>https://identifiers.org/wikipathways/WP1431_r129250</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1071_r117041</td>
+    <td>https://identifiers.org/wikipathways/WP2597_r129119</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1075_r120905</td>
+    <td>https://identifiers.org/wikipathways/WP5433_r127841</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1078_r95747</td>
+    <td>https://identifiers.org/wikipathways/WP3130_r128758</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1086_r117457</td>
+    <td>https://identifiers.org/wikipathways/WP4299_r128824</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1090_r117446</td>
+    <td>https://identifiers.org/wikipathways/WP4329_r128743</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1091_r117468</td>
+    <td>https://identifiers.org/wikipathways/WP5277_r128533</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1096_r117445</td>
+    <td>https://identifiers.org/wikipathways/WP85_r128042</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1099_r107084</td>
+    <td>https://identifiers.org/wikipathways/WP3253_r128628</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1105_r87031</td>
+    <td>https://identifiers.org/wikipathways/WP4853_r128505</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1112_r117448</td>
+    <td>https://identifiers.org/wikidata/Q106291866</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1113_r122663</td>
+    <td>https://identifiers.org/wikidata/Q115189418</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1114_r120486</td>
+    <td>https://identifiers.org/wikidata/Q14762265</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1118_r117439</td>
+    <td>https://identifiers.org/wikidata/Q14864044</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1119_r122664</td>
+    <td>https://identifiers.org/wikidata/Q1517140</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1121_r117459</td>
+    <td>https://identifiers.org/wikidata/Q1805481</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1122_r117440</td>
+    <td>https://identifiers.org/wikidata/Q189814</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1126_r122665</td>
+    <td>https://identifiers.org/wikidata/Q1981368</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1129</td>
+    <td>https://identifiers.org/wikidata/Q6556360</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1129_r117465</td>
+    <td>https://identifiers.org/wikidata/Q70690408</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1133_r115921</td>
+    <td>https://identifiers.org/wikipathways/WP1471</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1134_r117463</td>
+    <td>https://identifiers.org/wikipathways/WP1823</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1135_r118616</td>
+    <td>https://identifiers.org/wikipathways/WP1939</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1137</td>
+    <td>https://identifiers.org/wikipathways/WP2653</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1138_r117076</td>
+    <td>https://identifiers.org/wikipathways/WP272</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1141_r117456</td>
+    <td>https://identifiers.org/wikipathways/WP2740</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1142_r122786</td>
+    <td>https://identifiers.org/wikipathways/WP2916</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1148_r117469</td>
+    <td>https://identifiers.org/wikipathways/WP3556</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1151_r117438</td>
+    <td>https://identifiers.org/wikipathways/WP4136</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1152_r68529</td>
+    <td>https://identifiers.org/wikipathways/WP4172</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1153_r97063</td>
+    <td>https://identifiers.org/wikipathways/WP4422</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1154_r122865</td>
+    <td>https://identifiers.org/wikipathways/WP4860</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1156</td>
+    <td>https://identifiers.org/wikipathways/WP4861</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1157_r117462</td>
+    <td>https://identifiers.org/wikipathways/WP4868</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1159_r117441</td>
+    <td>https://identifiers.org/wikipathways/WP4876</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1165_r117450</td>
+    <td>https://identifiers.org/wikipathways/WP4918</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1168_r120693</td>
+    <td>https://identifiers.org/wikipathways/WP4923</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1170_r106058</td>
+    <td>https://identifiers.org/wikipathways/WP5022</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1176_r117467</td>
+    <td>https://identifiers.org/wikipathways/WP5093_r126328</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1179_r117451</td>
+    <td>https://identifiers.org/wikipathways/WP51</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1180_r117992</td>
+    <td>https://identifiers.org/wikipathways/WP5241</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1182_r117449</td>
+    <td>https://identifiers.org/wikipathways/WP5241_r124023</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1184_r117466</td>
+    <td>https://identifiers.org/wikipathways/WP673</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1185_r71477</td>
+    <td>https://identifiers.org/wikipathways/WP678</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1186_r117442</td>
+    <td>https://identifiers.org/wikipathways/WP1812</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1189_r117452</td>
+    <td>https://identifiers.org/wikipathways/WP1938</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1193_r106064</td>
+    <td>https://identifiers.org/wikipathways/WP2688</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1195_r95748</td>
+    <td>https://identifiers.org/wikipathways/WP4210_r123510</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1200</td>
+    <td>https://identifiers.org/wikipathways/WP4324</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1200_r111030</td>
+    <td>https://identifiers.org/wikipathways/WP4571</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1566</td>
+    <td>https://identifiers.org/wikipathways/WP4962</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1567_r120958</td>
+    <td>https://identifiers.org/wikipathways/WP5074</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1581_r115241</td>
+    <td>https://identifiers.org/wikipathways/WP5121_r125321</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1621</td>
+    <td>https://identifiers.org/reactome/R-HSA-8964539</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1622_r95452</td>
+    <td>https://identifiers.org/wikipathways/WP197</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1631_r126401</td>
+    <td>https://identifiers.org/wikipathways/WP2035</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1642_r126822</td>
+    <td>https://identifiers.org/wikipathways/WP2261</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1647</td>
+    <td>https://identifiers.org/wikipathways/WP23</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1652_r95454</td>
+    <td>https://identifiers.org/wikipathways/WP2652</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1667_r122877</td>
+    <td>https://identifiers.org/wikipathways/WP2691</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1669</td>
+    <td>https://identifiers.org/wikipathways/WP2874</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1684</td>
+    <td>https://identifiers.org/wikipathways/WP2875</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1701</td>
+    <td>https://identifiers.org/wikipathways/WP2878</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1910</td>
+    <td>https://identifiers.org/wikipathways/WP2879</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2563_r87715</td>
+    <td>https://identifiers.org/wikipathways/WP410</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2564_r122569</td>
+    <td>https://identifiers.org/wikipathways/WP4159</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2565</td>
+    <td>https://identifiers.org/wikipathways/WP437</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2566</td>
+    <td>https://identifiers.org/wikipathways/WP4686</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2566_r97588</td>
+    <td>https://identifiers.org/wikipathways/WP5061</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2638_r117427</td>
+    <td>https://identifiers.org/wikipathways/WP5071</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3115_r125631</td>
+    <td>https://identifiers.org/wikipathways/WP5073</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3117_r105918</td>
+    <td>https://identifiers.org/wikipathways/WP5171</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3123</td>
+    <td>https://identifiers.org/wikipathways/WP5193</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3123_r117544</td>
+    <td>https://identifiers.org/wikipathways/WP5195</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3151_r122792</td>
+    <td>https://identifiers.org/wikipathways/WP495</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3159_r117556</td>
+    <td>https://identifiers.org/wikipathways/WP5445</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3163_r117506</td>
+    <td>https://identifiers.org/wikipathways/WP5452</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3166_r117533</td>
+    <td>https://identifiers.org/wikipathways/WP44577</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3173_r86896</td>
+    <td>https://identifiers.org/wikipathways/WP4506_r128203</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3178_r117963</td>
+    <td>https://identifiers.org/wikipathways/WP5034_r129109</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3179_r117567</td>
+    <td>https://identifiers.org/wikipathways/WP4577_r128399</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3183_r117550</td>
+    <td>https://identifiers.org/wikipathways/WP5118_r129308</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3187_r117489</td>
+    <td>https://identifiers.org/wikipathways/WP1291_r128190</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3189_r117514</td>
+    <td>https://identifiers.org/wikipathways/WP3649_r129294</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3203_r117053</td>
+    <td>https://identifiers.org/wikipathways/WP3652_r129298</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3205_r117862</td>
+    <td>https://identifiers.org/wikipathways/WP3855_r128795</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3208_r117500</td>
+    <td>https://identifiers.org/wikipathways/WP4494_r129228</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3211_r117575</td>
+    <td>https://identifiers.org/ec-code/2.7.11.31</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3216_r87528</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04064</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3237_r117624</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04211</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3249_r115748</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04931</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3252_r117627</td>
+    <td>https://identifiers.org/kegg.pathway/map00020</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3253_r120497</td>
+    <td>https://identifiers.org/kegg.pathway/map00190</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3270_r117488</td>
+    <td>https://identifiers.org/kegg.pathway/map04150</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3272_r125632</td>
+    <td>https://identifiers.org/kegg.pathway/map04310</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3276_r122795</td>
+    <td>https://identifiers.org/kegg.pathway/map04330</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4198_r116588</td>
+    <td>https://identifiers.org/kegg.pathway/map04630</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP848_r117403</td>
+    <td>https://identifiers.org/pathwaycommons/Q15842</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP852_r117392</td>
+    <td>https://identifiers.org/wikipathways/WP129</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP854_r117389</td>
+    <td>https://identifiers.org/wikipathways/WP1539</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP860_r117388</td>
+    <td>https://identifiers.org/wikipathways/WP1788</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP863_r109476</td>
+    <td>https://identifiers.org/wikipathways/WP1799</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP869_r87027</td>
+    <td>https://identifiers.org/wikipathways/WP1866</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP878_r117390</td>
+    <td>https://identifiers.org/wikipathways/WP1902</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP879_r117385</td>
+    <td>https://identifiers.org/wikipathways/WP1927</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP880</td>
+    <td>https://identifiers.org/wikipathways/WP2586</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP880_r116816</td>
+    <td>https://identifiers.org/wikipathways/WP2666</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP886_r117405</td>
+    <td>https://identifiers.org/wikipathways/WP2670</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP887_r117382</td>
+    <td>https://identifiers.org/wikipathways/WP268</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP890_r125516</td>
+    <td>https://identifiers.org/wikipathways/WP2710</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP897_r115894</td>
+    <td>https://identifiers.org/wikipathways/WP2742</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP898_r117411</td>
+    <td>https://identifiers.org/wikipathways/WP2798</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP899_r117412</td>
+    <td>https://identifiers.org/wikipathways/WP2848</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP902_r117066</td>
+    <td>https://identifiers.org/wikipathways/WP288</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP905_r117402</td>
+    <td>https://identifiers.org/wikipathways/WP2884</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP906_r95768</td>
+    <td>https://identifiers.org/wikipathways/WP3318</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP912_r117407</td>
+    <td>https://identifiers.org/wikipathways/WP3396</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP914_r117029</td>
+    <td>https://identifiers.org/wikipathways/WP3624</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP915_r117381</td>
+    <td>https://identifiers.org/wikipathways/WP3804</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP917_r69316</td>
+    <td>https://identifiers.org/wikipathways/WP3849</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP918_r116818</td>
+    <td>https://identifiers.org/wikipathways/WP3929</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP920</td>
+    <td>https://identifiers.org/wikipathways/WP3931</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP921_r117410</td>
+    <td>https://identifiers.org/wikipathways/WP3932</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP923_r117383</td>
+    <td>https://identifiers.org/wikipathways/WP405</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP925_r106938</td>
+    <td>https://identifiers.org/wikipathways/WP408</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP927_r118823</td>
+    <td>https://identifiers.org/wikipathways/WP4102</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP931_r117393</td>
+    <td>https://identifiers.org/wikipathways/WP4109</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP934_r120691</td>
+    <td>https://identifiers.org/wikipathways/WP4131</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP936_r106941</td>
+    <td>https://identifiers.org/wikipathways/WP422</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP942_r117406</td>
+    <td>https://identifiers.org/wikipathways/WP4223</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP945_r117394</td>
+    <td>https://identifiers.org/wikipathways/WP4448</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP946_r117386</td>
+    <td>https://identifiers.org/wikipathways/WP4478</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP948_r117391</td>
+    <td>https://identifiers.org/wikipathways/WP4705</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP950_r117408</td>
+    <td>https://identifiers.org/wikipathways/WP474</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP951_r71672</td>
+    <td>https://identifiers.org/wikipathways/WP4792</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP952_r117384</td>
+    <td>https://identifiers.org/wikipathways/WP4846</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP955_r117395</td>
+    <td>https://identifiers.org/wikipathways/WP4883</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP956_r117583</td>
+    <td>https://identifiers.org/wikipathways/WP4884</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP957_r106945</td>
+    <td>https://identifiers.org/wikipathways/WP4927</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP959_r95751</td>
+    <td>https://identifiers.org/wikipathways/WP4987</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP963_r117082</td>
+    <td>https://identifiers.org/wikipathways/WP5066</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP964_r111047</td>
+    <td>https://identifiers.org/wikipathways/WP5123</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP973_r117543</td>
+    <td>https://identifiers.org/wikipathways/WP5176</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP980_r120584</td>
+    <td>https://identifiers.org/wikipathways/WP5396</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2859_r125290</td>
+    <td>https://identifiers.org/wikipathways/WP545</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2860_r102771</td>
+    <td>https://identifiers.org/wikipathways/WP560</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2861_r89174</td>
+    <td>https://identifiers.org/wikipathways/WP623</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2862_r124471</td>
+    <td>https://identifiers.org/wikipathways/WP661</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2863_r86962</td>
+    <td>https://identifiers.org/wikipathways/WP697</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2918_r123066</td>
+    <td>https://identifiers.org/wikipathways/WP712</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1221_r117222</td>
+    <td>https://identifiers.org/wikipathways/WP75</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1224_r67169</td>
+    <td>https://identifiers.org/reactome/R-HSA-112310.5</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1227_r117225</td>
+    <td>https://identifiers.org/reactome/R-HSA-418457</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1229_r122784</td>
+    <td>https://identifiers.org/reactome/R-HSA-5676590</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1231_r118327</td>
+    <td>https://identifiers.org/reactome/R-HSA-8949215</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1232_r122785</td>
+    <td>https://identifiers.org/reactome/R-HSA-9675108</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1233_r104968</td>
+    <td>https://identifiers.org/wikipathways/WP1422</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1236_r105894</td>
+    <td>https://identifiers.org/wikipathways/WP1743</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1238_r117221</td>
+    <td>https://identifiers.org/wikipathways/WP1793</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1239_r117043</td>
+    <td>https://identifiers.org/wikipathways/WP1850</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2587_r117081</td>
+    <td>https://identifiers.org/wikipathways/WP2593</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3856_r117226</td>
+    <td>https://identifiers.org/wikipathways/WP2678</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP752_r117193</td>
+    <td>https://identifiers.org/wikipathways/WP3591_r88424</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP755_r109452</td>
+    <td>https://identifiers.org/wikipathways/WP3595_r89883</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP763_r117213</td>
+    <td>https://identifiers.org/wikipathways/WP3676</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP768_r117198</td>
+    <td>https://identifiers.org/wikipathways/WP3850</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP769_r117209</td>
+    <td>https://identifiers.org/wikipathways/WP4088</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP774_r117208</td>
+    <td>https://identifiers.org/wikipathways/WP4129</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP775_r117189</td>
+    <td>https://identifiers.org/wikipathways/WP4424</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP779_r125337</td>
+    <td>https://identifiers.org/wikipathways/WP4507</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP782_r123954</td>
+    <td>https://identifiers.org/wikipathways/WP4561</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP784_r117187</td>
+    <td>https://identifiers.org/wikipathways/WP4723</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP785_r117218</td>
+    <td>https://identifiers.org/wikipathways/WP4856</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP787_r95787</td>
+    <td>https://identifiers.org/wikipathways/WP4925</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP788_r117196</td>
+    <td>https://identifiers.org/wikipathways/WP4971</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP790_r117206</td>
+    <td>https://identifiers.org/wikipathways/WP5095</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP793_r117212</td>
+    <td>https://identifiers.org/wikipathways/WP5095_r120801</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP798_r117211</td>
+    <td>https://identifiers.org/wikipathways/WP5294</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP799_r119598</td>
+    <td>https://identifiers.org/reactome/R-HSA-2028269</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP801_r117188</td>
+    <td>https://identifiers.org/wikidata/Q1067506</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP802_r68820</td>
+    <td>https://identifiers.org/wikidata/Q1218293</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP803_r116822</td>
+    <td>https://identifiers.org/wikidata/Q14859847</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP804_r119597</td>
+    <td>https://identifiers.org/wikidata/Q14864989</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP805_r106122</td>
+    <td>https://identifiers.org/wikidata/Q14876119</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP808_r117190</td>
+    <td>https://identifiers.org/wikidata/Q184726</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP813_r117197</td>
+    <td>https://identifiers.org/wikidata/Q189100</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP815_r117207</td>
+    <td>https://identifiers.org/wikidata/Q189101</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP823_r117214</td>
+    <td>https://identifiers.org/wikidata/Q658145</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP824_r117210</td>
+    <td>https://identifiers.org/wikidata/Q994741</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP826_r117199</td>
+    <td>https://identifiers.org/wikipathways/268</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP827_r117192</td>
+    <td>https://identifiers.org/wikipathways/WP1865</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP830_r118407</td>
+    <td>https://identifiers.org/wikipathways/WP1870</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP831_r117215</td>
+    <td>https://identifiers.org/wikipathways/WP2436</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP832_r109471</td>
+    <td>https://identifiers.org/wikipathways/WP2596</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP833_r117191</td>
+    <td>https://identifiers.org/wikipathways/WP2597</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP835_r117200</td>
+    <td>https://identifiers.org/wikipathways/WP2598</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP839_r106131</td>
+    <td>https://identifiers.org/wikipathways/WP2600</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP840_r95750</td>
+    <td>https://identifiers.org/wikipathways/WP2706</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP844</td>
+    <td>https://identifiers.org/wikipathways/WP2840</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP844_r109474</td>
+    <td>https://identifiers.org/wikipathways/WP3888</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP411</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4479</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4657</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4917</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4947_r118070</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5076</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2197</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2533</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2868</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3963</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4304</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4344</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5137_r120230</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5199_r125330</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1276_r106947</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1290</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1293_r116447</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1303_r106959</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1312_r117010</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP131_r71770</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP142_r122788</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1466_r126353</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP155_r87029</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1964_r126411</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1965_r126412</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2148_r90920</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2204</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2204_r123061</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2205</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2205_r117376</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP227_r126794</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2290_r79988</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP25_r123859</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2669</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP279</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2811_r117000</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP294_r116821</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP31</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP347</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3660_r116924</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3830_r116931</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3901</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3901_r116991</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3916_r123359</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP397_r120694</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP39_r124942</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP439_r116789</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP487_r116942</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP492_r116922</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5171_r125324</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP537_r116932</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5421_r127565</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP568_r125349</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP94_r118829</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-163200</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP100</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP134</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1797</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1845</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP195</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2118</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2369</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2772</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2880</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP313</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3298</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3308</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3362</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3381</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3391</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3404</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3545</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3580</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3844</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3874</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3941</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4142</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4156</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4195</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4195_r123457</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4220</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4271</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4277</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4292</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4481_r121702</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4486_r119317</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4524</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4535</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4562</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4577</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4688</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4740</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4921</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5049</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5101</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5102</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5103</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5108</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5109</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5110</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5111</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5112</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5175</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP550</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP704</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1936</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3338</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3565</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3797</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP399</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4066</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4153</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4228</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4595</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5026</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5064</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP516</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5303</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP98</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/map00010</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1822</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2774</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3585</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3585_r123390</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4721</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4922</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4922_r117792</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4965_r124975</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5050_r124734</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3575</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3869</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3980_r125572</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4361</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5065_r124651</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5142</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5257</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5302</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.genes/path:mmu04060</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.genes/path:mmu04120</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.genes/path:mmu04630</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.genes/path:mmu04670</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/mmu04064</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/1254</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP116_r117893</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1241_r106835</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1256</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1261_r108380</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1269</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1269_r124924</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1270</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1271</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1273</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1526_r126388</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1560_r116839</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP175_r116832</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1763_r126404</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1983_r123566</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2074_r117928</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2075_r116517</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP207_r106865</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2084_r125280</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2185</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP222</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP238_r117579</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2432_r116842</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP251_r116722</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2573_r125285</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP258</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP265_r117870</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2902_r88290</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP295</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP317</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP327_r117891</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP336</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP339</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP350</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3625_r116680</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3632_r114011</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3654_r123275</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3663_r123371</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3675</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP385_r122794</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP386</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3979_r108126</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP403</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP413</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP426</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4265_r123509</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP431_r107205</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP434</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP441</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP449</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP458</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP493</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP523</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP523_r120790</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5242_r126495</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP543</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP544_r117882</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP572_r117874</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP57_r117945</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP63</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP65</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP662</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP723</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP723_r117953</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP88_r116521</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3628_r129194</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1213_r128193</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4918_r128404</td>
   </tr>
   <tr>
     <td>https://identifiers.org/go/GO:0006635</td>
@@ -4890,82 +5034,55 @@ WHERE {
     <td>https://identifiers.org/kegg.pathway/hsa04630</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-109606</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2029480</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2559582</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/reactome/R-HSA-2559585</td>
   </tr>
   <tr>
     <td>https://identifiers.org/reactome/R-HSA-2559586</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6802957</td>
+    <td>https://identifiers.org/reactome/R-HSA-448706</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-68877</td>
+    <td>https://identifiers.org/reactome/R-HSA-6802957</td>
   </tr>
   <tr>
     <td>https://identifiers.org/reactome/R-HSA-69481</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-69620</td>
+    <td>https://identifiers.org/reactome/R-HSA-72187</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP138_r126323</td>
+    <td>https://identifiers.org/reactome/R-HSA-844456</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1422</td>
+    <td>https://identifiers.org/reactome/R-SCE-6790166</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1422_r118359</td>
+    <td>https://identifiers.org/wikipathways/19587085</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1397</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1531</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1789_r123621</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1793</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1793_r114723</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1811_r117719</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1877_r115085</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1896</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1896_r118168</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1992_r105839</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1993</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/wikipathways/WP2002</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/wikipathways/WP206</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2267_r117179</td>
+    <td>https://identifiers.org/wikipathways/WP2064</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP229</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP229_r123644</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2509</td>
@@ -4974,208 +5091,64 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP2509_r101755</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP254_r118382</td>
+    <td>https://identifiers.org/wikipathways/WP2720_/_WP2718_/_WP2722</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2593</td>
+    <td>https://identifiers.org/wikipathways/WP2722</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2671_r114637</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2678</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2678_r114990</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2731_r114710</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2757_r114832</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2848_r120814</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2849_r117150</td>
+    <td>https://identifiers.org/wikipathways/WP2799</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2876</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2876_r124933</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2881_r117716</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2943_r117758</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP299</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3333_r114884</td>
+    <td>https://identifiers.org/wikipathways/WP3310</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3337_r114984</td>
+    <td>https://identifiers.org/wikipathways/WP3331</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3351_r114777</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3360_r114809</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3364_r114906</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3394_r114863</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3404_r114859</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3617_r106541</td>
+    <td>https://identifiers.org/wikipathways/WP3608</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP363</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3676</td>
+    <td>https://identifiers.org/wikipathways/WP366</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3676_r116809</td>
+    <td>https://identifiers.org/wikipathways/WP3827</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3679_r117678</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3794_r114952</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP384_r126334</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3863_r121717</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3959_r118468</td>
+    <td>https://identifiers.org/wikipathways/WP395</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3982</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4043_r115019</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4054_r114662</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP4083</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4083_r116439</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4136_r127352</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4142_r124466</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4197_r120647</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4301_r97800</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4320_r123412</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4389</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4441_r114968</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4461_r115058</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4493_r123502</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP4522</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4522_r126061</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4545</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4559_r104316</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4561</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP4666</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4666_r127443</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4725_r126692</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4925</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP496</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4980_r114748</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4983_r114778</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4986_r114791</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP500_r126238</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5087</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5087_r127398</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5114_r119169</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5155_r124435</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5174_r121476</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5187_r122433</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5198_r123858</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5233_r123583</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5265_r123524</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5275_r127389</td>
+    <td>https://identifiers.org/wikipathways/WP5233</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP5277</td>
@@ -5184,1987 +5157,58 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP5279</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5279_r126878</td>
+    <td>https://identifiers.org/wikipathways/WP5283</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5323_r127176</td>
+    <td>https://identifiers.org/kegg.pathway/hsa03050</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP536_r126243</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04512</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5409_r127181</td>
+    <td>https://identifiers.org/kegg.pathway/map05416</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP545_r126244</td>
+    <td>https://identifiers.org/wikipathways/WP1455_r126351</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP692_r126232</td>
+    <td>https://identifiers.org/wikipathways/WP2736</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP704_r117787</td>
+    <td>https://identifiers.org/wikipathways/WP2766</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1222556</td>
+    <td>https://identifiers.org/wikipathways/WP2814</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-201451</td>
+    <td>https://identifiers.org/wikipathways/WP3348</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-380994</td>
+    <td>https://identifiers.org/wikipathways/WP3365</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-381038</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-381183</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5336415</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5610787</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5632684</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6806664</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8939902</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8978934</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP106_r126966</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1544_r126395</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1841_r114961</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1850_r114629</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1862_r114672</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1895_r116417</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1936</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1936_r114876</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1939_r123614</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1980_r115027</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1995_r116455</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2333_r72015</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2406_r119249</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2670_r115078</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2762_r114840</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2790_r123309</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2814_r102407</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP325_r126355</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3370_r114909</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3565</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3602_r124180</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3795_r114638</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3797</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3797_r114630</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3805_r114977</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3819_r114698</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3823_r114850</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3878_r123399</td>
+    <td>https://identifiers.org/wikipathways/WP383</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3942</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3971_r117820</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP399</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP4022</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4066</td>
+    <td>https://identifiers.org/wikipathways/WP4150</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4066_r115055</td>
+    <td>https://identifiers.org/wikipathways/WP4313</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4074_r115046</td>
+    <td>https://identifiers.org/wikipathways/WP4443</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4075_r114916</td>
+    <td>https://identifiers.org/wikipathways/WP4580</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4094_r118516</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4117_r115001</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4153</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4228</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4228_r126057</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4321_r123362</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4396_r123350</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4415_r114647</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4434_r114826</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4595</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4656_r125785</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4758_r108284</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP481_r120562</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4838_r110282</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4871_r120412</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4991_r114822</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5012_r115043</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5026</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5033_r118996</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5037_r123599</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5064</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5064_r126486</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP516</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP516_r126241</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5183_r124655</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5190_r122630</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5303_r125334</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP715_r106831</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP98</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP98_r126210</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-163841</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-201681</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2555396</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3238698</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6791312</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6806003</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-68875</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8848021</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8964539</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1603_r126681</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1826_r114659</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1867_r114888</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1868_r114889</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1890_r114657</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1909</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1909_r114854</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP197</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2038_r117173</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2261_r123065</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2324_r126372</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2369_r118380</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2374_r126376</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2652</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2652_r114617</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2672_r115070</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2691_r114717</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2702_r114883</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2780_r101567</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2864_r108133</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2874</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2875</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2875_r117690</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2879</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3339_r123314</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3359_r114800</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3574_r100972</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3668_r123393</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3670_r117829</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3822_r114970</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3838_r114823</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3982_r108115</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4010_r119296</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4072_r114675</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4091_r114919</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4095_r114865</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP410</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP410_r117108</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4190_r124024</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4222_r124530</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4233_r117644</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4239_r127351</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4249_r127354</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4433_r114820</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4445_r115061</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4462</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4462_r102079</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4518_r124952</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4583_r123408</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4655_r123496</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4686</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4756_r120634</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4803_r110008</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4814_r116554</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4876_r124661</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4936_r124645</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4973_r114676</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4995_r116659</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP49_r126305</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5021_r114788</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5031_r122564</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5061</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5071</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5073</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5092_r119997</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5171</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5193</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5195</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5195_r122514</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5213_r126591</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5223_r127062</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5236_r125331</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5389_r126906</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5402_r127208</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP691_r126229</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP727_r116775</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-168928</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-429914</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5633008</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8866654</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-975634</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP127_r126270</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1775_r117674</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1798_r115062</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1843_r114936</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1870_r114635</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1908_r114772</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1981</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2197</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2197_r117710</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2447_r113794</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2656_r117964</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2664_r116412</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2748_r114693</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2760_r115008</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2776_r114665</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2794_r112538</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2828_r127276</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2868_r127248</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3308_r114856</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3320_r114650</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3350_r114624</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3352_r116523</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3791_r114774</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3804_r120741</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP395_r126335</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3963_r107557</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3972_r127259</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP400_r126307</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4055_r115039</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4096_r114808</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4125_r115042</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4299_r126536</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4344</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4357_r127272</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4438_r114928</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4478_r121699</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4485_r119318</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4496_r102693</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4532_r103287</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4539_r113659</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4705_r123423</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4868_r125361</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4931_r117699</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4989_r114810</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5011_r115036</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5027_r124644</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5137_r120230</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5179_r121899</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5182_r122168</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5191_r125329</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5193_r122440</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5199_r125330</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5200_r124413</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5202_r122439</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5227_r127291</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5269_r125332</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5277_r126879</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP530_r126242</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5348_r127123</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5368_r126815</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.genes/path:mmu04060</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.genes/path:mmu04120</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.genes/path:mmu04630</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.genes/path:mmu04670</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map04712</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/mmu04064</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/1254</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP103_r116834</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1243_r89985</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1249_r116718</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1252_r106841</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1256</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1256_r117031</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1261_r108380</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1262_r106843</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1264_r106845</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1269</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1270</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1270_r117880</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1271</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1396_r117923</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1461_r126352</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1526_r126388</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1538_r126393</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1560_r116839</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1763_r126404</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1996_r117243</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2074_r117928</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2075_r116517</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2108_r117234</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP222</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2230_r117231</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2279</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2279_r125284</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2292_r97515</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2312</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP238_r117579</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2432_r116842</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP251_r116722</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2573_r125285</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2579_r107043</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP258</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2619</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2621</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2621_r125286</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2622</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2622_r122568</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2623</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2623_r118414</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2624</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2624_r123106</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2634_r124900</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP265_r117870</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2851_r93086</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2941_r124695</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2944_r118618</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2945</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2945_r118622</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP295</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP295_r117879</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP297_r117907</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3015_r118606</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP307_r117950</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP310_r122791</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP336</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP339</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP350</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3620_r118336</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3622_r105906</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3625_r116680</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3632_r114011</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3654_r123275</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3661_r123241</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3662_r116429</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3663_r123371</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP386</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3860_r117237</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP386_r121829</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP403</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP403_r116843</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP413</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP41_r117892</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4232_r117230</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4265_r123509</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP431_r107205</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4335_r117875</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP434</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4346_r125078</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4347_r124982</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4348_r126096</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4349_r124746</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP434_r117949</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4350_r124736</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP441</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4466_r125303</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4474_r102094</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP449</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP458</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP458_r117908</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4597_r118602</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4598_r105283</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4599_r118601</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4627_r108158</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4835_r110293</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP493</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP522_r124209</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP523</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP523_r120790</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5242_r126495</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5305_r125906</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5391_r126859</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5392_r126838</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP543</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP543_r116831</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP544_r117882</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP553_r117867</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP570_r106904</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP571_r117883</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP572_r117874</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP57_r117945</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP618_r126224</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP626_r126225</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP627_r117255</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP65</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP65_r116717</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP723</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP723_r117953</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/ec-code/2.7.11.31</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04211</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04931</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map00020</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map00190</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map04150</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map04310</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map04330</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map04630</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/pathwaycommons/Q15842</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-140534</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-168255</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2173793</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-380972</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6793080</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8868773</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8950505</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1539</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1788</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1788_r114948</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1799</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1866</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1866_r114681</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1902</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1903_r123617</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1927</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1939</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2253_r112071</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2431_r120812</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2542_r117834</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2586</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2586_r126477</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP262_r116630</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2640_r117652</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2670</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2683_r115105</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2708_r118518</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2710</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP272</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP272_r126345</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2742</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2742_r115011</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2791_r114812</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2795_r117670</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3318</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3318_r116416</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3568_r114842</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3627_r119388</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3634_r116602</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3680_r123395</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3799_r115004</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3804</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3829_r115073</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3849</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3849_r116433</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3858_r117850</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3891_r106161</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3931</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3931_r117717</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3932</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3932_r124527</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4052_r115018</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4102</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4102_r114926</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4103_r114965</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4116_r114750</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4122_r112676</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4131</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4136</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4194_r124538</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP422</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4223</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4223_r127396</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP422_r123420</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4422</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4422_r116405</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4538_r104390</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4565_r124548</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4705</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4746_r123317</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4786_r117852</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4792</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4792_r124888</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4884</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4884_r124646</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4918</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4918_r123419</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4923</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4927</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4974_r114678</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4987</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4987_r114795</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5022</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5022_r115106</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5066</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5066_r116631</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5115_r126845</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5123</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5146_r120619</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5148_r124629</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5156_r120744</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5176</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP521_r111034</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5241</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5241_r124023</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5255_r123355</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5318_r125826</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5362_r127046</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5382_r126867</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5396</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5396_r126992</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP545</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP558_r126246</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP581_r117099</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP623</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP661</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP697</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP697_r106826</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP712</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP734_r125662</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/map04151</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1461973</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-202131</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-204005</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-216083</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2559580</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-354192</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3858494</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-446652</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-446728</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6783589</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-73933</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8853884</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP12_r126682</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1530_r126392</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1559_r126397</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP167</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP167_r124883</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP170</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1800</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1829_r117760</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1884_r114829</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1885_r114759</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1887</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1887_r114905</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1906</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1916_r101493</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP205_r126339</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP206_r117723</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP236_r105873</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2380</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2684</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2702</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2717</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2727_r114982</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2733_r114931</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2735</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2760</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2773</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2815_r102408</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2826_r106727</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2873</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3359</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3379_r116650</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3391_r114857</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3399</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3399_r114727</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3413_r116601</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3560_r114775</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3599_r105845</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP368_r126356</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3878</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3890_r124504</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4008</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4008_r125786</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4055</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4069_r114668</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4073</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4073_r115041</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4099</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4101_r114972</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4190</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4224</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4259</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4259_r126062</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP430_r122069</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4426_r116406</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4428</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4442</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4449_r114915</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4487_r102376</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4518</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4536</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4566_r127382</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4585</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4585_r127234</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4685_r123437</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4806</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4906_r123416</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4963</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4977_r114705</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4993_r114834</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4998_r114920</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5004_r114953</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5037</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5044_r125311</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5085_r119785</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5088</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5088_r119639</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5096</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5122</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5122_r119484</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5216_r126981</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5234_r123515</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5262_r124649</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5274</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5274_r123603</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5280</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5280_r127387</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5287_r126824</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5352_r127115</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5365_r127455</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5376_r127460</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5401_r127102</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5407_r127173</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP702</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP702_r106643</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/Wp1822</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/Wp428</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/Wp47</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/Wp4803</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1222499</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-202403</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2682334</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-442755</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5668599</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6804758</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-71240</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-74182</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-77289</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8941413</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8948216</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q189101</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q994741</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/268</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1434_r126280</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1541_r126394</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1831_r114967</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1870</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1902_r114966</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1938_r116664</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2436</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2491_r117698</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2679_r114894</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2688</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2688_r114839</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2706</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2725_r118515</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2740_r115029</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2747_r114955</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2799_r116730</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP314_r126286</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3303_r123243</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3472_r114932</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3551_r114846</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3803_r115075</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3888</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3942_r106517</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3995_r119304</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4035_r114837</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4042_r114902</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4050_r115060</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4053_r115012</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP408_r126312</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4097_r114689</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP411</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4131_r115066</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4241_r123413</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4324</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4324_r123506</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4479</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP455_r117740</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4571</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4595_r123765</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4657</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4657_r120007</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4863_r124639</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4923_r110416</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4947_r118070</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4962_r122013</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5007_r114995</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5072_r115764</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5094_r126204</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5110_r120392</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5121_r125321</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5133_r124643</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5186_r127081</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5220_r122761</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5324_r126449</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP560_r126247</td>
+    <td>https://identifiers.org/wikipathways/WP5186</td>
   </tr>
   <tr>
     <td>https://identifiers.org/kegg.pathway/map00120</td>
@@ -7179,175 +5223,34 @@ WHERE {
     <td>https://identifiers.org/kegg.pathway/map04610</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-181431</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-199977</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-399721</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4085001</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-451326</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8853383</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9031628</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-977443</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-983189</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP111_r126524</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1589_r126399</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1785_r115049</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1815_r114719</td>
+    <td>https://identifiers.org/wikipathways/WP176</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1818</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1845_r114815</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1858_r114646</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP186_r126268</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1873_r123615</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP2371</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2436_r107129</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2446_r116593</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2526_r123068</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2597_r117821</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2665_r114691</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2677_r114848</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2721_r114660</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2754_r118519</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2769_r118521</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2773_r114976</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2806_r127174</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2857_r118395</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3299_r88676</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3335_r114733</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3384_r116652</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3555_r115017</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3614_r106542</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3666_r117778</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3842_r114725</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3927_r123370</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3934_r107151</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4037_r114714</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4047_r114729</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4112_r114866</td>
+    <td>https://identifiers.org/wikipathways/WP3888_r126337</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4125</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4126_r115079</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4132_r114699</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP4149_r107159</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4153_r124950</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4174_r125300</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4211_r107570</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4238_r125301</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4460_r115054</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4521</td>
+    <td>https://identifiers.org/wikipathways/WP4217</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4747</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP474_r117098</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4816_r126322</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4912_r124650</td>
+    <td>https://identifiers.org/wikipathways/WP4919</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4920_r117791</td>
@@ -7356,364 +5259,43 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP4921_r116643</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4927_r121715</td>
+    <td>https://identifiers.org/wikipathways/WP5015</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4945_r118497</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04720</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4984_r114779</td>
+    <td>https://identifiers.org/kegg.pathway/hsa04912</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5101_r123625</td>
+    <td>https://identifiers.org/wikipathways/WP1981</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5149_r120374</td>
+    <td>https://identifiers.org/wikipathways/WP3363</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5173_r125325</td>
+    <td>https://identifiers.org/wikipathways/WP3963_r107557</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5175_r125326</td>
+    <td>https://identifiers.org/wikipathways/WP5103_r119170</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5300_r126494</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5312</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5312_r125794</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5380_r127451</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP699_r124934</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-166520</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-190236</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-388841</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5625886</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6806834</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6807070</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP177_r118410</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1809_r114615</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1813_r117721</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1818_r123618</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1981_r122822</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2037_r126350</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP208_r116928</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2290_r79988</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2371_r126375</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2380_r126377</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2516_r116808</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2646_r106722</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2653_r114764</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2669_r114844</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP269_r116923</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2911_r120808</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3297_r106734</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3301_r127230</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3327_r114993</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3357_r115035</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3382_r114881</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3392_r114875</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP34_r126221</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3553_r114626</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3562_r114656</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3575_r123637</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3611_r120501</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3684_r114828</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3811_r115052</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3818_r114929</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3830_r116931</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3869_r118463</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3967_r108139</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4124_r114640</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4133_r114945</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4189_r124610</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4317_r114309</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4400_r108112</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4431_r114811</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4436_r114913</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4451_r114962</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4479_r121700</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4661_r117646</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4674_r127252</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4747_r126320</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4752_r125305</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4754_r126321</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP492_r116922</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4941_r120578</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4950_r124899</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4975_r114695</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4990_r114813</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5009_r114998</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5061_r115541</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5112_r119153</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5117_r119395</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5119_r125320</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5130_r126092</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5144_r120537</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5154_r123805</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5171_r125324</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5284_r124340</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5304_r125192</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5321_r125240</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP550_r126245</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP619_r120967</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP101_r116930</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1205_r116934</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP124_r116621</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP125_r120778</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1276_r106947</td>
+    <td>https://identifiers.org/kegg.pathway/map04712</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1277_r69423</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1278_r69373</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1279_r106948</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1280_r117033</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1281_r116979</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1282_r106950</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1283_r106951</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1284_r116958</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP1286_r125510</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1287_r106953</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1288_r125274</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1289_r86846</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1290</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1290_r95785</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1291_r125275</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1293_r116447</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1294_r117030</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1295_r69375</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1296_r69445</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1297_r124808</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1299_r108381</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1300_r106956</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1301_r116999</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1302_r106958</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1303_r106959</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1309_r72183</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1310_r120918</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1311_r125276</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1312_r117010</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP131_r71770</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP133_r116963</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP139_r107234</td>
@@ -7722,19 +5304,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP140_r122787</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP142_r122788</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP145_r117047</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP146</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1466_r126353</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP146_r116996</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP147_r116983</td>
@@ -7752,67 +5322,22 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP1488_r126277</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1493_r125277</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP149_r117026</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP155_r87029</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP160_r116973</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP161_r117014</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP173_r116998</td>
+    <td>https://identifiers.org/wikipathways/WP1538_r126393</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP188_r116964</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1963_r126410</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1964_r126411</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1965_r126412</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP1968_r126776</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2132_r107237</td>
+    <td>https://identifiers.org/wikipathways/WP2230_r117231</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2148_r90920</td>
+    <td>https://identifiers.org/wikipathways/WP2279</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP217_r116993</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2204</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2204_r123061</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2205</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2205_r117376</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP227_r126794</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2353_r94733</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2360_r118112</td>
+    <td>https://identifiers.org/wikipathways/WP2312</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP2376_r125515</td>
@@ -7821,52 +5346,46 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP2433_r120271</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2541_r117021</td>
+    <td>https://identifiers.org/wikipathways/WP2579_r107043</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2562_r106972</td>
+    <td>https://identifiers.org/wikipathways/WP2619</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP25_r123859</td>
+    <td>https://identifiers.org/wikipathways/WP2621</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2621_r125286</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2622</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2623</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2623_r118414</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2624</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP270_r104907</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP276_r106973</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP278_r116992</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP279</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2811_r117000</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP281_r116929</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP282_r125289</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP294_r116821</td>
+    <td>https://identifiers.org/wikipathways/WP2851_r93086</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP302_r117012</td>
+    <td>https://identifiers.org/wikipathways/WP2944_r118618</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP303_r117006</td>
+    <td>https://identifiers.org/wikipathways/WP2945</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP305_r116969</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP31</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP316_r117022</td>
+    <td>https://identifiers.org/wikipathways/WP2945_r118622</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP319_r116984</td>
@@ -7875,19 +5394,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP337</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP347</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP347_r124581</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP348_r95749</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP349_r117020</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP351_r117008</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP355_r116981</td>
@@ -7896,103 +5403,43 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP356</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP358_r116802</td>
+    <td>https://identifiers.org/wikipathways/WP358</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP360_r116936</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3628_r118620</td>
+    <td>https://identifiers.org/wikipathways/WP3661_r123241</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3649_r116515</td>
+    <td>https://identifiers.org/wikipathways/WP3662_r116429</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3650_r110699</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3653_r116408</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3660_r116924</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP372_r118914</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP375_r120572</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP376_r116622</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP378_r116971</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3873_r123360</td>
+    <td>https://identifiers.org/wikipathways/WP3860_r117237</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP3881_r117007</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3882_r117017</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3887_r107039</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP3894_r126100</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3901</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3901_r116991</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3916_r123359</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP397_r120694</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP39_r124942</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP406_r116926</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP409_r116975</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP40_r124947</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP418_r118918</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4229_r96564</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4268_r106992</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP42_r116974</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP439_r116789</td>
+    <td>https://identifiers.org/wikipathways/WP4232_r117230</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP442_r116977</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP44_r116985</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP4501_r107729</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP457_r117025</td>
+    <td>https://identifiers.org/wikipathways/WP4597_r118602</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4599_r118601</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP469_r104998</td>
@@ -8001,19 +5448,7 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP473_r125508</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP487_r116942</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP489_r117034</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP502_r72163</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP504_r125345</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5057_r125312</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP508_r116943</td>
@@ -8025,37 +5460,31 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP517_r116994</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP520_r116968</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP529_r117004</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP537_r116932</td>
+    <td>https://identifiers.org/wikipathways/WP5305_r125906</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP547_r116949</td>
+    <td>https://identifiers.org/wikipathways/WP5392_r126838</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP557_r116935</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP565_r116917</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP568_r125349</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP569_r116982</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP574_r116976</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP590_r116946</td>
+    <td>https://identifiers.org/wikipathways/WP618_r126224</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP622_r120357</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP626_r126225</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP627_r117255</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP632_r114498</td>
@@ -8064,955 +5493,58 @@ WHERE {
     <td>https://identifiers.org/wikipathways/WP654_r125336</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP655_r89792</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP656_r107003</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP66_r117016</td>
+    <td>https://identifiers.org/kegg.genes/path:hsa04520</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP73_r116967</td>
+    <td>https://identifiers.org/kegg.genes/path:hsa04530</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP74_r109429</td>
+    <td>https://identifiers.org/kegg.genes/path:map02040</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP86_r116978</td>
+    <td>https://identifiers.org/wikipathways/WP157</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP8_r116988</td>
+    <td>https://identifiers.org/wikipathways/WP1604</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP94_r118829</td>
+    <td>https://identifiers.org/wikipathways/WP1742</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP97_r116933</td>
+    <td>https://identifiers.org/wikipathways/WP1909</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-166058</td>
+    <td>https://identifiers.org/wikipathways/WP2657</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-166166</td>
+    <td>https://identifiers.org/wikipathways/WP4462</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1679131</td>
+    <td>https://identifiers.org/wikipathways/WP4655_r123496</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-168164</td>
+    <td>https://identifiers.org/wikipathways/WP585</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-195253</td>
+    <td>https://identifiers.org/go/GO:0006694</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-196807</td>
+    <td>https://identifiers.org/go/GO:0006699</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1980143</td>
+    <td>https://identifiers.org/go/GO:0032803</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5686938</td>
+    <td>https://identifiers.org/go/GO:0035382</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-73887</td>
+    <td>https://identifiers.org/go/GO:0042368</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8877330</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8878166</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8934593</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8936459</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-975155</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-975871</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q101991</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q119689804</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q189092</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q189159</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q210861</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP134</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1425</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1425_r126273</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1533_r121695</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP15_r125000</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1602_r126381</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1878</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1878_r114994</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1892</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1892_r114801</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP241</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP241_r126998</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP24_r126263</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2583_r117181</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2643_r123429</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2685_r115038</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2713_r101337</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2737_r114782</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2763_r114991</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2765_r114632</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2775_r112684</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2880</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2880_r117734</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP288_r125016</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3358_r117671</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3374_r116654</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3486_r115071</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3558</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP357_r125347</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3656</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3656_r117955</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3658_r116670</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3790</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3790_r114737</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3812_r86498</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3824_r114895</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP382_r126333</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3933</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3933_r116372</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3935_r118425</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3953_r106206</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3965</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3965_r117154</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4034</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4034_r117793</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4041_r115096</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4058_r114958</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4098</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4098_r112669</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4105_r114652</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4106_r115015</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4110</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4110_r114716</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4142</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4204_r123410</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4225</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4249</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP428_r127397</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4297_r124272</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4316_r120818</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4320</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4457_r114904</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4484_r107333</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4582_r123435</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4718</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4718_r125822</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4720</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4720_r124747</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4725</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4790_r116413</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4815_r110276</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4844_r123491</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4961</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4961_r123345</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4969</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4969_r125829</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4976_r114704</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4994_r114860</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4997_r114897</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5104</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5104_r120389</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5152_r125997</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5219_r126795</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5320_r125916</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5346_r127110</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5353_r127177</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5405_r127147</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5412_r127218</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP58_r126237</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP69</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-111885</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-187037</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-193704</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2187338</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-416476</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-418594</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8949664</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9033500</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP134_r126271</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1423_r124472</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1495_r126384</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1600_r119518</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1781_r115021</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1910_r123308</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1926_r116663</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1934_r114661</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2018_r126338</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2363_r117737</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP247_r126341</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2655_r115010</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2684_r114683</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2839_r117746</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2853_r116557</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2858_r116763</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3338</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3338_r113035</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3397_r114694</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3547_r114869</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3570_r114701</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP35_r117729</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3604</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3604_r117661</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3839_r114677</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4061_r114925</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4074</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4075</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4084_r115063</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4088_r114654</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4141_r122432</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4205_r127242</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4224_r126033</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4337_r108190</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4414_r115098</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4418_r116449</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4423_r116410</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4429_r114655</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4442_r114985</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4459_r114983</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4494_r103559</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4533_r103380</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4724_r124741</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4753_r125306</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4788_r117658</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4842_r119114</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4936</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP497_r119105</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5006_r114964</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5038_r124641</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5039</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5098_r125315</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5111_r119173</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5181_r124851</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5211_r122576</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5222_r122737</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5276_r126877</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5394_r126941</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP53_r126236</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP661_r126226</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP716</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP716_r126219</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1170546</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-156580</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2028269</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2032785</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-446203</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q1067506</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q1218293</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q14859847</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q14864989</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q14876119</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q184726</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q189100</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikidata/Q658145</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP129_r117774</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1545_r118363</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP179_r127277</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1865</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1865_r114627</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1971_r126414</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2011_r118441</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2035_r126348</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2261</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2291_r117696</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP23</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2328_r120805</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2485_r117161</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2596_r122782</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2597</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2598</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2600</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2691</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2714_r115016</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2743_r114622</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2759_r114731</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2770_r114783</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2781_r115045</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2797_r115040</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2840_r120866</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2878</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2878_r116507</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2895_r118446</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3312_r114960</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3381_r114878</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3498_r86366</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3793_r114730</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3810_r114892</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3813_r114944</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3998_r127157</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4022_r126316</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4051_r114765</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4159</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4186_r123455</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP437</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP437_r126309</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4421_r114702</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4553_r103606</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4659_r126319</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP47_r126306</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4823_r119116</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4829_r109219</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4860_r124635</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4917</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4917_r119111</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4932_r126861</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4981_r114751</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5055_r122621</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5076_r124654</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5090_r118898</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5169_r122351</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP524_r117113</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5397_r127034</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/kegg.pathway/hsa04010</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3108214</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3232118</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3232142</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3899300</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4085377</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4090294</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-416482</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-418597</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-428157</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4551638</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4570464</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4615885</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4655427</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-4755510</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8856825</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/1980</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP170_r116552</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP176_r121696</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1780_r101456</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1803</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1821</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1840_r114742</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1874_r114914</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP197_r120482</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2036_r126349</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2203_r126371</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2533</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2658_r112577</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2744_r114620</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2889_r107138</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3334_r123313</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3355_r114763</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3806_r114794</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3879_r123400</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3963</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4065</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4065_r115077</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4093_r115000</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4135_r114790</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4191_r106347</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4262_r127350</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4284_r108123</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4304</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4304_r123411</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4419_r116450</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4540_r127211</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP477_r117044</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4799_r120793</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4949_r125693</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4985_r114785</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5010_r115023</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5124_r123917</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5273_r123985</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5283_r126558</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP5366_r127454</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP554_r126205</td>
+    <td>https://identifiers.org/go/GO:0140306</td>
   </tr>
   <tr>
     <td>https://identifiers.org/kegg.pathway/map04213</td>
@@ -9021,985 +5553,3010 @@ WHERE {
     <td>https://identifiers.org/kegg.pathway/map04550</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-196757</td>
+    <td>https://identifiers.org/wikipathways/WP2034</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-73884</td>
+    <td>https://identifiers.org/wikipathways/WP2359</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/0</td>
+    <td>https://identifiers.org/wikipathways/WP2489</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP107_r126266</td>
+    <td>https://identifiers.org/wikipathways/WP2783</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1531_r118354</td>
+    <td>https://identifiers.org/wikipathways/WP2882_r126680</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1742_r126403</td>
+    <td>https://identifiers.org/wikipathways/WP3287_r121705</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1784_r114845</td>
+    <td>https://identifiers.org/wikipathways/WP3674_r117841</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1803_r115091</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1804_r114980</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1857_r114645</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1927_r114986</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP1982_r116442</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2059_r119468</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2332_r126373</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2361_r117731</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP2879_r116462</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3302_r123388</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3307_r114877</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3390_r114793</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3545_r116644</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3552_r115007</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3584_r124897</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3640_r122579</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3657_r123358</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3859_r117840</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3958_r117148</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP3980_r125572</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4036_r114838</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4086_r114992</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4104_r115013</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4111_r114692</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4113_r114847</td>
+    <td>https://identifiers.org/wikipathways/WP3859</td>
   </tr>
   <tr>
     <td>https://identifiers.org/wikipathways/WP4124</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4157_r126055</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4217_r120623</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4225_r126065</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4240_r127399</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4271_r124608</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4288_r124269</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/wikipathways/WP4361</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/wikipathways/WP4431</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4504_r119316</td>
+    <td>https://identifiers.org/wikipathways/WP4491</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4521_r124518</td>
+    <td>https://identifiers.org/wikipathways/WP541</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4629_r127017</td>
+    <td>https://identifiers.org/wikipathways/WP1021_r128191</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4698_r123493</td>
+    <td>https://identifiers.org/wikipathways/WP2841_r128757</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4721_r124745</td>
+    <td>https://identifiers.org/wikipathways/WP3873_r127936</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4726_r124753</td>
+    <td>https://identifiers.org/wikipathways/WP4944_r129304</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4944_r118493</td>
+    <td>https://identifiers.org/wikipathways/WP42_r128013</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP496_r119106</td>
+    <td>https://identifiers.org/wikipathways/WP4479_r129206</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4979_r114747</td>
+    <td>https://identifiers.org/wikipathways/WP5119_r129305</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4996_r114893</td>
+    <td>https://identifiers.org/wikipathways/WP3971_r128293</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5052_r118777</td>
+    <td>https://identifiers.org/wikipathways/WP40_r128001</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5063_r118833</td>
+    <td>https://identifiers.org/wikipathways/WP4228_r128520</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5065_r124651</td>
+    <td>https://identifiers.org/wikipathways/WP4545_r128535</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5108_r120390</td>
+    <td>https://identifiers.org/wikipathways/WP4758_r129306</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5120_r125416</td>
+    <td>https://identifiers.org/wikipathways/WP5025_r128730</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5142</td>
+    <td>https://identifiers.org/wikipathways/WP5446</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5143_r124544</td>
+    <td>https://identifiers.org/pathwaycommons/P04040</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5166_r122169</td>
+    <td>https://identifiers.org/pathwaycommons/P05231</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5224_r127064</td>
+    <td>https://identifiers.org/wikipathways/WP4534_r134751</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5238_r123341</td>
+    <td>https://identifiers.org/wikipathways/WP4884_r135048</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5239_r123034</td>
+    <td>https://identifiers.org/wikipathways/WP5315_r134474</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5257_r123974</td>
+    <td>https://identifiers.org/wikipathways/WP5362_r134655</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5302_r124624</td>
+    <td>https://identifiers.org/wikipathways/WP5057_r134366</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5356_r127456</td>
+    <td>https://identifiers.org/wikipathways/WP5115_r134657</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5373_r126811</td>
+    <td>https://identifiers.org/wikipathways/WP3592_r134240</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5390_r126766</td>
+    <td>https://identifiers.org/wikipathways/WP4364_r134293</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5395_r126912</td>
+    <td>https://identifiers.org/wikipathways/WP4873_r134631</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5417_r127426</td>
+    <td>https://identifiers.org/wikipathways/WP5194_r134708</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP707_r126216</td>
+    <td>https://identifiers.org/wikipathways/WP1032_r134195</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-112310.5</td>
+    <td>https://identifiers.org/wikipathways/WP1250_r134200</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-112409</td>
+    <td>https://identifiers.org/wikipathways/WP1401_r134137</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-114508</td>
+    <td>https://identifiers.org/wikipathways/WP3118_r134259</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1489509</td>
+    <td>https://identifiers.org/wikipathways/WP4238_r134329</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-157118</td>
+    <td>https://identifiers.org/wikipathways/WP4912_r134670</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1912422</td>
+    <td>https://identifiers.org/wikipathways/WP5149_r134714</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1980145</td>
+    <td>https://identifiers.org/wikipathways/WP5366_r134450</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2892245</td>
+    <td>https://identifiers.org/wikipathways/WP5489_r135758</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-2892247</td>
+    <td>https://identifiers.org/wikipathways/WP2001_r135700</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-418457</td>
+    <td>https://identifiers.org/wikipathways/WP2004_r135698</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-450282</td>
+    <td>https://identifiers.org/wikipathways/WP2234_r135873</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5669034</td>
+    <td>https://identifiers.org/wikipathways/WP2003_r135699</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5676590</td>
+    <td>https://identifiers.org/wikipathways/WP5477_r135819</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5693567</td>
+    <td>https://identifiers.org/wikipathways/WP132_r138731</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6794362</td>
+    <td>https://identifiers.org/wikipathways/WP4507_r137927</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-881907</td>
+    <td>https://identifiers.org/wikipathways/WP4785_r137910</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8949215</td>
+    <td>https://identifiers.org/wikipathways/WP4856_r138701</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9012852</td>
+    <td>https://identifiers.org/wikipathways/WP5534</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9013694</td>
+    <td>https://identifiers.org/wikipathways/WP13_r139038</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9619665</td>
+    <td>https://identifiers.org/wikipathways/WP3391_r138014</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9675108</td>
+    <td>https://identifiers.org/wikipathways/WP3413_r137969</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP117_r117743</td>
+    <td>https://identifiers.org/wikipathways/WP3599_r137975</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1433_r126279</td>
+    <td>https://identifiers.org/wikipathways/WP5085_r139119</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1743</td>
+    <td>https://identifiers.org/wikipathways/WP5088_r138917</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1835_r114797</td>
+    <td>https://identifiers.org/wikipathways/WP1007_r140212</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1850</td>
+    <td>https://identifiers.org/wikipathways/WP1008_r140275</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1946_r126409</td>
+    <td>https://identifiers.org/wikipathways/WP1159_r140175</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2023_r117676</td>
+    <td>https://identifiers.org/wikipathways/WP137_r140361</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2681_r114973</td>
+    <td>https://identifiers.org/wikipathways/WP15_r140336</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2694_r114756</td>
+    <td>https://identifiers.org/wikipathways/WP2638_r140499</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP26_r126281</td>
+    <td>https://identifiers.org/wikipathways/WP269_r140352</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2715_r114853</td>
+    <td>https://identifiers.org/wikipathways/WP274_r118018</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2786_r123262</td>
+    <td>https://identifiers.org/wikipathways/WP290_r140485</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2792_r114752</td>
+    <td>https://identifiers.org/wikipathways/WP3953_r140052</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2798_r118517</td>
+    <td>https://identifiers.org/wikipathways/WP4018_r140480</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2821_r116668</td>
+    <td>https://identifiers.org/wikipathways/WP4156_r140466</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3398_r115048</td>
+    <td>https://identifiers.org/wikipathways/WP4292_r139560</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3401_r114749</td>
+    <td>https://identifiers.org/wikipathways/WP4335_r139961</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3550_r123635</td>
+    <td>https://identifiers.org/wikipathways/WP4474_r139819</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3591_r88424</td>
+    <td>https://identifiers.org/wikipathways/WP4688_r140409</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3594_r117682</td>
+    <td>https://identifiers.org/wikipathways/WP4790_r140103</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3595_r89883</td>
+    <td>https://identifiers.org/wikipathways/WP5172_r140355</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3816_r114817</td>
+    <td>https://identifiers.org/wikipathways/WP5189_r140420</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3850</td>
+    <td>https://identifiers.org/wikipathways/WP5346_r140364</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3850_r121711</td>
+    <td>https://identifiers.org/wikipathways/WP5385_r139857</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3851_r121712</td>
+    <td>https://identifiers.org/wikipathways/WP5486_r135319</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3892_r120069</td>
+    <td>https://identifiers.org/wikipathways/WP813_r139862</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3943_r117818</td>
+    <td>https://identifiers.org/wikipathways/WP180_r139499</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4030_r123403</td>
+    <td>https://identifiers.org/wikipathways/WP260_r139647</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4088</td>
+    <td>https://identifiers.org/wikipathways/WP3650_r140067</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4129</td>
+    <td>https://identifiers.org/wikipathways/WP3679_r140517</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4129_r114663</td>
+    <td>https://identifiers.org/wikipathways/WP369_r140421</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4206_r123458</td>
+    <td>https://identifiers.org/wikipathways/WP370_r140439</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4216_r127314</td>
+    <td>https://identifiers.org/wikipathways/WP391_r139885</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4263_r127244</td>
+    <td>https://identifiers.org/wikipathways/WP4142_r139816</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4312_r123518</td>
+    <td>https://identifiers.org/wikipathways/WP4560_r140099</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4341_r122900</td>
+    <td>https://identifiers.org/wikipathways/WP4666_r140171</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP438_r125302</td>
+    <td>https://identifiers.org/wikipathways/WP4725_r139832</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4413_r116658</td>
+    <td>https://identifiers.org/wikipathways/WP4742_r140506</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4424</td>
+    <td>https://identifiers.org/wikipathways/WP5019_r139978</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4424_r116409</td>
+    <td>https://identifiers.org/wikipathways/WP5114_r139851</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4439_r114934</td>
+    <td>https://identifiers.org/wikipathways/WP5140_r139759</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4446_r114674</td>
+    <td>https://identifiers.org/wikipathways/WP5233_r139842</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4452_r115051</td>
+    <td>https://identifiers.org/wikipathways/WP5354_r140181</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4453_r116657</td>
+    <td>https://identifiers.org/wikipathways/WP536_r139789</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4480_r121701</td>
+    <td>https://identifiers.org/wikipathways/WP538_r140483</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4495_r125654</td>
+    <td>https://identifiers.org/wikipathways/WP545_r139595</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4507</td>
+    <td>https://identifiers.org/wikipathways/WP73_r139705</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4507_r119314</td>
+    <td>https://identifiers.org/wikipathways/WP1075_r140272</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4577_r123500</td>
+    <td>https://identifiers.org/wikipathways/WP10_r139876</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4723</td>
+    <td>https://identifiers.org/wikipathways/WP1281_r140121</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4723_r124738</td>
+    <td>https://identifiers.org/wikipathways/WP2059_r140453</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4785_r111735</td>
+    <td>https://identifiers.org/wikipathways/WP3117_r139981</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4804_r117680</td>
+    <td>https://identifiers.org/wikipathways/WP3179_r140178</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4856_r113654</td>
+    <td>https://identifiers.org/wikipathways/WP3958_r140057</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4874_r126535</td>
+    <td>https://identifiers.org/wikipathways/WP4288_r140086</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4883_r120620</td>
+    <td>https://identifiers.org/wikipathways/WP4698_r140518</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4971</td>
+    <td>https://identifiers.org/wikipathways/WP4726_r139764</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4971_r122106</td>
+    <td>https://identifiers.org/wikipathways/WP5143_r140124</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4972_r116528</td>
+    <td>https://identifiers.org/wikipathways/WP5239_r139982</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4982_r114760</td>
+    <td>https://identifiers.org/wikipathways/WP5356_r139788</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4988_r114802</td>
+    <td>https://identifiers.org/wikipathways/WP5373_r140441</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4992_r114824</td>
+    <td>https://identifiers.org/wikipathways/WP5417_r139855</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5095</td>
+    <td>https://identifiers.org/wikipathways/WP5420_r140440</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5095_r120801</td>
+    <td>https://identifiers.org/wikipathways/WP546_r139593</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5118_r125319</td>
+    <td>https://identifiers.org/wikipathways/WP1078_r140278</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5178_r125327</td>
+    <td>https://identifiers.org/wikipathways/WP121_r140531</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5180_r126955</td>
+    <td>https://identifiers.org/wikipathways/WP1272_r140274</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5235_r127480</td>
+    <td>https://identifiers.org/wikipathways/WP1449_r140220</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5294</td>
+    <td>https://identifiers.org/wikipathways/WP1981_r139940</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5294_r127362</td>
+    <td>https://identifiers.org/wikipathways/WP232_r139798</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5299_r125333</td>
+    <td>https://identifiers.org/wikipathways/WP257_r139646</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP531_r117702</td>
+    <td>https://identifiers.org/wikipathways/WP2646_r139959</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5333_r126539</td>
+    <td>https://identifiers.org/wikipathways/WP3301_r139929</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5336_r126593</td>
+    <td>https://identifiers.org/wikipathways/WP4317_r140505</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5344_r125919</td>
+    <td>https://identifiers.org/wikipathways/WP452_r139579</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5372_r126830</td>
+    <td>https://identifiers.org/wikipathways/WP4721_r139828</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP69_r126222</td>
+    <td>https://identifiers.org/wikipathways/WP4754_r139833</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3108232</td>
+    <td>https://identifiers.org/wikipathways/WP4941_r140129</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-418555</td>
+    <td>https://identifiers.org/wikipathways/WP4950_r139952</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-68884</td>
+    <td>https://identifiers.org/wikipathways/WP5061_r139847</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-69239</td>
+    <td>https://identifiers.org/wikipathways/WP5302_r140018</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP136_r118346</td>
+    <td>https://identifiers.org/wikipathways/WP5546_r140338</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1471_r126354</td>
+    <td>https://identifiers.org/wikipathways/WP573_r139600</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1812</td>
+    <td>https://identifiers.org/wikipathways/WP67_r139490</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1812_r117720</td>
+    <td>https://identifiers.org/wikipathways/WP93_r117991</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1861_r114780</td>
+    <td>https://identifiers.org/wikipathways/WP166_r141788</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2118_r119252</td>
+    <td>https://identifiers.org/wikipathways/WP5043_r140667</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2263_r125525</td>
+    <td>https://identifiers.org/wikipathways/WP4538_r129731</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP231_r124583</td>
+    <td>https://identifiers.org/wikipathways/WP5471</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2435_r120750</td>
+    <td>https://identifiers.org/wikipathways/WP108_r135035</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2507</td>
+    <td>https://identifiers.org/wikipathways/WP4478_r134979</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2507_r123897</td>
+    <td>https://identifiers.org/wikipathways/WP4496_r134761</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2536_r117685</td>
+    <td>https://identifiers.org/wikipathways/WP4532_r134753</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2690_r114954</td>
+    <td>https://identifiers.org/wikipathways/WP490_r134390</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2709_r114912</td>
+    <td>https://identifiers.org/wikipathways/WP5227_r134542</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2725</td>
+    <td>https://identifiers.org/wikipathways/WP5368_r134449</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2729</td>
+    <td>https://identifiers.org/wikipathways/WP5469</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2772_r118522</td>
+    <td>https://identifiers.org/wikipathways/WP5475</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2778_r114754</td>
+    <td>https://identifiers.org/wikipathways/WP5483</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2784_r117864</td>
+    <td>https://identifiers.org/wikipathways/WP5485_r134336</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2787_r114862</td>
+    <td>https://identifiers.org/wikipathways/WP1497_r135397</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2824</td>
+    <td>https://identifiers.org/wikipathways/WP2224_r135409</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2824_r117697</td>
+    <td>https://identifiers.org/wikipathways/WP1411_r135389</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2865_r123108</td>
+    <td>https://identifiers.org/wikipathways/WP2229_r135408</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP286_r126282</td>
+    <td>https://identifiers.org/wikipathways/WP5192_r135482</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2877</td>
+    <td>https://identifiers.org/wikipathways/WP580_r135388</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2877_r119905</td>
+    <td>https://identifiers.org/wikipathways/WP1022_r137418</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP299_r126284</td>
+    <td>https://identifiers.org/wikipathways/WP1050_r137015</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3388_r116653</td>
+    <td>https://identifiers.org/wikipathways/WP1300_r136896</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3408_r125296</td>
+    <td>https://identifiers.org/wikipathways/WP1389_r137531</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3633_r123391</td>
+    <td>https://identifiers.org/wikipathways/WP177_r136952</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP364</td>
+    <td>https://identifiers.org/wikipathways/WP2292_r137784</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3646_r116732</td>
+    <td>https://identifiers.org/wikipathways/WP2637_r137817</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP364_r126289</td>
+    <td>https://identifiers.org/wikipathways/WP3622_r137770</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3809_r114900</td>
+    <td>https://identifiers.org/wikipathways/WP3651_r137777</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3817_r114997</td>
+    <td>https://identifiers.org/wikipathways/WP3871_r137324</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3938_r120650</td>
+    <td>https://identifiers.org/wikipathways/WP4346_r137729</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4016_r120667</td>
+    <td>https://identifiers.org/wikipathways/WP4564_r137876</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4082_r115065</td>
+    <td>https://identifiers.org/wikipathways/WP5105_r137802</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4087_r114957</td>
+    <td>https://identifiers.org/wikipathways/WP58_r137262</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4108_r116424</td>
+    <td>https://identifiers.org/wikipathways/WP955_r136888</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4146_r107552</td>
+    <td>https://identifiers.org/wikipathways/WP1004_r137412</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4210_r123510</td>
+    <td>https://identifiers.org/wikipathways/WP1011_r137413</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4336_r127463</td>
+    <td>https://identifiers.org/wikipathways/WP1019_r137417</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4342</td>
+    <td>https://identifiers.org/wikipathways/WP1029_r137540</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4342_r106136</td>
+    <td>https://identifiers.org/wikipathways/WP1031_r137508</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4399_r102102</td>
+    <td>https://identifiers.org/wikipathways/WP1069_r136996</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4420_r117683</td>
+    <td>https://identifiers.org/wikipathways/WP124_r136869</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4447_r114697</td>
+    <td>https://identifiers.org/wikipathways/WP1280_r136872</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4482_r121703</td>
+    <td>https://identifiers.org/wikipathways/WP160_r137611</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4541_r127212</td>
+    <td>https://identifiers.org/wikipathways/WP229_r137113</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4719_r126469</td>
+    <td>https://identifiers.org/wikipathways/WP2587_r137815</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4756</td>
+    <td>https://identifiers.org/wikipathways/WP2876_r137827</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4787_r127271</td>
+    <td>https://identifiers.org/wikipathways/WP349_r137045</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4818</td>
+    <td>https://identifiers.org/wikipathways/WP3641_r137775</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4818_r117691</td>
+    <td>https://identifiers.org/wikipathways/WP403_r137249</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4880_r124638</td>
+    <td>https://identifiers.org/wikipathways/WP434_r137021</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4912</td>
+    <td>https://identifiers.org/wikipathways/WP4522_r137763</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4966_r123489</td>
+    <td>https://identifiers.org/wikipathways/WP4559_r137119</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5000_r114922</td>
+    <td>https://identifiers.org/wikipathways/WP5158_r137394</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5001_r114923</td>
+    <td>https://identifiers.org/wikipathways/WP692_r137560</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5035</td>
+    <td>https://identifiers.org/wikipathways/WP1025_r137419</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5035_r125622</td>
+    <td>https://identifiers.org/wikipathways/WP1083_r137521</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5036</td>
+    <td>https://identifiers.org/wikipathways/WP1153_r136983</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5068</td>
+    <td>https://identifiers.org/wikipathways/WP1262_r136897</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5074_r125313</td>
+    <td>https://identifiers.org/wikipathways/WP1422_r137658</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5089</td>
+    <td>https://identifiers.org/wikipathways/WP1433_r137535</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5123_r126872</td>
+    <td>https://identifiers.org/wikipathways/WP145_r137093</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5192_r122557</td>
+    <td>https://identifiers.org/wikipathways/WP1652_r137616</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5292_r125119</td>
+    <td>https://identifiers.org/wikipathways/WP1667_r137617</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5314_r125793</td>
+    <td>https://identifiers.org/wikipathways/WP2279_r137662</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5316_r127019</td>
+    <td>https://identifiers.org/wikipathways/WP3194_r137682</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5355_r127088</td>
+    <td>https://identifiers.org/wikipathways/WP3247_r136900</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP554</td>
+    <td>https://identifiers.org/wikipathways/WP3617_r137121</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP732_r125659</td>
+    <td>https://identifiers.org/wikipathways/WP3943_r137674</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP75_r127384</td>
+    <td>https://identifiers.org/wikipathways/WP4263_r137087</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP80_r126215</td>
+    <td>https://identifiers.org/wikipathways/WP438_r137260</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/kegg.pathway/map00010</td>
+    <td>https://identifiers.org/wikipathways/WP4883_r137250</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1268020</td>
+    <td>https://identifiers.org/wikipathways/WP543_r137039</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1442490</td>
+    <td>https://identifiers.org/wikipathways/WP69_r137559</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1592389</td>
+    <td>https://identifiers.org/wikipathways/WP704_r137145</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-1630316</td>
+    <td>https://identifiers.org/wikipathways/WP833_r136919</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-170834</td>
+    <td>https://identifiers.org/wikipathways/WP952_r136918</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-3700989</td>
+    <td>https://identifiers.org/wikipathways/WP1091_r137522</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-453274</td>
+    <td>https://identifiers.org/wikipathways/WP1182_r136955</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-5358508</td>
+    <td>https://identifiers.org/wikipathways/WP134_r137330</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-6783310</td>
+    <td>https://identifiers.org/wikipathways/WP1530_r137539</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8864260</td>
+    <td>https://identifiers.org/wikipathways/WP1559_r137607</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8878159</td>
+    <td>https://identifiers.org/wikipathways/WP26_r137588</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8949613</td>
+    <td>https://identifiers.org/wikipathways/WP2815_r137180</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8953750</td>
+    <td>https://identifiers.org/wikipathways/WP317_r137188</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-8986944</td>
+    <td>https://identifiers.org/wikipathways/WP3851_r137281</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/reactome/R-HSA-9614085</td>
+    <td>https://identifiers.org/wikipathways/WP430_r137242</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1403_r126272</td>
+    <td>https://identifiers.org/wikipathways/WP4566_r137103</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP143_r124923</td>
+    <td>https://identifiers.org/wikipathways/WP460_r136907</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1601_r126380</td>
+    <td>https://identifiers.org/wikipathways/WP520_r136973</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP176</td>
+    <td>https://identifiers.org/wikipathways/WP1014_r137415</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1802_r114732</td>
+    <td>https://identifiers.org/wikipathways/WP1133_r137523</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1822</td>
+    <td>https://identifiers.org/wikipathways/WP1138_r137525</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1822_r117732</td>
+    <td>https://identifiers.org/wikipathways/WP1193_r136868</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP1842_r114738</td>
+    <td>https://identifiers.org/wikipathways/WP1336_r136948</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2112_r117960</td>
+    <td>https://identifiers.org/wikipathways/WP1528_r137538</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2289_r120498</td>
+    <td>https://identifiers.org/wikipathways/WP185_r136990</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP23_r126262</td>
+    <td>https://identifiers.org/wikipathways/WP2513_r137430</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP244_r126340</td>
+    <td>https://identifiers.org/wikipathways/WP2805_r137158</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2525_r123451</td>
+    <td>https://identifiers.org/wikipathways/WP2814_r137065</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2654_r114619</td>
+    <td>https://identifiers.org/wikipathways/WP3644_r137776</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2662_r116671</td>
+    <td>https://identifiers.org/wikipathways/WP3865_r137318</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2717_r114933</td>
+    <td>https://identifiers.org/wikipathways/WP3876_r137554</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2738_r114969</td>
+    <td>https://identifiers.org/wikipathways/WP3944_r137671</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2741_r114963</td>
+    <td>https://identifiers.org/wikipathways/WP412_r137014</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2755_r114833</td>
+    <td>https://identifiers.org/wikipathways/WP4970_r137797</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2774</td>
+    <td>https://identifiers.org/wikipathways/WP539_r137659</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2774_r118523</td>
+    <td>https://identifiers.org/wikipathways/WP567_r136960</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP2874_r116465</td>
+    <td>https://identifiers.org/wikipathways/WP740_r137028</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP289_r126283</td>
+    <td>https://identifiers.org/wikipathways/WP831_r137007</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP304_r126285</td>
+    <td>https://identifiers.org/wikipathways/WP957_r136881</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3322_r114911</td>
+    <td>https://identifiers.org/wikipathways/WP1066_r136951</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3331_r114736</td>
+    <td>https://identifiers.org/wikipathways/WP1122_r136904</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3585</td>
+    <td>https://identifiers.org/wikipathways/WP2112_r137374</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3585_r123390</td>
+    <td>https://identifiers.org/wikipathways/WP23_r137492</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3635_r116600</td>
+    <td>https://identifiers.org/wikipathways/WP2446_r137129</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3664_r118061</td>
+    <td>https://identifiers.org/wikipathways/WP2525_r137431</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3808_r115044</td>
+    <td>https://identifiers.org/wikipathways/WP2874_r137749</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3877_r117828</td>
+    <td>https://identifiers.org/wikipathways/WP289_r137097</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3888_r126337</td>
+    <td>https://identifiers.org/wikipathways/WP304_r137490</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3893_r118859</td>
+    <td>https://identifiers.org/wikipathways/WP3124_r137396</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP3926_r106298</td>
+    <td>https://identifiers.org/wikipathways/WP3158_r137426</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4100_r114696</td>
+    <td>https://identifiers.org/wikipathways/WP3877_r137555</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4119_r114762</td>
+    <td>https://identifiers.org/wikipathways/WP4236_r137598</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4120_r114792</td>
+    <td>https://identifiers.org/wikipathways/WP425_r136958</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4217</td>
+    <td>https://identifiers.org/wikipathways/WP441_r137002</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4236_r123795</td>
+    <td>https://identifiers.org/wikipathways/WP4945_r137837</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4313_r123507</td>
+    <td>https://identifiers.org/wikipathways/WP5116_r137663</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4428_r116432</td>
+    <td>https://identifiers.org/wikipathways/WP775_r136902</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4440_r114935</td>
+    <td>https://identifiers.org/wikipathways/WP788_r137204</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4444_r116627</td>
+    <td>https://identifiers.org/wikipathways/WP942_r137000</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4519_r124524</td>
+    <td>https://identifiers.org/wikipathways/WP1060_r137003</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4523_r125468</td>
+    <td>https://identifiers.org/wikipathways/WP1179_r136972</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4589_r123422</td>
+    <td>https://identifiers.org/wikipathways/WP1185_r136991</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4721</td>
+    <td>https://identifiers.org/wikipathways/WP1296_r136987</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4873_r110299</td>
+    <td>https://identifiers.org/wikipathways/WP1386_r136993</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4904_r124593</td>
+    <td>https://identifiers.org/wikipathways/WP170_r137004</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4919</td>
+    <td>https://identifiers.org/wikipathways/WP2036_r137884</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4919_r125017</td>
+    <td>https://identifiers.org/wikipathways/WP2203_r137696</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4940_r124896</td>
+    <td>https://identifiers.org/wikipathways/WP2857_r137825</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP4965_r124975</td>
+    <td>https://identifiers.org/wikipathways/WP3614_r137133</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5015</td>
+    <td>https://identifiers.org/wikipathways/WP3666_r137767</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5015_r115084</td>
+    <td>https://identifiers.org/wikipathways/WP4284_r137378</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5043_r125310</td>
+    <td>https://identifiers.org/wikipathways/WP477_r137472</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5046_r118987</td>
+    <td>https://identifiers.org/wikipathways/WP515_r137684</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5050_r124734</td>
+    <td>https://identifiers.org/wikipathways/WP5426_r136865</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5116_r125318</td>
+    <td>https://identifiers.org/wikipathways/WP768_r136942</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5194_r122165</td>
+    <td>https://identifiers.org/wikipathways/WP898_r137041</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP5264_r124592</td>
+    <td>https://identifiers.org/wikipathways/WP972_r136931</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/wikipathways/WP696_r106311</td>
+    <td>https://identifiers.org/wikipathways/WP1076_r137519</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1233_r137030</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1318_r136926</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2868_r137132</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3157_r137425</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3159_r137681</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP383_r137552</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3972_r137057</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP400_r137477</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4485_r137380</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP530_r137116</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1035_r137035</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2007_r137622</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2064_r137717</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2338_r137786</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2359_r137886</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3672_r137136</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3844_r137124</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP399_r137743</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP411_r137478</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5078_r137575</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5153_r137687</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP547_r137466</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP6_r136997</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP730_r137053</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP741_r136982</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP826_r136971</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP899_r137199</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP945_r136970</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP980_r137194</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP107_r137517</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1112_r136943</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1349_r137529</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1531_r137603</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1742_r137125</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1982_r137619</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2034_r137628</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3859_r137179</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4258_r137066</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4271_r137601</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4521_r136640</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP509_r137011</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5390_r137335</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP623_r137556</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP948_r136953</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP101_r137042</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1036_r136988</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1055_r137513</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP113_r137233</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1152_r137032</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1258_r136985</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1284_r136947</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1387_r136922</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP154_r137286</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP157_r137229</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2037_r137712</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP276_r137587</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2911_r137756</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3302_r136355</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP34_r137488</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3967_r137165</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4173_r137582</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4189_r137496</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4240_r137090</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP427_r137043</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP450_r137259</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP496_r137500</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP569_r137265</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP619_r137117</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP897_r137200</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP917_r136981</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2371_r138200</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3270_r137966</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4318_r137935</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5144_r138855</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4558_r129726</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5355_r129474</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4222_r132625</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5471_r129819</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4925_r134614</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5229_r134519</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5381_r134446</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2572_r138682</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3265_r137946</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3298_r137949</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3935_r137955</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3_r139059</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4348_r137934</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4350_r137932</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP451_r139037</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP528_r139266</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5530_r138765</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5545_r139134</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2848_r138335</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4349_r138032</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5174_r139030</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/map00900</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3664_r139127</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP37_r138122</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3927_r137959</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4816_r137902</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5046_r138850</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5559_r139254</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3934_r138699</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4799_r139293</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5312_r138098</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP565_r139036</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP683_r138700</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5182_r138239</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5563</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-171306</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-3214847</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-73728</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-73864</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-75955</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2507_r139971</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3995_r140058</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4719_r139826</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4880_r140422</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4962_r139951</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5074_r139804</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5434_r139932</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5562_r140410</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5565</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5575_r140307</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5584_r140390</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1077_r140334</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2141_r139946</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2562_r140351</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3155_r139697</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4268_r139818</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4657_r139760</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP489_r139884</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5090_r140406</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5094_r139950</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5424_r139931</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5482_r139762</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1002_r140555</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1040_r140679</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1200_r142076</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1518_r140716</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2293_r142151</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2366_r141022</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2586_r140964</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP262_r141609</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP275_r140629</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2855_r141367</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2940_r140645</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP312_r141527</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3281_r140652</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP372_r141506</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3872_r140955</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3915_r140886</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3932_r141724</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP405_r141642</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4290_r141005</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP453_r142098</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP458_r141319</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4905_r140827</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5066_r141217</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5205_r141205</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5285_r142090</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5396_r140561</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5469_r141972</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5512_r140911</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5541_r141343</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5564_r140794</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP558_r141201</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP697_r141633</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP84_r140566</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1053_r141999</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1314_r140894</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1493_r141298</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP22_r142069</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2870_r141647</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3185_r142124</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3264_r142083</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3853_r141601</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4269_r140817</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4549_r141727</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP457_r141679</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4584_r141006</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4707_r140973</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4864_r142019</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5029_r140804</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP51_r142043</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5506_r140636</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5601_r141489</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP71_r140565</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP848_r140787</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP912_r141887</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1141_r141791</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1211_r141892</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP149_r141623</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1996_r140641</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2380_r141011</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2516_r140850</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2541_r141155</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3009_r140648</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3203_r142125</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3297_r141605</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP341_r141499</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3869_r141032</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4157_r141732</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4400_r141653</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP444_r140553</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4661_r140879</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4674_r141975</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4752_r140982</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5026_r141015</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5063_r141664</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5112_r141693</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5117_r141202</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5154_r141431</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5238_r141088</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5284_r141075</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5304_r141099</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5491_r140912</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5507_r140670</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP550_r140991</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5519_r140908</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5524_r141969</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5531_r140843</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5533_r140906</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2846_r135533</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3962_r135410</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2227_r135403</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2313_r135378</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP394_r135385</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5491</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP662_r136168</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4705_r136158</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5027_r136185</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3611_r136148</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2813_r137944</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3275_r137967</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3938_r137954</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4146_r137943</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4787_r137909</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3942_r137952</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4829_r137901</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2374_r137995</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3197_r138152</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3584_r137972</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-157579</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1533_r140437</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1602_r140459</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2583_r139974</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2942_r140132</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3255_r140153</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP382_r140476</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3882_r139749</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP428_r139809</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP449_r122582</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4720_r139827</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4830_r140287</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4846_r140186</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4969_r140128</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5313_r140540</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5360_r139787</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5510_r139934</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5567</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5567_r140343</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP70_r139519</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP880_r139864</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2369_r140064</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP246_r118927</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2645_r139960</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP339_r139802</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4239_r140032</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4760_r140525</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4936_r140460</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5402_r140041</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5465_r139854</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP923_r140509</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP109_r139610</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1195_r140279</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1273_r140335</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1339_r140426</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP216_r118098</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2197_r140176</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2447_r139972</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2889_r139979</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4262_r140131</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4304_r139900</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4949_r140507</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5124_r140419</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5179_r139553</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5283_r140049</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP554_r139872</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5560_r139562</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP977_r139510</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP325_r129570</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3653_r129700</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2220_r135401</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2223_r135359</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5472_r135814</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP379_r135907</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP193_r120784</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4842_r135854</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1498_r135872</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4872_r135856</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways//</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4186_r135816</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5477</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP196_r135948</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4868_r135713</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3624_r137977</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4784_r137911</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4789_r137907</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4942_r139128</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5148_r139316</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2431_r139046</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4148_r137942</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5146_r139295</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5527</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5528</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5529</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5530</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5531</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3588_r137973</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4792_r137905</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP192_r139039</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2563_r138126</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3670_r137980</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4462_r139061</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4763_r137913</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP983_r138151</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP363_r138524</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3941_r137953</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4351_r137931</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4542_r138771</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5039_r139223</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5517_r138127</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-597592</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1301_r139942</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1772_r139944</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP296_r140487</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3931_r140037</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3947_r140038</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP416_r139567</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4565_r139821</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4786_r140190</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP479_r139651</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4891_r139846</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5231_r140112</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP553_r140210</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5564</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1337_r139808</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2207_r139673</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2212_r140468</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2542_r139963</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP258_r118015</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP306_r140479</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3193_r140463</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP354_r140497</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3627_r140002</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3680_r140465</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3887_r140036</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4722_r139829</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP472_r139683</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5083_r140407</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP673_r140481</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1074_r140510</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2795_r139973</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3257_r140464</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4223_r140451</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4466_r140467</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4746_r140519</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5318_r140089</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5488_r140432</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1033_r140120</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2267_r139948</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2537_r140055</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2626_r139386</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP295_r140438</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3246_r140185</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3676_r139783</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4206_r140500</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4723_r139830</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP478_r139587</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4874_r140109</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5087_r140461</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5235_r140106</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5293_r140452</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5333_r139904</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5344_r140060</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5425_r139958</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-169893</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-74160</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-9832991_and_R-HSA-9823739</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1001_r139954</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1013_r140225</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP12_r139888</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1946_r139861</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP261_r139648</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3222_r140010</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4008_r140399</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP404_r140222</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4906_r140358</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5122_r139949</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5287_r139902</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5294_r140503</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5352_r140512</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5365_r140193</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5407_r140040</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5494_r140429</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5548_r139778</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5568</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5568_r140346</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5573</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP702_r140534</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP998_r139869</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-1640170</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-4839726</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-69306</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/reactome/R-HSA-774815</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1114_r139926</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1584_r139943</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP259_r140219</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP266_r139569</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3114_r139700</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3134_r140001</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3142_r139890</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3148_r140013</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP322_r140211</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP376_r140130</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4183_r139690</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4298_r140087</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4535_r139820</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4838_r140111</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4871_r140110</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5037_r140357</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5064_r140056</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5303_r140019</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5570_r140119</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5572</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1049_r139894</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1461_r140436</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP14_r139407</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2318_r139676</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2353_r139388</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2533_r139678</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP287_r140431</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3538_r139687</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP454_r139895</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4686_r139823</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP46_r139492</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5030_r140446</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5142_r140123</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5224_r140536</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5329_r140405</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5446_r140027</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5561_r139812</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP556_r140475</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP931_r139867</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP100_r141191</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1079_r141393</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1221_r140775</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1243_r140655</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP195_r141560</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1984_r142106</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP198_r140725</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2456_r140643</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2880_r141771</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP288_r141559</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP313_r142000</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP347_r141500</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP357_r141717</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP36_r140569</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3845_r141035</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3874_r141036</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3875_r140852</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4484_r141199</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4844_r142099</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4877_r142018</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5049_r141824</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5136_r140845</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5256_r141090</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5347_r142059</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP540_r141677</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5412_r140838</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5501_r140916</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5502_r140823</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5526_r140860</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5532_r140907</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5590_r141383</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5598_r141512</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP982_r142038</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1252_r141949</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1264_r141993</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP171_r140695</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1992_r141765</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2355_r141126</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2881_r141635</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2943_r142025</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP297_r142007</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP302_r141390</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3300_r141370</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3655_r142023</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP409_r141674</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4136_r141721</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4197_r142094</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP41_r141300</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4301_r142102</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4320_r141614</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4493_r141084</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4524_r140870</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5113_r140887</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5176_r141374</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5198_r142097</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5275_r141640</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5323_r141703</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5422_r142058</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5504_r141379</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5528_r140905</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP555_r140575</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5566_r141133</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP655_r141299</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP91_r140567</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP102_r140693</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP117_r141737</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP138_r140882</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1396_r141007</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP210_r140781</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP219_r142042</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2231_r141009</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP254_r140926</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2849_r141981</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3200_r140651</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP345_r140728</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3583_r142141</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP384_r140954</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3892_r141582</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3959_r141129</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4216_r141103</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4480_r140868</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP44_r141535</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4971_r140665</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP500_r141799</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5155_r140959</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5178_r141376</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5299_r141743</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP531_r141136</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5391_r140601</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5441_r140923</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5534_r140900</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5536_r140904</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5538_r140899</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5576_r140796</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP992_r142034</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP9_r140564</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP133_r141463</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP167_r141615</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2023_r141057</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP205_r142067</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP206_r141720</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP224_r140634</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP236_r140857</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3132_r142122</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3217_r140720</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3278_r142133</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP328_r140786</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3594_r141107</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP368_r142035</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP374_r141508</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP378_r141531</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3850_r141685</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP418_r141625</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4495_r142054</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4585_r141030</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4685_r142148</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4804_r141098</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5180_r141139</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP519_r141445</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5274_r141700</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5280_r141770</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5336_r142096</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5376_r140825</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5447_r140925</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5492_r140849</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5573_r141668</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5606_r141885</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP763_r141925</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP989_r142036</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5191_r129560</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/kegg.pathway/hsa04310</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1052_r137512</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1070_r136923</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1134_r137044</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1184_r137010</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1257_r137027</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP136_r137184</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1434_r137536</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3015_r137680</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4324_r137673</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4482_r136791</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5186_r137694</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5324_r136308</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP560_r137105</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP804_r136979</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1063_r136976</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1_r137182</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3593_r137382</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5151_r137685</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP61_r137144</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP971_r136884</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2817_r138147</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3580_r137971</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP414_r138730</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP435_r138153</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4396_r138900</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4900_r139333</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1105_r142084</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1302_r141998</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1352_r140552</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1356_r142118</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1423_r141744</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP208_r140779</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2132_r142150</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2185_r140895</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2363_r141753</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP252_r140554</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2603_r118903</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2826_r141204</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2839_r141971</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2853_r141621</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2858_r141610</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3141_r141786</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP316_r141528</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3192_r140759</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3604_r140990</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4259_r140805</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4788_r140975</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4914_r140858</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP497_r140697</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5028_r141016</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5111_r141690</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5211_r141774</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5276_r141632</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP53_r142047</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5401_r140836</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5444_r140853</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5493_r141611</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5505_r140638</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5540_r140897</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5574_r140799</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5599_r142161</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP661_r141773</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP798_r141886</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1024_r140672</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP106_r140861</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1086_r140774</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1224_r140654</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1232_r141889</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1247_r141922</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1283_r141790</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1288_r142077</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1438_r142100</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP191_r140777</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1995_r141597</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP214_r141779</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2333_r142073</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2406_r141037</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2941_r140647</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3120_r141498</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP351_r141441</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3602_r141014</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP381_r141552</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3878_r140851</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4150_r142120</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4321_r140659</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4580_r140997</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4598_r141789</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP481_r142104</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5033_r141760</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP516_r141643</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5190_r141127</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5400_r140835</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5452_r140924</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5490_r142101</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5503_r140862</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5572_r140893</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5605_r141580</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP715_r140872</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP970_r142041</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP1539_r140885</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2332_r142057</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP234_r142008</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2361_r141751</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP281_r141251</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP2879_r141698</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3640_r142089</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP3657_r141983</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP392_r140627</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4217_r141607</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4225_r140760</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP4504_r140762</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5108_r141687</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5120_r142095</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5166_r141961</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5395_r141851</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5483_r141973</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5537_r140898</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5580_r141495</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP5596_r141684</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/wikipathways/WP707_r141134</td>
   </tr>
 </table>
 

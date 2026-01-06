@@ -29,60 +29,52 @@ WHERE {
     <td><b>KEtitle</b></td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2069</td>
-    <td>Occurrence, Vascular Remodeling </td>
+    <td>https://identifiers.org/aop.events/2252</td>
+    <td>Human leukocyte antigen DQ2/8-gluten complexes, formation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2070</td>
-    <td>Increase, Glycolysis</td>
+    <td>https://identifiers.org/aop.events/2253</td>
+    <td>Gluten-reactive T cell receptors, generation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2071</td>
-    <td>Decrease, Glucose pool</td>
+    <td>https://identifiers.org/aop.events/2254</td>
+    <td>Gluten-reactive and transglutaminase 2 reactive B cell receptors, generation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2072</td>
-    <td>Increase, Mitochondrial swelling</td>
+    <td>https://identifiers.org/aop.events/2255</td>
+    <td>Innate immune response, activation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2073</td>
-    <td>increase oxidation of the di-copper moiety of the hemocyanin active site </td>
+    <td>https://identifiers.org/aop.events/2256</td>
+    <td>Gluten-reactive B cells and transglutaminase 2-reactive B cells, activation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2074</td>
-    <td>Decreased, oxygen binding capacity by hemocyanin</td>
+    <td>https://identifiers.org/aop.events/2257</td>
+    <td>Celiac disease</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2075</td>
-    <td>Cognitive, sensed as hypoxic/low oxygen environment</td>
+    <td>https://identifiers.org/aop.events/2268</td>
+    <td>Decreased, insulin-induced gene 1 (INSIG1) protein activity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2076</td>
-    <td>Increase, hemocyanin mRNA</td>
+    <td>https://identifiers.org/aop.events/2269</td>
+    <td>Increased, Sterol Regulatory Element Binding Protein 2 (SREBP2) protein expression </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2077</td>
-    <td>Increase, pulmonate breathing</td>
+    <td>https://identifiers.org/aop.events/2271</td>
+    <td>Increased, plasma low-density lipoprotein (LDL) cholesterol </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2078</td>
-    <td>Loss of drebrin</td>
+    <td>https://identifiers.org/aop.events/2270</td>
+    <td>Increased, cholesterol synthesis enzymes </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2079</td>
-    <td>Increased glycolipid levels  in testis</td>
+    <td>https://identifiers.org/aop.events/2276</td>
+    <td>Increased, protein expression of proprotein convertase subtilisin/kexin type 9 (PCSK9)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2080</td>
-    <td>Impaired, blood testis barrier</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/2081</td>
-    <td>Increased Modified Proteins</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/2083</td>
-    <td>Occurrence of Cataracts</td>
+    <td>https://identifiers.org/aop.events/2275</td>
+    <td>Gluten reactive adaptive T-cells with antigen presenting cells, co-localization</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1000</td>
@@ -101,12 +93,32 @@ WHERE {
     <td>Inhibition, Deiodinase 1</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1046</td>
+    <td>Suppression, Estrogen receptor (ER) activity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/105</td>
+    <td>Inhibition, Mitochondrial Electron Transport Chain Complexes</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/110</td>
     <td>Impairment, Endothelial network</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1101</td>
+    <td>Altered, Amphibian metamorphosis</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1108</td>
     <td>Abnormal, Role change within caste</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1115</td>
+    <td>Increase, Reactive oxygen species</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1116</td>
+    <td>Decreased, Triiodothyronine (T3) in tissues</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/112</td>
@@ -121,8 +133,12 @@ WHERE {
     <td>Activation, FAS</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1171</td>
+    <td>Increase, Clonal Expansion of Altered Hepatic Foci</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1172</td>
-    <td>Increase activation, Nuclear factor kappa B (NF-kB)</td>
+    <td>Increased activation, Nuclear factor kappa B (NF-kB)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/119</td>
@@ -133,10 +149,6 @@ WHERE {
     <td>N/A, Breast Cancer</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/12</td>
-    <td>Acetylcholinesterase (AchE) Inhibition</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1202</td>
     <td>Suppression, IL-2 and IL-4 production</td>
   </tr>
@@ -145,8 +157,20 @@ WHERE {
     <td>Altered gene expression specific to CAR activation, Hepatocytes</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/122</td>
+    <td>Activation, Glucocorticoid Receptor</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1243</td>
     <td>Altered, Ca2+-calmodulin activated signal transduction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1250</td>
+    <td>Decrease, Lung function</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1252</td>
+    <td>Binding to (interferes with) topoisomerase II enzyme</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1253</td>
@@ -157,28 +181,108 @@ WHERE {
     <td>Infant leukaemia</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1262</td>
+    <td>Apoptosis</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1269</td>
     <td>Increase, COX-2 expression</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/139</td>
-    <td>N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects</td>
+    <td>https://identifiers.org/aop.events/129</td>
+    <td>Reduction, Gonadotropins, circulating concentrations</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1339</td>
+    <td>Increase, intracellular calcium</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1387</td>
+    <td>7α-hydroxypregnenolone synthesis in the brain, decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1388</td>
+    <td>Dopamine release in the brain, decreased</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1391</td>
     <td>Activation of Cyp2E1</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1392</td>
+    <td>Oxidative Stress </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1393</td>
+    <td>Hepatocytotoxicity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1394</td>
+    <td>Induction, persistent proliferation/sustained proliferation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1395</td>
+    <td>Liver Cancer</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1438</td>
+    <td>Transcription of genes encoding acute phase proteins, Increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1439</td>
+    <td>Systemic acute phase response</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1446</td>
+    <td>Decrease, Coupling of oxidative phosphorylation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1457</td>
+    <td>Epithelial Mesenchymal Transition</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1458</td>
     <td>Pulmonary fibrosis</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1461</td>
+    <td>Increase, DNA double-strand breaks</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1477</td>
-    <td>Decrease, Oxidative phosphorylation</td>
+    <td>Oxidative phosphorylation, decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1487</td>
+    <td>Binding, Thiol/seleno-proteins involved in protection against oxidative stress</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1488</td>
+    <td>Glutamate dyshomeostasis</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1492</td>
+    <td>Tissue resident cell activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1493</td>
+    <td>Increased Pro-inflammatory mediators</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1494</td>
     <td>Leukocyte recruitment/activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1495</td>
+    <td>Substance interaction with the lung resident cell membrane components</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1496</td>
+    <td>Increased, secretion of proinflammatory mediators</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1497</td>
+    <td>Increased, recruitment of inflammatory cells</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1498</td>
@@ -205,16 +309,16 @@ WHERE {
     <td>Histone acetylation, increase</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1505</td>
+    <td>Cell cycle, disrupted</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1506</td>
     <td>Testicular atrophy</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1508</td>
     <td>CYP2E1 Activation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1510</td>
-    <td>Oxidative Stress in Brain</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1512</td>
@@ -225,16 +329,28 @@ WHERE {
     <td>General Apoptosis</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1515</td>
+    <td>Spermatocyte depletion</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1522</td>
     <td>Inhibition, Chitin synthase 1</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1523</td>
+    <td>Decrease, Cuticular chitin content</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1528</td>
     <td>Fatty Acid Beta Oxidation, Decreased</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1538</td>
+    <td>Decreased protection against oxidative stress</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1542</td>
-    <td>Increase, Mitochondrial complex III antagonism</td>
+    <td>Inhibition, Mitochondrial complex III</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1543</td>
@@ -269,28 +385,52 @@ WHERE {
     <td>Activation, Caspase 8 pathway</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1599</td>
-    <td>Inflamatory events in light-exposed tissues</td>
+    <td>https://identifiers.org/aop.events/1602</td>
+    <td>Increased Muscarinic Acetylcholine Receptors</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1604</td>
     <td>Inhibition of N-linked glycosylation</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1613</td>
+    <td>Decrease, dihydrotestosterone (DHT) levels</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1614</td>
-    <td>Decrease, androgen receptors (AR) activation</td>
+    <td>Decrease, androgen receptor activation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1616</td>
     <td>Malformation, cryptorchidism - maldescended testis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/165</td>
-    <td>Activation, Long term AHR receptor driven direct and indirect gene expression changes</td>
+    <td>https://identifiers.org/aop.events/1632</td>
+    <td>Increase in reactive oxygen and nitrogen species (RONS)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1650</td>
-    <td>Epithelial-mesenchymal transition</td>
+    <td>https://identifiers.org/aop.events/1634</td>
+    <td>Increase, Oxidative DNA damage</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1635</td>
+    <td>Increase, DNA strand breaks</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1640</td>
+    <td>Altered, Photoreceptor patterning</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1643</td>
+    <td>Altered, Visual function</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1647</td>
+    <td>GSK3beta inactivation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/165</td>
+    <td>Activation, Long term AHR receptor driven direct and indirect gene expression changes</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1651</td>
@@ -305,8 +445,24 @@ WHERE {
     <td>Activation, LXR</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1688</td>
-    <td>anogenital distance (AGD), decreased</td>
+    <td>https://identifiers.org/aop.events/1672</td>
+    <td>Inhibition of lung surfactant function</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1682</td>
+    <td>Disruption, Progenitor cells of second heart field</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1686</td>
+    <td>Deposition of Energy</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1690</td>
+    <td>Decrease, circulating testosterone levels </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/17</td>
+    <td>Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1700</td>
@@ -397,44 +553,372 @@ WHERE {
     <td>Pancreatic acinar cell tumors</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1738</td>
+    <td>SARS-CoV-2 cell entry </td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1739</td>
     <td>Binding to ACE2</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1754</td>
-    <td>Porcupine-induced Wnt secretion and Wnt signaling activation</td>
+    <td>Increase, porcupine-induced Wnt secretion and Wnt signaling activation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1759</td>
-    <td>Increase, Cripto-1 expression</td>
+    <td>https://identifiers.org/aop.events/1755</td>
+    <td>beta-catenin activation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1760</td>
-    <td>Inhibition, Activin signaling</td>
+    <td>https://identifiers.org/aop.events/1756</td>
+    <td>Decreased,  plasma 11-ketotestosterone level</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1761</td>
+    <td>Inhibition, Fin regeneration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/177</td>
+    <td>Mitochondrial dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1789</td>
+    <td>Reduction, 17beta-estradiol synthesis by the undifferentiated gonad </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1791</td>
+    <td>Increased, Male Biased Sex Ratio</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/18</td>
     <td>Activation, AhR</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1800</td>
+    <td>Granulosa cell proliferation of gonadotropin-independent follicles, Reduced</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1822</td>
     <td>Maturation of TNF/iNOS-Producing Dendritic Cells</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1825</td>
+    <td>Increase, Cell death</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1841</td>
     <td>Encephalitis</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1843</td>
+    <td>Multi Organ Failure involving Acute Respiratory Distress Syndrome</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1845</td>
+    <td>Coagulation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1846</td>
+    <td>Thrombosis and Disseminated Intravascular Coagulation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1847</td>
+    <td>Increased SARS-CoV-2 production</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1848</td>
     <td>Toll Like Receptor (TLR) Dysregulation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1854</td>
+    <td>Dysregulation, ACE2 expression and activity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1857</td>
+    <td>Platelet-neutrophil interactions, Increased </td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/186</td>
     <td>Altered, Neuroanatomy</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1866</td>
+    <td>Fibrinolysis, decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1867</td>
+    <td>Bradykinin system, hyperactivated</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1868</td>
+    <td>Hyperinflammation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1869</td>
+    <td>Diminished protective oxidative stress response</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1875</td>
+    <td>Cerebrovascular disease (stroke)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1877</td>
+    <td>Altered, retinal layer structure</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1879</td>
+    <td>Bulky DNA adducts, increase</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/188</td>
+    <td>Neuroinflammation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1880</td>
+    <td>Decreased, ALDH1A (RALDH) enzyme activity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1881</td>
+    <td>Decreased, all-trans retinoic acid (atRA) concentration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1882</td>
+    <td>Disrupted, initiation of meiosis of oogonia in the ovary</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1884</td>
+    <td>Inhibition of Fyna</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1885</td>
+    <td>Inhibition of Plxna2</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1886</td>
+    <td>Overexpression of rasl11b</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1888</td>
+    <td>Increased (ectopic) all-trans retinoic acid concentration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1889</td>
+    <td>Premature initiation of meiosis in fetal male germ cells</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1895</td>
+    <td>NLRP3 inflammasome activity, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1901</td>
+    <td>Interferon-I antiviral response, antagonized by SARS-CoV-2</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1902</td>
+    <td>Repression of Gbx2 expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1903</td>
+    <td>foxi1 expression, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1904</td>
+    <td>six1b expression, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1905</td>
+    <td>eya1 expression, inhibited</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1906</td>
+    <td>Cystic Fibrosis Transmembrane Regulator Function, Decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1907</td>
+    <td>Airway Surface Liquid Height, Decreased </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1908</td>
+    <td>Cilia Beat Frequency, Decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1909</td>
+    <td>Mucociliary Clearance, Decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1911</td>
+    <td>FOXJ1 Protein, Decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/192</td>
+    <td>Altered, Neurophysiology</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1939</td>
+    <td>Viral infection and host-to-host transmission, proliferated</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/195</td>
+    <td>Inhibition, NMDARs</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1967</td>
+    <td>Pyroptosis</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1970</td>
+    <td>transposition of the great arteries</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1972</td>
+    <td>Increased, Steroidogenic acute regulatory protein (StAR) </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1973</td>
+    <td>Increased, estrogens </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1974</td>
+    <td>Activation of Tumor Protein 53</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1980</td>
+    <td>Increased microRNA expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1981</td>
+    <td>Decreased SIRT1 expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1982</td>
+    <td>metastatic breast cancer</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1983</td>
+    <td>Disruption, action potential generation</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/201</td>
     <td>Binding of antagonist, NMDA receptors</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/202</td>
+    <td>Inhibition, Nuclear factor kappa B (NF-kB)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2020</td>
+    <td>Decrease, sox9 expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2024</td>
+    <td>Reduced complex sphingolipids</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2027</td>
+    <td>Antagonism, Smoothened receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2028</td>
+    <td>Decrease, GLI1/2 translocation to nucleus </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2040</td>
+    <td>Decrease, GLI1/2 target gene expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2042</td>
+    <td>Increase, Orofacial clefting</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2043</td>
+    <td>Decrease, Sonic Hedgehog second messenger production</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2044</td>
+    <td>Decrease, Smoothend relocation and activation </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2067</td>
+    <td>Altered, Nitric Oxide Levels</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2069</td>
+    <td>Occurrence, Abnormal Vascular Remodeling </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2083</td>
+    <td>Occurrence of Cataracts</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2089</td>
+    <td>Altered Bone Cell Homeostasis</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/209</td>
+    <td>Peptide Oxidation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2090</td>
+    <td>Increase, Bone Remodeling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2092</td>
+    <td>Promotion, Ovarian Cancer </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2096</td>
+    <td>Occurrence, (Micro)vascular dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2097</td>
+    <td>Increase, Pro-Inflammatory Mediators</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2117</td>
+    <td>Increase, goblet cell number</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2118</td>
+    <td>Succinate dehydrogenase, inhibited</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2119</td>
+    <td>Insulin resistance, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2146</td>
+    <td>Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2158</td>
+    <td>Influenza A Virus (IAV) binds sialic acid glycan receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2159</td>
+    <td>Influenza A virus (IAV) cell entry</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2180</td>
+    <td>Immune mechanisms antagonized by viral proteins</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2192</td>
+    <td>Influenza A Virus production increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2193</td>
+    <td>Influenza A Virus (IAV) budding</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/228</td>
+    <td>peroxisome proliferator activated receptor promoter demethylation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/233</td>
+    <td>Decreased, PPAR-gamma activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/25</td>
+    <td>Agonism, Androgen receptor</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/258</td>
@@ -449,8 +933,12 @@ WHERE {
     <td>Activation, SREBP-1c</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/272</td>
-    <td>Activation/Proliferation, T-cells</td>
+    <td>https://identifiers.org/aop.events/265</td>
+    <td>Activation, Stellate cells</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/266</td>
+    <td>Decrease, Steroidogenic acute regulatory protein (STAR)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/277</td>
@@ -474,19 +962,35 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/286</td>
-    <td>Altered, Transcription of genes by AR</td>
+    <td>Altered, Transcription of genes by the androgen receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/289</td>
+    <td>Decrease, Translocator protein (TSPO)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/298</td>
     <td>Insufficiency, Vascular</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/3</td>
+    <td>Reduction, 17beta-estradiol synthesis by ovarian granulosa cells</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/305</td>
     <td>Inhibition, VegfR2</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/350</td>
-    <td>Increase, Mortality</td>
+    <td>https://identifiers.org/aop.events/341</td>
+    <td>Impairment, Learning and memory</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/344</td>
+    <td>N/A, Liver fibrosis</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/348</td>
+    <td>Malformation, Male reproductive tract</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/352</td>
@@ -501,24 +1005,68 @@ WHERE {
     <td>Uroporphyria</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/373</td>
+    <td>Formation, Pro-mutagenic DNA Adducts</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/376</td>
+    <td>Increased, Induced Mutations in Critical Genes</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/378</td>
+    <td>Tumorigenesis, Hepatocellular carcinoma</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/381</td>
     <td>Reduced levels of BDNF</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/382</td>
+    <td>Aberrant, Dendritic morphology</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/383</td>
+    <td>Reduced, Presynaptic release of glutamate</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/385</td>
     <td>Decrease of synaptogenesis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/389</td>
-    <td>Increased, Intracellular Calcium overload</td>
+    <td>https://identifiers.org/aop.events/386</td>
+    <td>Decrease of neuronal network function</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/396</td>
+    <td>Covalent Binding, Protein</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/398</td>
+    <td>Activation, Dendritic Cells</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/402</td>
+    <td>Cognitive function, decreased </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/405</td>
+    <td>disrupted, ovarian cycle</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/408</td>
     <td>reduction in ovarian granulosa cells, Aromatase (Cyp19a1)</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/409</td>
+    <td>Metabolism of AFB1, Production of Reactive Electrophiles</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/41</td>
     <td>Inhibition, Bile Salt Export Pump (ABCB11)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/413</td>
+    <td>Reduction, Testosterone synthesis in Leydig cells</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/424</td>
@@ -529,16 +1077,48 @@ WHERE {
     <td>Decrease of Thyroidal iodide</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/446</td>
+    <td>Reduction, fetal/adult testosterone </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/447</td>
+    <td>Reduction, Cholesterol transport in mitochondria</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/493</td>
+    <td>Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/51</td>
     <td>Inhibition, Ca++ ATPase</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/52</td>
+    <td>Decreased, Calcium influx</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/54</td>
     <td>Up Regulation, CD36</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/55</td>
+    <td>Increase, Cell injury/death</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/584</td>
     <td>Inhibition, sodium channel</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/593</td>
+    <td>Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/616</td>
+    <td>Occurrence, A paroxysmal depolarizing shift</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/618</td>
+    <td>Decreased, Neuronal network function in adult brain</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/619</td>
@@ -553,28 +1133,72 @@ WHERE {
     <td>Desensitization, Nicotinic acetylcholine receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/669</td>
-    <td>Reduction, Neuronal synaptic inhibition</td>
+    <td>https://identifiers.org/aop.events/667</td>
+    <td>Binding at picrotoxin site, iGABAR chloride channel</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/68</td>
+    <td>Accumulation, Collagen</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/682</td>
+    <td>Generation, Amplified excitatory postsynaptic potential (EPSP)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/709</td>
+    <td>Increase, Cytotoxicity (renal tubular cell)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/715</td>
     <td>Activation, Constitutive androstane receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/716</td>
-    <td>Increase, cell proliferation (hepatocytes)</td>
+    <td>https://identifiers.org/aop.events/718</td>
+    <td>Binding, Tubulin</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/752</td>
-    <td>Altered, Meiotic chromosome dynamics</td>
+    <td>https://identifiers.org/aop.events/721</td>
+    <td>Disorganization, Meiotic Spindle</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/756</td>
+    <td>Hippocampal gene expression, Altered </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/757</td>
+    <td>Hippocampal anatomy, Altered </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/758</td>
+    <td>Hippocampal Physiology, Altered</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/79</td>
     <td>Inhibition, Cyclooxygenase activity</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/814</td>
+    <td>Occurrence, Kidney toxicity</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/826</td>
     <td>Activation, Keratinocytes</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/827</td>
+    <td>sensitisation, skin</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/844</td>
+    <td>Oxidation, Uroporphyrinogen</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/845</td>
+    <td>Inhibition, UROD</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/850</td>
+    <td>Induction, CYP1A2/CYP1A5</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/851</td>
@@ -585,12 +1209,36 @@ WHERE {
     <td>Changes/Inhibition, Cellular Homeostasis and Apoptosis</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/854</td>
+    <td>Alterations, Cellular proliferation / hyperplasia</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/856</td>
     <td>Formation, Hepatocellular and Bile duct tumors</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/858</td>
     <td>Decreased, PPARalpha transactivation of gene expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/861</td>
+    <td>Decreased, Ketogenesis (production of ketone bodies)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/864</td>
+    <td>Decreased, Body Weight</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/87</td>
+    <td>Release, Cytokine</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/870</td>
+    <td>Increase, Cell Proliferation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/875</td>
+    <td>Binding of agonist, Ionotropic glutamate receptors</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/877</td>
@@ -605,12 +1253,40 @@ WHERE {
     <td>Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/889</td>
+    <td>Proteostasis, impaired</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/89</td>
-    <td>Synthesis, De Novo FA</td>
+    <td>Synthesis, De Novo Fatty Acid (FA)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/890</td>
+    <td>Degeneration of dopaminergic neurons of the nigrostriatal pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/896</td>
+    <td>Parkinsonian motor deficits</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/898</td>
+    <td>Disruption, Lysosome</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/927</td>
     <td>KE1 : S-Glutathionylation, eNOS</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/932</td>
+    <td>KE4 : Uncoupling, eNOS</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/933</td>
+    <td>KE6 : Depletion, Nitric Oxide</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/934</td>
+    <td>KE3 : Decrease, Tetrahydrobiopterin</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/935</td>
@@ -625,8 +1301,16 @@ WHERE {
     <td>dimerization, AHR/ARNT</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/945</td>
+    <td>reduced dimerization, ARNT/HIF1-alpha</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/948</td>
     <td>reduced production, VEGF</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/952</td>
+    <td>Hypertension</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/957</td>
@@ -653,6 +1337,10 @@ WHERE {
     <td>Increase, Mucin production</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/97</td>
+    <td>Alkylation, DNA</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/973</td>
     <td>KE5 : Decrease, AKT/eNOS activity</td>
   </tr>
@@ -673,6 +1361,10 @@ WHERE {
     <td>Impairment, T-cell dependent antibody response</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/998</td>
+    <td>Binding of antagonist, PPAR alpha</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/10</td>
     <td>Acetylcholine accumulation in synapses</td>
   </tr>
@@ -691,6 +1383,10 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1007</td>
     <td>Reduced, Anterior swim bladder inflation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1008</td>
+    <td>Reduced, Hearing</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1012</td>
@@ -730,7 +1426,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/103</td>
-    <td>Increase, Ecdysone receptor agonism</td>
+    <td>Increase, Ecdysone receptor hyperactivation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1032</td>
@@ -783,10 +1479,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1045</td>
     <td>Decreased, Ovarian E2</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1046</td>
-    <td>Suppression, Estrogen receptor (ER) activity</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1047</td>
@@ -853,28 +1545,16 @@ WHERE {
     <td>Increased, Pancreatic acinar tumors</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1064</td>
-    <td>prepubertal increase, Estrogen receptor (ER) activity</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1065</td>
     <td>Activation, estrogen receptor alpha</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1066</td>
-    <td>Promotion, SIX-1 postive basal-type progenitor cells</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1067</td>
-    <td>Proliferation/Clonal Expansion, aberrant basal cells</td>
+    <td>Promotion, Sine oculis homeobox 1 positive progenitor cells in endometrium</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1068</td>
-    <td>squamous metaplasia, aberrant basal cells</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1069</td>
-    <td>Increased, Hyperplasia (glandular epithelial cells of endometrium)</td>
+    <td>Endometrial squamous metaplasia, Increase</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1070</td>
@@ -894,7 +1574,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1075</td>
-    <td>prolonged, estrus</td>
+    <td>prolonged, estrus cycle</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1076</td>
@@ -945,10 +1625,6 @@ WHERE {
     <td>Increased, inflammation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1088</td>
-    <td>Increased, Oxidative Stress</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1089</td>
     <td>Increased, Cell Proliferation (mesothelium)</td>
   </tr>
@@ -967,10 +1643,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1098</td>
     <td>Increased, blood potassium concentration</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1101</td>
-    <td>Altered, Amphibian metamorphosis</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1102</td>
@@ -1011,14 +1683,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1114</td>
     <td>Unknown, MIE</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1115</td>
-    <td>Increased, Reactive oxygen species</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1116</td>
-    <td>Decreased, Triiodothyronine (T3) in tissues</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1122</td>
@@ -1125,10 +1789,6 @@ WHERE {
     <td>Increase, Phenotypic enzyme activity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1171</td>
-    <td>Increase, Clonal Expansion of Altered Hepatic Foci</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1174</td>
     <td>Activation, NADPH Oxidase</td>
   </tr>
@@ -1137,16 +1797,16 @@ WHERE {
     <td>Decreased, sodium conductance 2</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1177</td>
+    <td>Decreased, Ionotropic GABA receptor chloride channel conductance</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1179</td>
     <td>Decreased, GABA release</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/118</td>
     <td>Formation, Formation of hemoglobin adducts</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1181</td>
-    <td>Activation, Estrogen receptor</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1182</td>
@@ -1201,6 +1861,10 @@ WHERE {
     <td>Activation, Macrophages</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/12</td>
+    <td>Acetylcholinesterase (AchE) Inhibition</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1205</td>
     <td>Activation, Juvenile hormone receptor</td>
   </tr>
@@ -1231,10 +1895,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1218</td>
     <td>Opening of calcium channel, Calcium influx</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/122</td>
-    <td>Activation, Glucocorticoid Receptor</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1220</td>
@@ -1269,14 +1929,6 @@ WHERE {
     <td>Increased, Second Messenger Production</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1250</td>
-    <td>Decrease, Lung function</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1252</td>
-    <td>Binding to (interferes with) topoisomerase II enzyme</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1255</td>
     <td>induced spawning</td>
   </tr>
@@ -1301,14 +1953,6 @@ WHERE {
     <td>Direct mitochondrial inhibition</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1261</td>
-    <td>Mitochondrial impairment</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1262</td>
-    <td>Apoptosis</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1263</td>
     <td>Necrosis</td>
   </tr>
@@ -1318,7 +1962,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1265</td>
-    <td>Increase, Fushi tarazu factor-1 gene expression</td>
+    <td>Decrease, Fushi tarazu factor-1 gene expression</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1266</td>
@@ -1326,11 +1970,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1267</td>
-    <td>Decrease, Ecdysis motoneuron bursts</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1268</td>
-    <td>Decrease, Excitatory postsynaptic potential</td>
+    <td>Decrease, Ecdysis motor program activity</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1270</td>
@@ -1351,10 +1991,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1277</td>
     <td>Reproductive failure</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1278</td>
-    <td>ROS formation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1279</td>
@@ -1401,10 +2037,6 @@ WHERE {
     <td>Perturbation of cholesterol</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/129</td>
-    <td>Reduction, Gonadotropins, circulating concentrations</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1290</td>
     <td>Glutathione homeostasis</td>
   </tr>
@@ -1429,12 +2061,28 @@ WHERE {
     <td>Defect of Embryogenesis</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/1299</td>
+    <td>Activation, AKT</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/130</td>
+    <td>Depletion, GSH</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1300</td>
+    <td>Activation, mTORC1</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1305</td>
     <td>Increase, cytosolic fatty acid</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/131</td>
     <td>Down Regulation, Gulcose-6-phosphate dehydrogenase</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1310</td>
+    <td>Activation, PI3K</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1316</td>
@@ -1513,10 +2161,6 @@ WHERE {
     <td>Increase, inositol triphosphate</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1339</td>
-    <td>Increase, intracellular calcium</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1340</td>
     <td>Activate, calmodulin</td>
   </tr>
@@ -1570,7 +2214,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1353</td>
-    <td>Inhibit, voltage-gated sodium channel</td>
+    <td>Binding to voltage-gated sodium channel</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1354</td>
@@ -1611,10 +2255,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1363</td>
     <td>Increased, epilepsy</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1364</td>
-    <td>Increase, Reactive oxygen species</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1365</td>
@@ -1705,36 +2345,16 @@ WHERE {
     <td>CYP7B activity, inhibition</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1387</td>
-    <td>7α-hydroxypregnenolone synthesis in the brain, decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1388</td>
-    <td>Dopamine release in the brain, decreased</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1389</td>
     <td>Locomotor activity, decreased</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/139</td>
+    <td>N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/1390</td>
     <td>Sexual behavior, decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1392</td>
-    <td>Oxidative Stress </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1393</td>
-    <td>Hepatocytotoxicity</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1394</td>
-    <td>Induction, persistent proliferation/sustained proliferation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1395</td>
-    <td>Liver Cancer</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1396</td>
@@ -1829,10 +2449,6 @@ WHERE {
     <td>NFE2/Nrf2 repression</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1418</td>
-    <td>Increased, steatosis</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1419</td>
     <td>Reduced, FXR activity</td>
   </tr>
@@ -1905,14 +2521,6 @@ WHERE {
     <td>Increased neurokinin A (NKA) by neuronal cells</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1438</td>
-    <td>Acute phase proteins expression, Increased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1439</td>
-    <td>Systemic acute phase response</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1443</td>
     <td>Atherosclerosis</td>
   </tr>
@@ -1923,10 +2531,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1445</td>
     <td>Increase, Lipid peroxidation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1446</td>
-    <td>Decrease, Coupling of oxidative phosphorylation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1447</td>
@@ -1967,14 +2571,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1456</td>
     <td>Increase, Differentiation of fibroblasts</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1457</td>
-    <td>Induction, Epithelial Mesenchymal Transition</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1461</td>
-    <td>DNA double-strand break </td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1462</td>
@@ -2053,20 +2649,8 @@ WHERE {
     <td>Depletion, mtDNA </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1483</td>
-    <td>Dysfunction, Mitochondria </td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1486</td>
     <td>Binding of substrate, endocytic receptor</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1487</td>
-    <td>Binding, Thiol/seleno-proteins involved in protection against oxidative stress</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1488</td>
-    <td>Glutamate dyshomeostasis</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1489</td>
@@ -2085,30 +2669,6 @@ WHERE {
     <td>Increased, Oncotic Necrosis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1492</td>
-    <td>Tissue resident cell activation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1493</td>
-    <td>Increased Pro-inflammatory mediators</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1495</td>
-    <td>Substance interaction with the lung resident cell membrane components</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1496</td>
-    <td>Increased, secretion of proinflammatory mediators</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1497</td>
-    <td>Increased, recruitment of inflammatory cells</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1505</td>
-    <td>Cell cycle, disrupted</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1509</td>
     <td>Protein Adduct Formation</td>
   </tr>
@@ -2121,20 +2681,12 @@ WHERE {
     <td>Neurodegeneration</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1515</td>
-    <td>Spermatocyte depletion</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/152</td>
     <td>Suppression, Inflammatory cytokines</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1521</td>
     <td>Decrease, Growth</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1523</td>
-    <td>Decrease, Cuticular chitin content</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1524</td>
@@ -2185,10 +2737,6 @@ WHERE {
     <td>Disruption, Sarcomere assembly</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1538</td>
-    <td>Decreased protection against oxidative stress</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1539</td>
     <td>Endocytotic lysosomal uptake</td>
   </tr>
@@ -2197,16 +2745,24 @@ WHERE {
     <td>Decrease in mitochondrial oxidative phosphorylation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1546</td>
-    <td>Increased reactive oxygen species (in the mitochondria)</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1547</td>
     <td>Mitochondrial Injury</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1548</td>
     <td>Necrotic Tissue</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1550</td>
+    <td>Deposition of Ionizing Energy</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1554</td>
+    <td>Increase Chromosomal Aberrations</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1555</td>
+    <td>Increase cell proliferation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1556</td>
@@ -2222,7 +2778,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1560</td>
-    <td>Altered differentiation</td>
+    <td>Cell differentiation, altered</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1561</td>
@@ -2281,10 +2837,6 @@ WHERE {
     <td>Bronchiolitis obliterans</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1592</td>
-    <td>ROS generation from photoactivated chemicals</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1594</td>
     <td>Oxidation of membrane lipids</td>
   </tr>
@@ -2293,8 +2845,8 @@ WHERE {
     <td>Oxidation/denatuation of membrane proteins</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1602</td>
-    <td>Activation, Muscarinic Acetylcholine Receptors</td>
+    <td>https://identifiers.org/aop.events/1599</td>
+    <td>Inflamatory events in light-exposed tissues</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1603</td>
@@ -2309,8 +2861,8 @@ WHERE {
     <td>Activation of hepatic stellate cells</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1608</td>
-    <td>Increase, Oxidative DNA damage</td>
+    <td>https://identifiers.org/aop.events/1607</td>
+    <td>Increase, Necrosis</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1609</td>
@@ -2322,19 +2874,11 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1610</td>
-    <td>Reduction, 17-OH-pregnenolone conversion in DHEA</td>
+    <td>Reduction, dehydroepiandrosterone</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1611</td>
-    <td>Reduction, 17-OH-progesterone conversion in androstenedione</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1612</td>
-    <td>Decrease, testosterone synthesis/level</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1613</td>
-    <td>Decrease, dihydrotestosterone (DHT) level</td>
+    <td>Reduction, androstenedione</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1615</td>
@@ -2342,7 +2886,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1617</td>
-    <td>5α-reductase, inhibition</td>
+    <td>Inhibition, 5α-reductase</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1619</td>
@@ -2373,20 +2917,8 @@ WHERE {
     <td>Reduction fo Pigmentation pattern </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1632</td>
-    <td>Increase in reactive oxygen and nitrogen species (RONS)</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1633</td>
     <td>Increase in inflammation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1634</td>
-    <td>Increase, Oxidative damage to DNA</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1635</td>
-    <td>Increase, DNA strand breaks</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1636</td>
@@ -2401,20 +2933,12 @@ WHERE {
     <td>Induction, Liver “Dysfunctional” Changes by CGA 330050</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1640</td>
-    <td>Altered, Photoreceptor patterning</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1641</td>
     <td>Decreased retinoic acid (RA) synthesis</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1642</td>
     <td>Decreased plasma RA level</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1643</td>
-    <td>Altered, Visual function</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1653</td>
@@ -2465,10 +2989,6 @@ WHERE {
     <td>Lung cancer</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1672</td>
-    <td>Inhibition of lung surfactant function</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1673</td>
     <td>Alveolar collapse</td>
   </tr>
@@ -2489,10 +3009,6 @@ WHERE {
     <td>Disruption, Neural crest cell migration</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1682</td>
-    <td>Disruption, Progenitor cells of second heart field</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1683</td>
     <td>Impairment, Fourth pharyngeal arch development</td>
   </tr>
@@ -2505,20 +3021,12 @@ WHERE {
     <td>Anomalies, Congenital cardiac conotruncal</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1686</td>
-    <td>Deposition of Energy</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1687</td>
-    <td>decrease, transcription of genes by AR </td>
+    <td>https://identifiers.org/aop.events/1688</td>
+    <td>anogenital distance (AGD), decreased</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/169</td>
     <td>Disruption, Membrane integrity</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1690</td>
-    <td>reduction, testosterone levels </td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1691</td>
@@ -2530,7 +3038,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1693</td>
-    <td>Reduction, Plasma progesterone concentration </td>
+    <td>Decreased, Progesterone levels</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1694</td>
@@ -2569,10 +3077,6 @@ WHERE {
     <td>N/A, Methemoglobinemia, decreased hemoglobin, hematocrit, red blood cell number</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1738</td>
-    <td>SARS-CoV-2 cell entry </td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1740</td>
     <td>Induced dysregulation of ACE2 </td>
   </tr>
@@ -2597,18 +3101,6 @@ WHERE {
     <td>Increased Angiotensin II </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1753</td>
-    <td>Chronic reactive oxygen species</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1755</td>
-    <td>beta-catenin activation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1756</td>
-    <td>Decreased,  plasma 11-ketotestosterone level</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1757</td>
     <td>Reduce, Sperm count</td>
   </tr>
@@ -2617,28 +3109,12 @@ WHERE {
     <td>Impaired, Spermatogenesis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/176</td>
-    <td>Damaging, Mitochondria</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1761</td>
-    <td>Inhibition, Fin regeneration</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1762</td>
     <td>Urothelial cell injury/death</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1763</td>
     <td>Urothelial Tumor</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1765</td>
-    <td>Increase, Formation of DNA photoproducts</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1766</td>
-    <td>Increase, DNA double-strand break</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1767</td>
@@ -2653,10 +3129,6 @@ WHERE {
     <td>Increase, Body fluid overload</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/177</td>
-    <td>N/A, Mitochondrial dysfunction 1</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1770</td>
     <td>Decrease, Mitochondrial membrane potential</td>
   </tr>
@@ -2666,7 +3138,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1772</td>
-    <td>Decrease, Neutral lipids</td>
+    <td>Decrease, Triglyceride</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1773</td>
@@ -2737,20 +3209,12 @@ WHERE {
     <td>Status epilepticus</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1789</td>
-    <td>Reduction, 17beta-estradiol synthesis by the undifferentiated gonad </td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/179</td>
-    <td>Decreased, Mitochondrial fatty acid beta-oxidation</td>
+    <td>Decrease, Fatty acid beta-oxidation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1790</td>
     <td>Increased, Differentiation to Testis </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1791</td>
-    <td>Increased, Male Biased Sex Ratio</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1792</td>
@@ -2781,16 +3245,20 @@ WHERE {
     <td>Inhibition of 11β-HSD </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1800</td>
-    <td>Granulosa cell proliferation of gonadotropin-independent follicles, Reduced</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1806</td>
     <td>Inhibition, Chitinase </td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1807</td>
     <td>Inhibition, Chitobiase</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1809</td>
+    <td>Increase, Tissue/organ damage</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1812</td>
+    <td>Increase, Cytochrome c release</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1814</td>
@@ -2802,7 +3270,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1816</td>
-    <td>Mitochondrial dysfunction</td>
+    <td>Mitochondrial dysfunction EMPTY</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1817</td>
@@ -2823,14 +3291,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/1821</td>
     <td>Decrease, Cell proliferation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1825</td>
-    <td>Increase, Cell death</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1827</td>
-    <td>Increase, Global DNA methylation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1828</td>
@@ -2877,24 +3337,8 @@ WHERE {
     <td>Prolonged TLR9 activation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1843</td>
-    <td>Multi Organ Failure involving Acute Respiratory Distress Syndrome</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/1844</td>
     <td>systemic inflammatory response syndrome</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1845</td>
-    <td>Coagulation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1846</td>
-    <td>Thrombosis and Disseminated Intravascular Coagulation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1847</td>
-    <td>Increased SARS-CoV-2 production</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/1849</td>
@@ -2921,56 +3365,904 @@ WHERE {
     <td>Hyperactivation of ACE/Ang-II/AT1R axis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1854</td>
-    <td>Dysregulation, ACE2 expression and activity</td>
+    <td>https://identifiers.org/aop.events/1855</td>
+    <td>Increased Sodium-sensitive hypertension</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/188</td>
-    <td>Neuroinflammation</td>
+    <td>https://identifiers.org/aop.events/1856</td>
+    <td>Imbalanced salty and sweet taste responses</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/192</td>
-    <td>Altered, Neurophysiology</td>
+    <td>https://identifiers.org/aop.events/1861</td>
+    <td>Increase, D1 protein deactivation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1862</td>
+    <td>Decrease, Photosystem II efficiency</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1863</td>
+    <td>Decrease, Reproduction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1864</td>
+    <td>Increase, Programmed cell death</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1865</td>
+    <td>Increase, Oxygen-evolving complex damage</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1870</td>
+    <td>Sustentacular cells, decrease </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1871</td>
+    <td>olfactory sensory neurons, decrease </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1872</td>
+    <td>Olfactory epithelium degeneration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1873</td>
+    <td>impaired olfactory function (anosmia) </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1874</td>
+    <td>blood brain barrier disruption </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1878</td>
+    <td>Decreased, Eye size</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1883</td>
+    <td>Decreased, size of the ovarian reserve</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1890</td>
+    <td>Decrease (loss of) fetal male germ cells</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1891</td>
+    <td>abnormal, placental vasculature morphology</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1892</td>
+    <td>increase, placental insufficiency</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1893</td>
+    <td>increase, Preeclampsia</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1896</td>
+    <td>Genomic instability</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1897</td>
+    <td>increased MyD88 activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1898</td>
+    <td>increased release of danger/damage associated molecular patterns</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1899</td>
+    <td>formation of neutrophil extracellular traps (NETs)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1900</td>
+    <td>increased platelet surface TLR9 expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/191</td>
+    <td>Neuronal dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1912</td>
+    <td>Motile Cilia Number/Length, Decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1913</td>
+    <td>Endothelial cell dysfunction </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1914</td>
+    <td>Platelet activation, Increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1915</td>
+    <td>Neutrophil activation, Increased </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1916</td>
+    <td>Thromboinflammation, Increased </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1917</td>
+    <td>Altered gene expression, NRF2 dependent antioxidant pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1920</td>
+    <td>Altered gene expression, TGF-β dependent fibrosis pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1921</td>
+    <td>Altered gene expression, NF-kB dependent Interleukin-6 pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1922</td>
+    <td>Increased, Reactive metabolites production</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1923</td>
+    <td>Altered gene expression, P53 dependent apoptosis pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1928</td>
+    <td>increased，Vascular endothelial dysfunction</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/193</td>
     <td>Decreased, Nitric Oxide</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/195</td>
-    <td>Inhibition, NMDARs</td>
+    <td>https://identifiers.org/aop.events/1930</td>
+    <td>altered, inner ear development</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/202</td>
-    <td>Inhibition, Nuclear factor kappa B (NF-kB)</td>
+    <td>https://identifiers.org/aop.events/1931</td>
+    <td>Intestinal barrier, disruption</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/209</td>
-    <td>Peptide Oxidation</td>
+    <td>https://identifiers.org/aop.events/1933</td>
+    <td>Increased, Interleukin-6 production</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1934</td>
+    <td>Myocardial Infarction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1935</td>
+    <td>Angiotensin (1-7) levels diminished</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1936</td>
+    <td>Angiotensin II degradation reduced</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1937</td>
+    <td>ADAM17 expression induction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1938</td>
+    <td>ACE2 increased shedding</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1941</td>
+    <td>Memory Loss</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1942</td>
+    <td>Accumulation, Cytosolic toxic Tau oligomers</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1943</td>
+    <td>Hyperphosphorylation of Tau</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1944</td>
+    <td>Synaptic dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1945</td>
+    <td>Dysfunctional Autophagy</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1946</td>
+    <td>Impaired mechanotransduction of pericytes</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1947</td>
+    <td>Pericyte dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1948</td>
+    <td>Increased ACE2 expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1949</td>
+    <td>Decrease, GLUT4</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1950</td>
+    <td>Increase, TNF</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1951</td>
+    <td>Decrease, Glucose uptake</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1952</td>
+    <td>Abnormal, Glucose homeostasis</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1953</td>
+    <td>Gestational diabetes mellitus</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1954</td>
+    <td>Gut microbiota, alteration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1955</td>
+    <td>Acute Myeloid Leukemia</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1961</td>
+    <td>Prolongation of Action Potential Duration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1962</td>
+    <td>Prolongation of QT interval</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1963</td>
+    <td>Torsades de Pointes</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1964</td>
+    <td>Sudden cardiac death</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1965</td>
+    <td>Increase, Pollen abnormal</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1971</td>
+    <td>Increased, tumor growth</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1977</td>
+    <td>Disruption of sodium channel gating kinetics</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1978</td>
+    <td>Increase risk, microcephaly</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1979</td>
+    <td>Premature cell differentiation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1985</td>
+    <td>Increased, Kisspeptin signalling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1986</td>
+    <td>Decreased, Gonadotropins</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1987</td>
+    <td>Decreased, Androgen and Progestin </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1988</td>
+    <td>Decreased, Maturation Inducing Steroid Surge by Granulosa cells</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1989</td>
+    <td>Impaired, Oocyte maturation and ovulation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1990</td>
+    <td>Increased, Oocyte Atresia</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1991</td>
+    <td>Impaired, Reproduction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1995</td>
+    <td>Abnormal lipid metabolism</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1998</td>
+    <td>Activation, Microglia</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2005</td>
+    <td>Altered neurotransmission in development</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2006</td>
+    <td>Secondary genotoxicity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2007</td>
+    <td>Non-coding RNA expression profile alteration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2008</td>
+    <td>Chronic obstructive pulmonary disease</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2009</td>
+    <td>Activation of inflammation pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2010</td>
+    <td>Pulmonary inflammation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2011</td>
+    <td>Emphysema</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2012</td>
+    <td>Fibroblast proliferation and differentiation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2013</td>
+    <td>Airway remodeling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2017</td>
+    <td>Endoplasmic reticulum stress</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2019</td>
+    <td>Non-alcoholic fatty liver disease</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2021</td>
+    <td>Increase, slincR expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2023</td>
+    <td>Inhibition of Ceramide Synthase </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2025</td>
+    <td>Affected folate transporter</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2026</td>
+    <td>decreased folate uptake</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2029</td>
+    <td>protein-coupled estrogen receptor 1 (GPER) activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2030</td>
+    <td>Activation, PARP1</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2031</td>
+    <td>Releasing, Apoptosis-Inducing Factor (AIF)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2033</td>
+    <td>Increased sphingolipid-1-phosphate</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2034</td>
+    <td>liver dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2036</td>
+    <td>Activation of metabotropic glutamate receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2037</td>
+    <td>Inositol triphosphate receptor activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2038</td>
+    <td>Activation of calpain signalling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2039</td>
+    <td>Inhibition GABAA receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2041</td>
+    <td>Decrease, facial prominence outgrowth</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2045</td>
+    <td>Increase, Alcohol dehydrogenase</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2046</td>
+    <td>Increase, Vitellogenin mRNA</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2047</td>
+    <td>Delay, Ovarian maturation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2048</td>
+    <td>Increase, Body volume of female adults</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2049</td>
+    <td>Increase, sex ratio (F/M)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2050</td>
+    <td>Increase, developmental abnormalities</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2051</td>
+    <td>Decrease, Tyrosine</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2052</td>
+    <td>Decrease, dopa decarboxylase</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2053</td>
+    <td>Increase, Defects in tanning of new cuticle</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2054</td>
+    <td>Increase,  impairment of cuticle sclerotization</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2055</td>
+    <td>Increase,  pigmentation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2056</td>
+    <td>Increase,  delay in oviposition</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2057</td>
+    <td>Decrease,  hatching of egg</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2058</td>
+    <td>Decrease, 20-hydroxyecdysone</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2059</td>
+    <td>Decrease, knickkopf gene</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2060</td>
+    <td>Decrease, Chitin laminar organization</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2061</td>
+    <td>Decrease, Prevent chitin degradation by chitinases</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2062</td>
+    <td>Weak, Procuticle protection</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2063</td>
+    <td>Decrease, New cuticle secretion</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2064</td>
+    <td>Increase, Cytosolic calcium</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2065</td>
+    <td>Inhibition, Fatty acid oxidation </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2066</td>
+    <td>Altered Signaling Pathways</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2068</td>
+    <td>Increase, Endothelial Dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2070</td>
+    <td>Increase, Glycolysis</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2071</td>
+    <td>Decrease, Glucose pool</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2072</td>
+    <td>Increase, Mitochondrial swelling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2073</td>
+    <td>increase oxidation of the di-copper moiety of the hemocyanin active site </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2074</td>
+    <td>Decreased, oxygen binding capacity by hemocyanin</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2075</td>
+    <td>Cognitive, sensed as hypoxic/low oxygen environment</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2076</td>
+    <td>Increase, hemocyanin mRNA</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2077</td>
+    <td>Increase, pulmonate breathing</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2078</td>
+    <td>Loss of drebrin</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2079</td>
+    <td>Increased, glycolipid levels</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2080</td>
+    <td>Impaired, blood testis barrier</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2081</td>
+    <td>Increased Modified Proteins</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2082</td>
+    <td>Hypospadias, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2084</td>
+    <td>Increase, Cardiac remodelling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2085</td>
+    <td>Pulmonary epithelial injury</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2086</td>
+    <td>Airway inflammation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2087</td>
+    <td>Increased incidence of respiratory disease</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2088</td>
+    <td>Dysfunction of respiratory system</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2091</td>
+    <td>Occurrence, Bone Loss</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2093</td>
+    <td>Brain thyroid hormone (T4/T3) decreased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2094</td>
+    <td>Abnormal, neuroblast migration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2095</td>
+    <td>Periventricular heterotopia formation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2098</td>
+    <td>Increase, Abnormal Neural Remodeling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2099</td>
+    <td>hERG channel blockade</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/21</td>
     <td>Altered regulation, Alpha hemoglobin</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/211</td>
-    <td>Propagation, Oxidative stress</td>
+    <td>https://identifiers.org/aop.events/2100</td>
+    <td>Inhibition of rapid delayed rectifying potassium current </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2104</td>
+    <td>Decreased, thyroid hormone binding to thyroid hormone receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2105</td>
+    <td>Decreased, myelin basic protein expression in oligodendrocytes</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2106</td>
+    <td>Impaired, oligodendrocyte maturation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2107</td>
+    <td>Hypomyelination</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2108</td>
+    <td>Altered, white brain matter</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2109</td>
+    <td>Binding, extracellular matrix protein laminin</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2110</td>
+    <td>Disrupted binding, laminin-beta1-integrin receptors with laminin</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2111</td>
+    <td>Decreased, neural progenitor cell adhesion to laminin</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2112</td>
+    <td>Disturbed, radial glia cell alignment and migration</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2113</td>
+    <td>Decreased, radial glia cell density</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2114</td>
+    <td>Disturbed, cortical architecture</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2115</td>
+    <td>Altered, cholesterol metabolism</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2116</td>
+    <td>Decreased, oligodendrocyte differentiation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2120</td>
+    <td>Superoxide generation, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2121</td>
+    <td>decreased, Intellectual Quotient</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2122</td>
+    <td>increased, socio-economic burden</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2123</td>
+    <td>decreased, Bcl-2 expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2124</td>
+    <td>increased, Bax expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2125</td>
+    <td>Increased fat mass</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2126</td>
+    <td>Estrogen receptor alpha inactivation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2127</td>
+    <td>Increased adipocyte size</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2128</td>
+    <td>Increased adipocyte numbers</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2129</td>
+    <td>Metabolically unhealthy Obesity</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/213</td>
     <td>N/A, Parent compound is converted to the reactive metabolite and forms free radicals leading to oxidation of heme iron(II) in hemoglobin to iron(III)</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/2130</td>
+    <td>increased lipid accumulation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2131</td>
+    <td>Conjugation, GSH</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2132</td>
+    <td>Increased pro-inflammatory cytokine expression</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2134</td>
+    <td>Increase, Androgen receptor protein expression/abundance</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2135</td>
+    <td>Prostate cancer</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2136</td>
+    <td>prostatic intraepithelial neoplasia</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2137</td>
+    <td>Increase, Gonadotropins concentration in plasma</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2139</td>
+    <td>Reduction, the ratio of 17beta-estradiol/11-Keto Testosterone in plasma </td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/214</td>
     <td>Bile accumulation, Pathological condition</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2141</td>
+    <td>Disruption, Estrogen receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2142</td>
+    <td>Depletion, Ectoplasmic specialization (ES)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2144</td>
+    <td>Impaired insulin signaling</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2145</td>
+    <td>Metabolic syndrome</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2147</td>
+    <td>Decreased, Viable Offspring</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2148</td>
+    <td>Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2149</td>
+    <td>Increased intracelluar Iron accumulation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2150</td>
+    <td>Neurological disorder</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2151</td>
+    <td>Disruption, neurotransmitter release</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2152</td>
+    <td>Epigenetic modification process</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2153</td>
+    <td>Expression of factors ruling proliferation, modified</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2154</td>
+    <td>Uterine adenocarcinoma (endometrioid adenocarcinoma Type I)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2155</td>
+    <td>Inhibition of Sulfotransferase E1 (SULT1E1)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/216</td>
     <td>Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/2161</td>
+    <td>Increase, Vascular disrupting effects</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2162</td>
+    <td>Activation, HIF1α</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2163</td>
+    <td>Activation Sema6A</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2164</td>
+    <td>Activation, Dll4-Notch pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2165</td>
+    <td>Activation of PPAR</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2166</td>
+    <td>Abnormal expression of NO</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2167</td>
+    <td>Activation of MMP-2 MMP-9</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2168</td>
+    <td>Activation of angiopoietin like protein 4</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2169</td>
+    <td>Activation of Angiogenic cytokines</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2170</td>
+    <td>Activated ANG/Tie2 pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2171</td>
+    <td>Activated BMP/TGF-beta pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2172</td>
+    <td>Activated Wnt/Frizzled pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2173</td>
+    <td>Activated AKT/ERK/PI3K pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2174</td>
+    <td>Inhibition VEGF/VEGFR pathway</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2178</td>
+    <td>Vascular barrier disruption</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2179</td>
+    <td>Impaired Platelet Aggregation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2181</td>
+    <td>Angiogenesis dysfunction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2186</td>
+    <td>Ryanodine receptor activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2187</td>
+    <td>Opening, voltage-gated calcium channels</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2188</td>
+    <td>Activation, caspases</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/219</td>
     <td>Reduction, Plasma 17beta-estradiol concentrations</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2194</td>
+    <td>Influenza A Virus (IAV) shedding and transmission</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2195</td>
+    <td>Increase, CNS Neural cell death</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2196</td>
+    <td>Decrease, elavl3 </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2197</td>
+    <td>Decrease, sox10</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2198</td>
+    <td>Decrease, mbp</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2199</td>
+    <td>Increased, Expression of LXR activated genes</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/220</td>
@@ -2985,20 +4277,12 @@ WHERE {
     <td>Activation, PPARα</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/228</td>
-    <td>peroxisome proliferator activated receptor promoter demethylation</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/231</td>
     <td>Decreased, PPAR-alpha activation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/232</td>
     <td>Decreased, PPAR-beta activation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/233</td>
-    <td>Decreased, PPAR-gamma activation</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/239</td>
@@ -3025,14 +4309,6 @@ WHERE {
     <td>Increase, RBC congestion in liver</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/249</td>
-    <td>Production, Reactive oxygen species</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/25</td>
-    <td>Agonism, Androgen receptor</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/250</td>
     <td>Damaging, Red blood cells; hemolysis</td>
   </tr>
@@ -3045,28 +4321,16 @@ WHERE {
     <td>N/A, Reproductive failure</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/257</td>
-    <td>Increase, Reactive Oxygen Species production</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/265</td>
-    <td>Activation, Stellate cells</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/266</td>
-    <td>Decrease, Steroidogenic acute regulatory protein (STAR)</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/269</td>
     <td>Induction, Sustained Cell Proliferation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/27</td>
-    <td>N/A, Androgen receptor, Antagonism</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/270</td>
     <td>Induction, Sustained Hepatotoxicity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/272</td>
+    <td>Activation/Proliferation, T-cells</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/274</td>
@@ -3081,10 +4345,6 @@ WHERE {
     <td>Activation of specific nuclear receptors, Transcriptional change</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/289</td>
-    <td>Decrease, Translocator protein (TSPO)</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/291</td>
     <td>Accumulation, Triglyceride</td>
   </tr>
@@ -3095,10 +4355,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/295</td>
     <td>Induction, Upregulation of glucuronyltransferase activity</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/3</td>
-    <td>Reduction, 17beta-estradiol synthesis by ovarian granulosa cells</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/307</td>
@@ -3161,14 +4417,6 @@ WHERE {
     <td>Altered, Larval development</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/341</td>
-    <td>Impairment, Learning and memory</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/344</td>
-    <td>N/A, Liver fibrosis</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/345</td>
     <td>N/A, Liver Steatosis</td>
   </tr>
@@ -3177,16 +4425,12 @@ WHERE {
     <td>Formation, Liver tumor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/348</td>
-    <td>Malformation, Male reproductive tract</td>
+    <td>https://identifiers.org/aop.events/350</td>
+    <td>Increase, Mortality</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/351</td>
     <td>Increased Mortality</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/356</td>
-    <td>Increased, Oxidative damage</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/357</td>
@@ -3209,72 +4453,28 @@ WHERE {
     <td>Impaired development of, Reproductive organs</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/373</td>
-    <td>Formation, Pro-mutagenic DNA Adducts</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/376</td>
-    <td>Increased, Induced Mutations in Critical Genes</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/378</td>
-    <td>Tumorigenesis, Hepatocellular carcinoma</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/382</td>
-    <td>Aberrant, Dendritic morphology</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/383</td>
-    <td>Reduced, Presynaptic release of glutamate</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/386</td>
-    <td>Decrease of neuronal network function</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/388</td>
     <td>Overactivation, NMDARs</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/389</td>
+    <td>Increased, Intracellular Calcium overload</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/39</td>
     <td>Increased Cholinergic Signaling</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/396</td>
-    <td>Covalent Binding, Protein</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/398</td>
-    <td>Activation, Dendritic Cells</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/40</td>
-    <td>Decrease, Mitochondrial ATP production</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/402</td>
-    <td>Cognitive Function, Decreased </td>
+    <td>Mitochondrial ATP production, decreased</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/403</td>
     <td>Suppression, Immune system</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/405</td>
-    <td>irregularities, ovarian cycle</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/406</td>
-    <td>impaired, Fertility</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/409</td>
-    <td>Metabolism of AFB1, Production of Reactive Electrophiles</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/413</td>
-    <td>Reduction, Testosterone synthesis in Leydig cells</td>
+    <td>decreased, Fertility</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/414</td>
@@ -3321,14 +4521,6 @@ WHERE {
     <td>Respiratory distress/arrest</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/446</td>
-    <td>Reduction, testosterone level</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/447</td>
-    <td>Reduction, Cholesterol transport in mitochondria</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/450</td>
     <td>Suppression, VLDL secretion</td>
   </tr>
@@ -3339,10 +4531,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/454</td>
     <td>Increased, Triglyceride formation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/455</td>
-    <td>Accumulation, Liver lipid</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/456</td>
@@ -3453,10 +4641,6 @@ WHERE {
     <td>Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/493</td>
-    <td>Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/494</td>
     <td>Glucocorticoid Receptor Agonist, Activation</td>
   </tr>
@@ -3466,7 +4650,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/496</td>
-    <td>Increased apoptosis, decreased number of adult Leydig Cells </td>
+    <td>Increased apoptosis, decreased fetal/adult Leydig Cells </td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/50</td>
@@ -3475,10 +4659,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/505</td>
     <td>Decreased sperm quantity / quality in the adult, Decreased fertility </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/52</td>
-    <td>Decreased, Calcium influx</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/520</td>
@@ -3543,10 +4723,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/543</td>
     <td>Decreased fertility in the adult, Decreased sperm quantity and/or quality in the adult testis</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/55</td>
-    <td>Cell injury/death</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/559</td>
@@ -3653,10 +4829,6 @@ WHERE {
     <td>Reduced, survival</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/593</td>
-    <td>Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel </td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/598</td>
     <td>modulation, sodium channel</td>
   </tr>
@@ -3679,14 +4851,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/613</td>
     <td>Occurrence, Epileptic seizure</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/616</td>
-    <td>Occurrence, A paroxysmal depolarizing shift</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/618</td>
-    <td>Decreased, Neuronal network function in adult brain</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/621</td>
@@ -3737,6 +4901,10 @@ WHERE {
     <td>Decreased, survival</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/637</td>
+    <td>impaired, Learning and memory</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/638</td>
     <td>Antagonism, Histamine Receptor (H2)</td>
   </tr>
@@ -3770,7 +4938,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/647</td>
-    <td>Decreased steroidogenesis, Decreased Activity of Steroidogenic Enzymes in Adult Leydig cells</td>
+    <td>Decreased, steroidogenic protein expression</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/648</td>
@@ -3806,7 +4974,7 @@ WHERE {
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/656</td>
-    <td>Decreased number and function of adult Leydig cells, Decreased COUP-TFII stem Leydig cells</td>
+    <td>Decreased, Chicken Ovalbumin Upstream Promoter Transcription Factor II (COUP-TFII)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/657</td>
@@ -3837,8 +5005,8 @@ WHERE {
     <td>Overwhelmed, Mitochondrial DNA repair mechanisms</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/667</td>
-    <td>Binding at picrotoxin site, iGABAR chloride channel</td>
+    <td>https://identifiers.org/aop.events/669</td>
+    <td>Reduction, Neuronal synaptic inhibition</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/671</td>
@@ -3869,16 +5037,8 @@ WHERE {
     <td>Decline, Population trajectory</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/68</td>
-    <td>Accumulation, Collagen</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/681</td>
     <td>Decreased, Prostaglandin F2alpha synthesis, ovary  </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/682</td>
-    <td>Generation, Amplified excitatory postsynaptic potential (EPSP)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/685</td>
@@ -3937,10 +5097,6 @@ WHERE {
     <td>Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/709</td>
-    <td>Increase, Cytotoxicity (renal tubular cell)</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/710</td>
     <td>Increase, Regenerative cell proliferation (tubular epithelial cells)</td>
   </tr>
@@ -3953,8 +5109,8 @@ WHERE {
     <td>Increased, Binding of chemicals to 2u (serum)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/718</td>
-    <td>Binding, Tubulin</td>
+    <td>https://identifiers.org/aop.events/716</td>
+    <td>Increase, cell proliferation (hepatocytes)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/719</td>
@@ -3963,10 +5119,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/720</td>
     <td>Disruption, Microtubule dynamics</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/721</td>
-    <td>Disorganization, Meiotic Spindle</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/723</td>
@@ -4013,10 +5165,6 @@ WHERE {
     <td>Increase, Adenomas/carcinomas (follicular cell)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/742</td>
-    <td>Decreased, Androgen receptor activity</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/743</td>
     <td>Decreased, Testosterone binding to androgen receptor (hypothalamus)</td>
   </tr>
@@ -4045,20 +5193,12 @@ WHERE {
     <td>Decreased, Progesterone from corpus luteum</td>
   </tr>
   <tr>
+    <td>https://identifiers.org/aop.events/752</td>
+    <td>Altered, Meiotic chromosome dynamics</td>
+  </tr>
+  <tr>
     <td>https://identifiers.org/aop.events/754</td>
     <td>Increased, Luteinizing hormone (LH) </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/756</td>
-    <td>Hippocampal gene expression, Altered </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/757</td>
-    <td>Hippocampal anatomy, Altered </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/758</td>
-    <td>Hippocampal Physiology, Altered</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/759</td>
@@ -4173,10 +5313,6 @@ WHERE {
     <td>Increase, Hyperplasia (tubular epithelial cells)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/785</td>
-    <td>Activation, Androgen receptor</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/786</td>
     <td>Increase, Cytotoxicity (hepatocytes)</td>
   </tr>
@@ -4185,16 +5321,8 @@ WHERE {
     <td>Increase, Regenerative cell proliferation (hepatocytes)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/790</td>
-    <td>Inhibition, 5α-reductase activity</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/791</td>
     <td>Increased, Leutinizing hormone (LH)</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/792</td>
-    <td>Decrease, Bioactivation of testosterone</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/793</td>
@@ -4257,20 +5385,12 @@ WHERE {
     <td>Decreased, cholesterol</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/808</td>
-    <td>Decreased, Testosterone</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/809</td>
     <td>malformed, Male reproductive tract</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/813</td>
     <td>Increased, Serum creatinine</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/814</td>
-    <td>Occurrence, Kidney toxicity</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/818</td>
@@ -4301,10 +5421,6 @@ WHERE {
     <td>Decreased, Renal ability to dilute urine</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/827</td>
-    <td>sensitisation, skin</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/828</td>
     <td>Inhibition, Phospholipase A</td>
   </tr>
@@ -4315,10 +5431,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/831</td>
     <td>Disturbance, Lysosomal function</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/832</td>
-    <td>Injury, Mitochondria</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/833</td>
@@ -4349,14 +5461,6 @@ WHERE {
     <td>Formation, Liver fibrosis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/844</td>
-    <td>Oxidation, Uroporphyrinogen</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/845</td>
-    <td>Inhibition, UROD</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/846</td>
     <td>Accumulation, Highly carboxylated porphyrins</td>
   </tr>
@@ -4369,20 +5473,8 @@ WHERE {
     <td>Inhibition, Antgonism of NE receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/850</td>
-    <td>Induction, CYP1A2/CYP1A5</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/854</td>
-    <td>Alterations, Cellular proliferation / hyperplasia</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/860</td>
     <td>Decreased, Mitochondrial Fatty Acid Beta Oxidation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/861</td>
-    <td>Decreased, Ketogenesis (production of ketone bodies)</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/862</td>
@@ -4391,10 +5483,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/863</td>
     <td>Increased, Catabolism of Muscle Protein</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/864</td>
-    <td>Decreased, Body Weight</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/867</td>
@@ -4409,20 +5497,8 @@ WHERE {
     <td>Increase, Respiratory or Squamous Metaplasia</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/87</td>
-    <td>Release, Cytokine</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/870</td>
-    <td>Increase, Cell Proliferation</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/872</td>
     <td>Increase, Site of Contact Nasal Tumors</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/875</td>
-    <td>Binding of agonist, Ionotropic glutamate receptors</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/876</td>
@@ -4449,48 +5525,20 @@ WHERE {
     <td>Increase, Cancer</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/889</td>
-    <td>Impaired, Proteostasis</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/890</td>
-    <td>Degeneration of dopaminergic neurons of the nigrostriatal pathway</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/896</td>
-    <td>Parkinsonian motor deficits</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/898</td>
-    <td>Disruption, Lysosome</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/9</td>
     <td>Activation, 5HT2c</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/902</td>
+    <td>Inflammation, Liver</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/926</td>
     <td>Oxidation, Glutathione (To be considered with MIE)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/932</td>
-    <td>KE4 : Uncoupling, eNOS</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/933</td>
-    <td>KE6 : Depletion, Nitric Oxide</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/934</td>
-    <td>KE3 : Decrease, Tetrahydrobiopterin</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/937</td>
     <td>KE7 : Impaired, Vasodilation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/945</td>
-    <td>reduced dimerization, ARNT/HIF1-alpha</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/947</td>
@@ -4501,36 +5549,16 @@ WHERE {
     <td>KE8 : Increase, Vascular Resistance</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/952</td>
-    <td>Hypertension</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/964</td>
     <td>Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/965</td>
-    <td>reduction in ovarian granulosa cells synthesis of estradiol, Reduced steroidogenic production of estradiol in granulosa cells</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/966</td>
-    <td>Reduced Estradiol in Circulation, Reduced steroidogenic production of estradiol in granulosa cells leading to decreased estradiol in circulation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/967</td>
-    <td>Decreased positive estrogenic feedback on hypothalamus, Reduced estradiol in circulation decreases estrogen concentration at hypothalamus</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/968</td>
-    <td>Decreased Kisspeptin release from neurons in AVPV, Decreased hypothalamic estrogen reduces kisspeptinergic neuron response </td>
+    <td>Decreased, release of kisspeptin from anteroventral periventricular nucleus (AVPV) neurons </td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/969</td>
     <td>Decreased GnRH Release, Decreased Kisspeptin stimulation of GnRH neurons </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/97</td>
-    <td>Alkylation, DNA</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/970</td>
@@ -4543,10 +5571,6 @@ WHERE {
   <tr>
     <td>https://identifiers.org/aop.events/972</td>
     <td>Decreased fertility, Reduced number of oocytes ovulated </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/986</td>
-    <td>Impairment of TDAR</td>
   </tr>
   <tr>
     <td>https://identifiers.org/aop.events/988</td>
@@ -4565,952 +5589,688 @@ WHERE {
     <td>Decrease, Digestion of old cuticle</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/998</td>
-    <td>Binding of antagonist, PPAR alpha</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1895</td>
-    <td>NLRP3 inflammasome activity, increased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1864</td>
-    <td>Increase, Programmed cell death</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1555</td>
-    <td>Increase cell proliferation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/17</td>
-    <td>Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1857</td>
-    <td>Platelet-neutrophil interactions, Increased </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1866</td>
-    <td>Fibrinolysis, decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1867</td>
-    <td>Bradykinin system, hyperactivated</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1869</td>
-    <td>Diminished protective oxidative stress response</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1875</td>
-    <td>Cerebrovascular disease (stroke)</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1881</td>
-    <td>Decreased, all-trans retinoic acid (atRA) concentration</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1901</td>
-    <td>Interferon-I antiviral response, antagonized by SARS-CoV-2</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1902</td>
-    <td>Repression of Gbx2 expression</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1906</td>
-    <td>Cystic Fibrosis Transmembrane Regulator Function, Decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1907</td>
-    <td>Airway Surface Liquid Height, Decreased </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1908</td>
-    <td>Cilia Beat Frequency, Decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1909</td>
-    <td>Mucociliary Clearance, Decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1911</td>
-    <td>FOXJ1 Protein, Decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1912</td>
-    <td>Motile Cilia Number/Length, Decreased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1939</td>
-    <td>Viral infection and host-to-host transmission, proliferated</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1967</td>
-    <td>Pyroptosis</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1970</td>
-    <td>transposition of the great arteries</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1981</td>
-    <td>Decreased SIRT1 expression</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1008</td>
-    <td>Reduced, Hearing</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/105</td>
-    <td>Inhibition, Mitochondrial Electron Transport Chain Complexes</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1550</td>
-    <td>Deposition of Ionizing Energy</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1607</td>
-    <td>Increase, Necrosis</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1647</td>
-    <td>GSK3beta inactivation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1809</td>
-    <td>Increase, Tissue/organ damage</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1855</td>
-    <td>Increased Sodium-sensitive hypertension</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1856</td>
-    <td>Imbalanced salty and sweet taste responses</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1861</td>
-    <td>Increase, D1 protein deactivation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1862</td>
-    <td>Decrease, Photosystem II efficiency</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1863</td>
-    <td>Decrease, Reproduction</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1865</td>
-    <td>Increase, Oxygen-evolving complex damage</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1868</td>
-    <td>Hyperinflammation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1870</td>
-    <td>Sustentacular cells, decrease </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1871</td>
-    <td>olfactory sensory neurons, decrease </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1872</td>
-    <td>Olfactory epithelium degeneration</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1873</td>
-    <td>impaired olfactory function (anosmia) </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1874</td>
-    <td>blood brain barrier disruption </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1877</td>
-    <td>Altered, retinal layer structure</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1878</td>
-    <td>Decreased, Eye size</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1879</td>
-    <td>Bulky DNA adducts, increase</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1880</td>
-    <td>Inhibition of ALDH1A (RALDH)</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1882</td>
-    <td>Disrupted meiotic initiation of fetal oogonia of the ovary</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1883</td>
-    <td>Reduced size of the ovarian follicle pool </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1884</td>
-    <td>Inhibition of Fyna</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1885</td>
-    <td>Inhibition of Plxna2</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1886</td>
-    <td>Overexpression of rasl11b</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1888</td>
-    <td>Increased (ectopic) all-trans retinoic acid concentration</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1889</td>
-    <td>Premature initiation of meiosis in fetal male germ cells</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1890</td>
-    <td>Decrease (loss of) fetal male germ cells</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1891</td>
-    <td>abnormal, placental labyrinth vasculature morphology</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1892</td>
-    <td>increase, placental insufficiency</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1893</td>
-    <td>increase, Preeclampsia</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1896</td>
-    <td>Genomic instability</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1897</td>
-    <td>increased MyD88 activation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1898</td>
-    <td>increased release of danger/damage associated molecular patterns</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1899</td>
-    <td>formation of neutrophil extracellular traps (NETs)</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1900</td>
-    <td>increased platelet surface TLR9 expression</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1903</td>
-    <td>foxi1 expression, increased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1904</td>
-    <td>six1b expression, increased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1905</td>
-    <td>eya1 expression, inhibited</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1913</td>
-    <td>Endothelial cell dysfunction </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1914</td>
-    <td>Platelet activation, Increased</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1915</td>
-    <td>Neutrophil activation, Increased </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1916</td>
-    <td>Thromboinflammation, Increased </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1917</td>
-    <td>Altered gene expression, NRF2 dependent antioxidant pathway</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1920</td>
-    <td>Altered gene expression, TGF-β dependent fibrosis pathway</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1921</td>
-    <td>Altered gene expression, NF-kB dependent Interleukin-6 pathway</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1922</td>
-    <td>Increased, Reactive metabolites production</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1923</td>
-    <td>Altered gene expression, P53 dependent apoptosis pathway</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1930</td>
-    <td>altered, inner ear development</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1931</td>
-    <td>Intestinal barrier, disruption</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1933</td>
-    <td>Increased, Interleukin-6 production</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1934</td>
-    <td>Myocardial Infarction</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1935</td>
-    <td>Angiotensin (1-7) levels diminished</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1936</td>
-    <td>Angiotensin II degradation reduced</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1937</td>
-    <td>ADAM17 expression induction</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1938</td>
-    <td>ACE2 increased shedding</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1940</td>
-    <td>Increases in cellular reactive oxygen species</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1941</td>
-    <td>Memory Loss</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1942</td>
-    <td>Accumulation, Cytosolic toxic Tau oligomers</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1943</td>
-    <td>Hyperphosphorylation of Tau</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1944</td>
-    <td>Synaptic dysfunction</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1945</td>
-    <td>Dysfunctional Autophagy</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1946</td>
-    <td>Impaired mechanotransduction of pericytes</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1947</td>
-    <td>Pericyte dysfunction</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1948</td>
-    <td>Increased ACE2 expression</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1949</td>
-    <td>Decrease, GLUT4</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1950</td>
-    <td>Increase, TNF</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1951</td>
-    <td>Decrease, Glucose uptake</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1952</td>
-    <td>Abnormal, Glucose homeostasis</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1953</td>
-    <td>Gestational diabetes mellitus</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1954</td>
-    <td>Gut microbiota, alteration</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1955</td>
-    <td>Acute Myeloid Leukemia</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1961</td>
-    <td>Prolongation of Action Potential Duration</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1962</td>
-    <td>Prolongation of QT interval</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1963</td>
-    <td>Torsades de Pointes</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1964</td>
-    <td>Sudden cardiac death</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1965</td>
-    <td>Increase, Pollen abnormal</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1968</td>
-    <td>Increase, Mitochondrial Dysfunction</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1969</td>
-    <td>Increase, Oxidative Stress</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1971</td>
-    <td>Increased, tumor growth</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1972</td>
-    <td>Increased, Steroidogenic acute regulatory protein (StAR) </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1973</td>
-    <td>Increased, estrogens </td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1974</td>
-    <td>Activation of Tumor Protein 53</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1977</td>
-    <td>Disruption of sodium channel gating kinetics</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1978</td>
-    <td>Increase risk, microcephaly</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1979</td>
-    <td>Premature cell differentiation</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1980</td>
-    <td>Increased micro RNA expression</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1982</td>
-    <td>metastatic breast cancer</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/1983</td>
-    <td>Disruption, action potential</td>
-  </tr>
-  <tr>
-    <td>https://identifiers.org/aop.events/902</td>
-    <td>Inflammation, Liver</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/aop.events/997</td>
     <td>Decreased, Population size</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2020</td>
-    <td>Decrease, sox9 expression</td>
+    <td>https://identifiers.org/aop.events/2250</td>
+    <td>17β-Hydroxysteroid dehydrogenase 2, inhibition</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2021</td>
-    <td>Increase, slincR expression</td>
+    <td>https://identifiers.org/aop.events/2323</td>
+    <td>Over-expression of PD-L1 in cancer cells</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2024</td>
-    <td>Reduced complex sphingolipids</td>
+    <td>https://identifiers.org/aop.events/2324</td>
+    <td>Increased of Treg/Th17 cell ratio</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2027</td>
-    <td>Antagonism, Smoothened receptor</td>
+    <td>https://identifiers.org/aop.events/2307</td>
+    <td>Binding of plastoquinone B</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2040</td>
-    <td>Decrease, GLI1/2 target gene expression</td>
+    <td>https://identifiers.org/aop.events/2339</td>
+    <td>Intracellular copper, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2042</td>
-    <td>Ororofacial clefting</td>
+    <td>https://identifiers.org/aop.events/2340</td>
+    <td>Oligomerisation of dihydrolipoamide acetyltransferase (DLAT), increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2043</td>
-    <td>Decrease, Sonic Hedgehog second messenger production</td>
+    <td>https://identifiers.org/aop.events/2341</td>
+    <td>Tricarboxylic acid (TCA) cycle, disrupted</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2044</td>
-    <td>Decrease, Smoothend relocation and activation </td>
+    <td>https://identifiers.org/aop.events/2342</td>
+    <td>Iron-sulfur cluster assembly, impaired</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1299</td>
-    <td>Activation, AKT</td>
+    <td>https://identifiers.org/aop.events/2343</td>
+    <td>Cuproptosis, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1300</td>
-    <td>Activation, mTORC1</td>
+    <td>https://identifiers.org/aop.events/2327</td>
+    <td>Decrease, Cell growth</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1310</td>
-    <td>Activation, PI3K</td>
+    <td>https://identifiers.org/aop.events/2344</td>
+    <td>Upregulation, growth arrest and DNA-damage-inducible beta a</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1554</td>
-    <td>Increase Chromosomal Aberrations</td>
+    <td>https://identifiers.org/aop.events/2345</td>
+    <td>Activation, MAPK</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1985</td>
-    <td>Increased, Kisspeptin signalling</td>
+    <td>https://identifiers.org/aop.events/2346</td>
+    <td>Decrease, Proliferating Cell Nuclear Antigen</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1986</td>
-    <td>Decreased, Gonadotropins</td>
+    <td>https://identifiers.org/aop.events/2347</td>
+    <td>Increase, Lipid degradation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1987</td>
-    <td>Decreased, Androgen and Progestin </td>
+    <td>https://identifiers.org/aop.events/2348</td>
+    <td>Inhibition, Liver regeneration</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1988</td>
-    <td>Decreased, Maturation Inducing Steroid Surge by Granulosa cells</td>
+    <td>https://identifiers.org/aop.events/2349</td>
+    <td>Inhibition of  LDH activity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1989</td>
-    <td>Impaired, Oocyte maturation and ovulation</td>
+    <td>https://identifiers.org/aop.events/2350</td>
+    <td>Decreased, Glycolysis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1990</td>
-    <td>Increased, Oocyte Atresia</td>
+    <td>https://identifiers.org/aop.events/2351</td>
+    <td>Increased, OXPHOS</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1991</td>
-    <td>Impaired, Reproduction</td>
+    <td>https://identifiers.org/aop.events/2352</td>
+    <td>Increased, MMP</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1995</td>
-    <td>Abnormal lipid metabolism</td>
+    <td>https://identifiers.org/aop.events/2353</td>
+    <td>Disrupted, energy metabolism</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2005</td>
-    <td>Altered neurotransmission in development</td>
+    <td>https://identifiers.org/aop.events/2354</td>
+    <td>Activation, Apoptosis signaling</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2006</td>
-    <td>Secondary genotoxicity</td>
+    <td>https://identifiers.org/aop.events/2355</td>
+    <td>Disrupted, Spermatogenesis and Sperm quality</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2007</td>
-    <td>Non-coding RNA expression profile alteration</td>
+    <td>https://identifiers.org/aop.events/1312</td>
+    <td>Increase, Fatty acid beta-oxidation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2008</td>
-    <td>Chronic obstructive pulmonary disease</td>
+    <td>https://identifiers.org/aop.events/2383</td>
+    <td>Increase, Hemopericardium</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2009</td>
-    <td>Activation of inflammation pathway</td>
+    <td>https://identifiers.org/aop.events/2384</td>
+    <td>Decrease, Vascular integrity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2010</td>
-    <td>Pulmonary inflammation</td>
+    <td>https://identifiers.org/aop.events/2392</td>
+    <td>Depression</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2011</td>
-    <td>Emphysema</td>
+    <td>https://identifiers.org/aop.events/2400</td>
+    <td>Preputial epithelial morphogenesis, disrupted</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2012</td>
-    <td>Fibroblast proliferation and differentiation</td>
+    <td>https://identifiers.org/aop.events/2401</td>
+    <td>Male preputial separation, failed/delayed</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2013</td>
-    <td>Airway remodeling</td>
+    <td>https://identifiers.org/aop.events/2236</td>
+    <td>Decreased, Sodium uptake in gills</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2017</td>
-    <td>Endoplasmic reticulum stress</td>
+    <td>https://identifiers.org/aop.events/2237</td>
+    <td>Decreased, Plasma sodium concentrations</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2018</td>
-    <td>Insulin resistance</td>
+    <td>https://identifiers.org/aop.events/2238</td>
+    <td>Increased, Blood viscosity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2019</td>
-    <td>Non-alcoholic fatty liver disease</td>
+    <td>https://identifiers.org/aop.events/2239</td>
+    <td>Increased, Cardiac stress</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2022</td>
-    <td>Altered function of the brain</td>
+    <td>https://identifiers.org/aop.events/2240</td>
+    <td>The NO synthase pathway activation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2023</td>
-    <td>Inhibition of Ceramide Synthase </td>
+    <td>https://identifiers.org/aop.events/2241</td>
+    <td>Ferroptosis related pathways activation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2025</td>
-    <td>Affected folate transporter</td>
+    <td>https://identifiers.org/aop.events/2244</td>
+    <td>Altered Stress Response Signaling</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2026</td>
-    <td>decreased folate uptake</td>
+    <td>https://identifiers.org/aop.events/2245</td>
+    <td>Altered Cell Differentiation Signaling</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2028</td>
-    <td>Decrease, GLI1/2 translocation to nucleus </td>
+    <td>https://identifiers.org/aop.events/2326</td>
+    <td>LTCD8+ cytotoxic activity disruption</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2029</td>
-    <td>protein-coupled estrogen receptor 1 (GPER) activation</td>
+    <td>https://identifiers.org/aop.events/2362</td>
+    <td>Redox cycling of a chemical by mitochondria</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2030</td>
-    <td>Activation, PARP1</td>
+    <td>https://identifiers.org/aop.events/2363</td>
+    <td>Elevated mitochondrial ROS and dysfunction</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2031</td>
-    <td>Releasing, Apoptosis-Inducing Factor (AIF)</td>
+    <td>https://identifiers.org/aop.events/2365</td>
+    <td>Anogenital distance (AGD), increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2032</td>
-    <td>Viable offspring, decreased</td>
+    <td>https://identifiers.org/aop.events/2371</td>
+    <td>Increased cortisol</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2033</td>
-    <td>Increased sphingolipid-1-phosphate</td>
+    <td>https://identifiers.org/aop.events/2366</td>
+    <td>ovarian retardation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2034</td>
-    <td>liver dysfunction</td>
+    <td>https://identifiers.org/aop.events/2367</td>
+    <td>Steroidogenesis Dysregulation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2036</td>
-    <td>Activation of metabotropic glutamate receptor</td>
+    <td>https://identifiers.org/aop.events/2369</td>
+    <td>Granulosa cell damage</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2037</td>
-    <td>Inositol triphosphate receptor activation</td>
+    <td>https://identifiers.org/aop.events/2370</td>
+    <td>Antagonism binding, α1-Adrenoreceptor </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2038</td>
-    <td>Activation of calpain signalling</td>
+    <td>https://identifiers.org/aop.events/1553</td>
+    <td>Increase mutations</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2039</td>
-    <td>Inhibition GABAA receptor</td>
+    <td>https://identifiers.org/aop.events/2262</td>
+    <td> Neuropathy target esterase, inhibited</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2041</td>
-    <td>Decrease, palatal shelf outgrowth</td>
+    <td>https://identifiers.org/aop.events/2263</td>
+    <td> Lysolecithin, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2045</td>
-    <td>Increase, Alcohol dehydrogenase</td>
+    <td>https://identifiers.org/aop.events/2264</td>
+    <td> Lysolecithin cell membrane integration, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2046</td>
-    <td>Increase, Vitellogenin mRNA</td>
+    <td>https://identifiers.org/aop.events/2265</td>
+    <td> Oligodendrocyte death, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2047</td>
-    <td>Delay, Ovarian maturation</td>
+    <td>https://identifiers.org/aop.events/2266</td>
+    <td>Demyelination, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2048</td>
-    <td>Increase, Body volume of female adults</td>
+    <td>https://identifiers.org/aop.events/2267</td>
+    <td>Delayed neuropathy, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2049</td>
-    <td>Increase, sex ratio (F/M)</td>
+    <td>https://identifiers.org/aop.events/901</td>
+    <td>Infiltration, Inflammatory cells</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2050</td>
-    <td>Increase, developmental abnormalities</td>
+    <td>https://identifiers.org/aop.events/1442</td>
+    <td>Foam cell formation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2051</td>
-    <td>Decrease, Tyrosine</td>
+    <td>https://identifiers.org/aop.events/2309</td>
+    <td>Decreased DNA methylation of FAM50B/PTCHD3</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2052</td>
-    <td>Decrease, dopa decarboxylase</td>
+    <td>https://identifiers.org/aop.events/2310</td>
+    <td>Elevated gene expression of FAM50B/PTCHD3</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2053</td>
-    <td>Increase, Defects in tanning of new cuticle</td>
+    <td>https://identifiers.org/aop.events/2311</td>
+    <td>Inhibition of PI3K-Akt pathway</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2054</td>
-    <td>Increase,  impairment of cuticle sclerotization</td>
+    <td>https://identifiers.org/aop.events/2312</td>
+    <td>Increased, nasal lesions</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2055</td>
-    <td>Increase,  pigmentation</td>
+    <td>https://identifiers.org/aop.events/2316</td>
+    <td>Increased, pulmonary edema</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2056</td>
-    <td>Increase,  delay in oviposition</td>
+    <td>https://identifiers.org/aop.events/2317</td>
+    <td>Loss of olfactory function</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2057</td>
-    <td>Decrease,  hatching of egg</td>
+    <td>https://identifiers.org/aop.events/1507</td>
+    <td>Activation of PPARγ</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2058</td>
-    <td>Decrease, 20-hydroxyecdysone</td>
+    <td>https://identifiers.org/aop.events/2201</td>
+    <td>Agonism, Retinoic acid receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2059</td>
-    <td>Decrease, knickkopf gene</td>
+    <td>https://identifiers.org/aop.events/2202</td>
+    <td>Altered expression of cell cycle genes</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2060</td>
-    <td>Decrease, Chitin laminar organization</td>
+    <td>https://identifiers.org/aop.events/2203</td>
+    <td>Decreased proliferation of cortical neural progenitor cells</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2061</td>
-    <td>Decrease, Prevent chitin degradation by chitinases</td>
+    <td>https://identifiers.org/aop.events/2214</td>
+    <td>Decreased, Insulin-like peptide 3 (INSL3)</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2062</td>
-    <td>Weak, Procuticle protection</td>
+    <td>https://identifiers.org/aop.events/2200</td>
+    <td>decline, neural progenitor cells</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2063</td>
-    <td>Decrease, New cuticle secretion</td>
+    <td>https://identifiers.org/aop.events/2204</td>
+    <td>Altered brain morphology</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2064</td>
-    <td>Increase, Cytosolic calcium</td>
+    <td>https://identifiers.org/aop.events/2205</td>
+    <td>Increased, essential element imbalance</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2065</td>
-    <td>Inhibition, Fatty acid oxidation </td>
+    <td>https://identifiers.org/aop.events/2206</td>
+    <td>Increased, histomorphological alteration of testis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2066</td>
-    <td>Altered Signaling Pathways</td>
+    <td>https://identifiers.org/aop.events/2207</td>
+    <td>inhibition, EKR1/2 signaling pathway</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2067</td>
-    <td>Altered, Nitric Oxide Levels</td>
+    <td>https://identifiers.org/aop.events/2208</td>
+    <td>Aberrant, synaptic formation and plasticity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2068</td>
-    <td>Increase, Endothelial Dysfunction</td>
+    <td>https://identifiers.org/aop.events/2209</td>
+    <td>autism-like behavior</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2096</td>
-    <td>Occurrence, (Micro)vascular dysfunction</td>
+    <td>https://identifiers.org/aop.events/2210</td>
+    <td>Reduced cortical thickness</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/1998</td>
-    <td>Activation, Microglia</td>
+    <td>https://identifiers.org/aop.events/2212</td>
+    <td>Epididymal agenesis </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2082</td>
-    <td>Hypospadias, increased</td>
+    <td>https://identifiers.org/aop.events/2213</td>
+    <td>Impaired, urethral tube closure </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2084</td>
-    <td>Increase, Cardiac remodelling</td>
+    <td>https://identifiers.org/aop.events/2215</td>
+    <td>Decrease Left Ventricular function</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2085</td>
-    <td>Alveolar epithelial injury</td>
+    <td>https://identifiers.org/aop.events/2216</td>
+    <td>Binding of antagonist to thyroid hormone receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2086</td>
-    <td>Airway inflammation</td>
+    <td>https://identifiers.org/aop.events/2217</td>
+    <td>Binding of antagonist to glucocorticoid hormone receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2087</td>
-    <td>Increased incidence of respiratory disease</td>
+    <td>https://identifiers.org/aop.events/2218</td>
+    <td>Binding of (ant)agonist to liver X receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2088</td>
-    <td>Dysfunction of respiratory system</td>
+    <td>https://identifiers.org/aop.events/2219</td>
+    <td>Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2089</td>
-    <td>Altered Bone Cell Homeostasis</td>
+    <td>https://identifiers.org/aop.events/2220</td>
+    <td>Antagonism, Glucocorticoid hormone receptor</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2090</td>
-    <td>Increase, Bone Remodeling</td>
+    <td>https://identifiers.org/aop.events/2221</td>
+    <td>Altered Liver X receptor activity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2091</td>
-    <td>Occurrence, Bone Loss</td>
+    <td>https://identifiers.org/aop.events/2222</td>
+    <td>Altered peroxisome proliferator–activated receptor alpha activity</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2092</td>
-    <td>Promotion, Ovarian Cancer </td>
+    <td>https://identifiers.org/aop.events/2223</td>
+    <td>Reduced number of oligodendrocytes</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2093</td>
-    <td>Brain thyroid hormone (T4/T3) decreased</td>
+    <td>https://identifiers.org/aop.events/2157</td>
+    <td> Abnormal Cardiac Structure and Function</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2094</td>
-    <td>Abnormal, neuroblast migration</td>
+    <td>https://identifiers.org/aop.events/2228</td>
+    <td>Cerebellar gene expression. Altered</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2095</td>
-    <td>Periventricular heterotopia formation</td>
+    <td>https://identifiers.org/aop.events/2229</td>
+    <td>Cerebellar neuronal differentiation. Decreased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2097</td>
-    <td>Increase, Pro-Inflammatory Mediators</td>
+    <td>https://identifiers.org/aop.events/2230</td>
+    <td>Cerebellar hypoplasia</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2098</td>
-    <td>Increase, Neural Remodeling</td>
+    <td>https://identifiers.org/aop.events/2231</td>
+    <td>Locomotor function. Impaired</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2099</td>
-    <td>hERG channel blockade</td>
+    <td>https://identifiers.org/aop.events/2232</td>
+    <td>Antagonism, Retinoic acid receptors</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2100</td>
-    <td>Inhibition of rapid delayed rectifying potassium current </td>
+    <td>https://identifiers.org/aop.events/2224</td>
+    <td>Dysregulation of transcriptional expression within PPAR signaling network</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2104</td>
-    <td>Decreased, thyroid hormone binding to thyroid hormone receptor</td>
+    <td>https://identifiers.org/aop.events/2225</td>
+    <td>Disrupted Lipid Storage</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2105</td>
-    <td>Decreased, myelin basic protein expression in oligodendrocytes</td>
+    <td>https://identifiers.org/aop.events/2226</td>
+    <td>Stressor binding PPAR isoforms </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2106</td>
-    <td>Impaired, oligodendrocyte maturation</td>
+    <td>https://identifiers.org/aop.events/2233</td>
+    <td>Decreased, ERαβ heterodimers</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2107</td>
-    <td>Hypomyelination</td>
+    <td>https://identifiers.org/aop.events/1238</td>
+    <td>Activation of oxidative stress pathway</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2108</td>
-    <td>Altered, white brain matter</td>
+    <td>https://identifiers.org/aop.events/2298</td>
+    <td>Decrease, intratesticular testosterone levels</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2109</td>
-    <td>Binding, extracellular matrix protein laminin</td>
+    <td>https://identifiers.org/aop.events/2227</td>
+    <td>Disrupted PPAR isoform nuclear signaling</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2110</td>
-    <td>Disrupted binding, laminin-beta1-integrin receptors with laminin</td>
+    <td>https://identifiers.org/aop.events/2251</td>
+    <td>Estradiol availability, increased</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2111</td>
-    <td>Decreased, neural progenitor cell adhesion to laminin</td>
+    <td>https://identifiers.org/aop.events/2278</td>
+    <td>Increased LMNA Mutation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2112</td>
-    <td>Disturbed, radial glia cell alignment and migration</td>
+    <td>https://identifiers.org/aop.events/1924</td>
+    <td>Increased，Cardiac fibrosis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2113</td>
-    <td>Decreased, radial glia cell density</td>
+    <td>https://identifiers.org/aop.events/1929</td>
+    <td>Increased incidence of cardiovascular morbidity and mortality in the general population</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2114</td>
-    <td>Disturbed, cortical architecture</td>
+    <td>https://identifiers.org/aop.events/2277</td>
+    <td>Inhibition, aromatase activity in plasma</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2115</td>
-    <td>Altered, cholesterol metabolism</td>
+    <td>https://identifiers.org/aop.events/2279</td>
+    <td>Structural changes in lamin A/C</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2116</td>
-    <td>Decreased, oligodendrocyte differentiation</td>
+    <td>https://identifiers.org/aop.events/2280</td>
+    <td>Increased delay in heart electrical conduction</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2117</td>
-    <td>Increase, goblet cell number</td>
+    <td>https://identifiers.org/aop.events/2281</td>
+    <td>Increased uncoordinated cardiac contraction</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2118</td>
-    <td>Succinate dehydrogenase, inhibited</td>
+    <td>https://identifiers.org/aop.events/2282</td>
+    <td>Cardiac ion channels blockade </td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/130</td>
-    <td>Depletion, GSH</td>
+    <td>https://identifiers.org/aop.events/2283</td>
+    <td>Increased the early premature depolarizations during repolarization</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2119</td>
-    <td>Insulin resistance, increased</td>
+    <td>https://identifiers.org/aop.events/2284</td>
+    <td> Increased Intracellular cAMP Levels</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2120</td>
-    <td>Superoxide generation, increased</td>
+    <td>https://identifiers.org/aop.events/2285</td>
+    <td>Increased the delayed and early afterdepolarizations</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2121</td>
-    <td>decreased, Intellectual Quotient</td>
+    <td>https://identifiers.org/aop.events/2287</td>
+    <td>Impaired Sodium-Calcium Exchange</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2122</td>
-    <td>increased, Economic Burden</td>
+    <td>https://identifiers.org/aop.events/1541</td>
+    <td>Mitochondrial Complex I inhibition</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2123</td>
-    <td>decreased, Bcl-2 expression</td>
+    <td>https://identifiers.org/aop.events/2299</td>
+    <td>Altered, Redox Homeostasis</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2124</td>
-    <td>increased, Bax expression</td>
+    <td>https://identifiers.org/aop.events/2300</td>
+    <td>Disruption, Glucolipid metabolism</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2125</td>
-    <td>Increased fat mass</td>
+    <td>https://identifiers.org/aop.events/2301</td>
+    <td>Abnormal, Behavior</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2126</td>
-    <td>Estrogen receptor alpha inactivation</td>
+    <td>https://identifiers.org/aop.events/2302</td>
+    <td>Increase, Malformations</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2127</td>
-    <td>Increased adipocyte size</td>
+    <td>https://identifiers.org/aop.events/2242</td>
+    <td>Abnormality, dendritic spine morphology</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2128</td>
-    <td>Increased adipocyte numbers</td>
+    <td>https://identifiers.org/aop.events/2243</td>
+    <td>Succinate Accumulation</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2129</td>
-    <td>Metabolically unhealthy Obesity</td>
+    <td>https://identifiers.org/aop.events/2379</td>
+    <td>Disruption of the regulatory function of dopamine signaling components.</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2130</td>
-    <td>increased lipid accumulation</td>
+    <td>https://identifiers.org/aop.events/2380</td>
+    <td>Increase, transcription of the dopamine transporter (SLC6A3) gene</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2131</td>
-    <td>Conjugation, Glutathione </td>
+    <td>https://identifiers.org/aop.events/2381</td>
+    <td>Increase, transcription of the dopamine receptor (drd) gene.</td>
   </tr>
   <tr>
-    <td>https://identifiers.org/aop.events/2132</td>
-    <td>Increased pro-inflammatory cytokine expression</td>
+    <td>https://identifiers.org/aop.events/2382</td>
+    <td>Increase, nerve spasm</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1887</td>
+    <td>Inhibition of CYP26B1 activity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2399</td>
+    <td>Fibroblast growth factor 10, fibroblast growth factor receptor 2 isoform IIIb signaling in genital tissue, reduced</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2260</td>
+    <td>Gluten-reactive CD4+ T cells, activation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2274</td>
+    <td>Androgen receptor activation, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2303</td>
+    <td>Increased plasma estradiol to progesterone ratio (estrogen dominance/unopposed estrogen)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2306</td>
+    <td>Persistent vaginal cornification</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2305</td>
+    <td>Premature ovarian Insufficiency</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2308</td>
+    <td>Increased, stimulation of brain serotonin 5-HT1a, 5-HT2c receptors</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2211</td>
+    <td>Microcephaly</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2329</td>
+    <td>Sine oculis homeobox 1 gene expression, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2330</td>
+    <td>Sine oculis homeobox 1 protein expression, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2373</td>
+    <td>Increase, Mis-timed ecdysone receptor-responsive nuclear receptor cascade</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2374</td>
+    <td>Increase, Ecdysone receptor antagonism</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2375</td>
+    <td>Decrease, Mis-timed ecdysone receptor-responsive nuclear receptor cascade</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2376</td>
+    <td>Inhibition, organic anion-transporting polypeptide 1C1 (OATP1C1)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2377</td>
+    <td>Decrease, neural network maturation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2378</td>
+    <td>Impaired axonal insulation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2393</td>
+    <td>Androgen receptor nuclear transcriptional activity in genital-tubercle tissues, reduced </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2394</td>
+    <td>Diminished survival of naive B lymphocytes</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2395</td>
+    <td>Diminished proliferation of activated B lymphocytes </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2396</td>
+    <td>Diminished differentiation of activated B lymphocytes </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2397</td>
+    <td>Diminished vaccine response</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2398</td>
+    <td>Reduced antibody production</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2261</td>
+    <td>Decreased, blood plasma volume</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2293</td>
+    <td>Aromatase, induction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2296</td>
+    <td>Reduced Pacemaker Activity in SA Node</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2288</td>
+    <td>Phosphodiesterase inhibition</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2289</td>
+    <td>Hyperphosphorylation of ryanodine receptor (RyR2)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2290</td>
+    <td>Inhibition of Funny current (If)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2291</td>
+    <td>Slowed Heart Rate </td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2292</td>
+    <td>Altered Cardiac Electrical Conduction</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2294</td>
+    <td>Plasma estradiol, increased</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2295</td>
+    <td>HCN Channel Inhibition</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2331</td>
+    <td>Activation, Mineralocorticoid Receptor</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2332</td>
+    <td>Increase, Lipid droplet</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2333</td>
+    <td>Increase, Fat mass</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2334</td>
+    <td>Increase, DGAT1</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2335</td>
+    <td>Increase, body mass index</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2336</td>
+    <td>Increase, SREBF1</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2337</td>
+    <td>Increase, perilipin-2</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/1994</td>
+    <td>Increase, Ferroptosis</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2385</td>
+    <td>Suppression of Keap1 cysteine oxidation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2386</td>
+    <td>Lipid-peroxidation overload</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2387</td>
+    <td>MIE-A: Direct ligand interaction with nuclear hormone receptors (ERα/ERβ, AR) or interference with steroidogenic enzymes (e.g., CYP19A1) → receptor activation/antagonism or enzyme inhibition.</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2388</td>
+    <td>MIE-B: Photoactivation / photoproduct formation leading to ROS generation</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2389</td>
+    <td>KE1: Altered steroidogenesis (gene/protein level)</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2390</td>
+    <td>KE5: Altered circulating reproductive hormones</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2391</td>
+    <td>Reduced fertility / fecundity</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/aop.events/2258</td>
+    <td>Inhibition, monocarboxylate transporter 8 (MCT8)</td>
   </tr>
 </table>
 

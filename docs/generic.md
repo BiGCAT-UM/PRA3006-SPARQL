@@ -30,10 +30,10 @@ When we run this on Wikidata, we get:
     <td>http://wikiba.se/ontology#GeoAutoPrecision</td>
   </tr>
   <tr>
-    <td>http://wikiba.se/ontology#Property</td>
+    <td>http://www.w3.org/ns/lemon/ontolex#LexicalSense</td>
   </tr>
   <tr>
-    <td>http://www.w3.org/ns/lemon/ontolex#LexicalSense</td>
+    <td>http://wikiba.se/ontology#Property</td>
   </tr>
   <tr>
     <td>http://wikiba.se/ontology#BestRank</td>
@@ -58,6 +58,9 @@ And when we run this on WikiPathways, we get:
     <td><b>type</b></td>
   </tr>
   <tr>
+    <td>http://www.openlinksw.com/schemas/virtrdf#QuadMap</td>
+  </tr>
+  <tr>
     <td>http://www.openlinksw.com/schemas/virtrdf#QuadMapFormat</td>
   </tr>
   <tr>
@@ -65,9 +68,6 @@ And when we run this on WikiPathways, we get:
   </tr>
   <tr>
     <td>http://www.openlinksw.com/schemas/virtrdf#array-of-QuadMapFormat</td>
-  </tr>
-  <tr>
-    <td>http://www.openlinksw.com/schemas/virtrdf#QuadMap</td>
   </tr>
   <tr>
     <td>http://www.openlinksw.com/schemas/virtrdf#QuadMapValue</td>
@@ -117,24 +117,12 @@ which gives:
     <td><b>l</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q409065</td>
-    <td>Uroporphyrinogen decarboxylase</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q409106</td>
-    <td>marker of proliferation Ki-67</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q409114</td>
-    <td>Sex determining region Y</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q409166</td>
-    <td>Coagulation factor II, thrombin</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q24190</td>
     <td>Neurotrophin 3</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q25902</td>
+    <td>chymosin</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q30530</td>
@@ -150,11 +138,23 @@ which gives:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q74314</td>
-    <td>Titin</td>
+    <td>titin</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q74581</td>
-    <td>Growth differentiation factor 15</td>
+    <td>http://www.wikidata.org/entity/Q418781</td>
+    <td>Catechol-O-methyltransferase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418896</td>
+    <td>proopiomelanocortin</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418934</td>
+    <td>TNF superfamily member 11</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q419004</td>
+    <td>Cannabinoid receptor 1</td>
   </tr>
 </table>
 
@@ -184,16 +184,7 @@ which gives:
     <td>http://www.wikidata.org/prop/direct/P352</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P352</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/direct/P361</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P486</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P486</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P527</td>
@@ -202,13 +193,13 @@ which gives:
     <td>http://www.wikidata.org/prop/direct/P638</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct-normalized/P637</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/direct/P637</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P646</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P652</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P682</td>
@@ -220,34 +211,43 @@ which gives:
     <td>http://www.wikidata.org/prop/direct/P681</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/direct/P692</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P702</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P703</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P705</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P2892</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P2888</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P6366</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/direct/P10283</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/P31</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/direct/P31</td>
+  </tr>
+  <tr>
+    <td>http://www.w3.org/2004/02/skos/core#altLabel</td>
+  </tr>
+  <tr>
+    <td>http://schema.org/version</td>
+  </tr>
+  <tr>
+    <td>http://schema.org/dateModified</td>
+  </tr>
+  <tr>
+    <td>http://schema.org/description</td>
+  </tr>
+  <tr>
+    <td>http://www.w3.org/2000/01/rdf-schema#label</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct/P231</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/P231</td>
+  </tr>
+  <tr>
+    <td>http://wikiba.se/ontology#statements</td>
+  </tr>
+  <tr>
+    <td>http://wikiba.se/ontology#sitelinks</td>
+  </tr>
+  <tr>
+    <td>http://wikiba.se/ontology#identifiers</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/direct-normalized/P352</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/wikidataProteinProperties.code.html">sparql/wikidataProteinProperties.rq</a></td></tr>
 </table>

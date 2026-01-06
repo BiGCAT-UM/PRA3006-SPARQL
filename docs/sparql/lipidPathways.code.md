@@ -44,13 +44,6 @@ WHERE {
     <td><b>pathway</b></td>
   </tr>
   <tr>
-    <td>https://identifiers.org/chebi/CHEBI:28398</td>
-    <td>Butan-2-one </td>
-    <td>C4H8O</td>
-    <td>https://identifiers.org/lipidmaps/LMFA12000043</td>
-    <td>WP4838</td>
-  </tr>
-  <tr>
     <td>https://identifiers.org/kegg.compound/C00207</td>
     <td>Propan-2-one </td>
     <td>C3H6O</td>
@@ -62,7 +55,14 @@ WHERE {
     <td>Propan-2-one </td>
     <td>C3H6O</td>
     <td>https://identifiers.org/lipidmaps/LMFA12000057</td>
-    <td>WP4742, WP5175</td>
+    <td>WP5175, WP4742</td>
+  </tr>
+  <tr>
+    <td>https://identifiers.org/chebi/CHEBI:28398</td>
+    <td>Butan-2-one </td>
+    <td>C4H8O</td>
+    <td>https://identifiers.org/lipidmaps/LMFA12000043</td>
+    <td>WP4838</td>
   </tr>
 </table>
 

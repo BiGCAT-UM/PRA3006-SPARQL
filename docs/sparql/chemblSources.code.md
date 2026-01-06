@@ -39,13 +39,136 @@ SELECT ?Source
     <td><b>Source</b></td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_11</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_2</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_0</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_34</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_39</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_32</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_31</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_14</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_19</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_20</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_37</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_28</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_29</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_56</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_57</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_55</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_60</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_27</td>
   </tr>
   <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_1</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_38</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_16</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_40</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_5</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_18</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_11</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_58</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_65</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_52</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_15</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_54</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_30</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_49</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_7</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_4</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_3</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_33</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_21</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_17</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_48</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_22</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_51</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_23</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_43</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_59</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_64</td>
+  </tr>
+  <tr>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_0</td>
   </tr>
   <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_10</td>
@@ -57,39 +180,6 @@ SELECT ?Source
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_13</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_14</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_15</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_16</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_17</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_18</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_19</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_2</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_20</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_21</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_22</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_23</td>
-  </tr>
-  <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_24</td>
   </tr>
   <tr>
@@ -99,52 +189,10 @@ SELECT ?Source
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_26</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_27</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_28</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_29</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_3</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_30</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_31</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_32</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_33</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_34</td>
-  </tr>
-  <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_35</td>
   </tr>
   <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_36</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_37</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_38</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_39</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_4</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_40</td>
   </tr>
   <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_41</td>
@@ -153,49 +201,13 @@ SELECT ?Source
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_42</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_43</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_48</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_49</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_5</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_51</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_52</td>
-  </tr>
-  <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_53</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_54</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_55</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_56</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_57</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_59</td>
   </tr>
   <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_6</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_60</td>
-  </tr>
-  <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_7</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_63</td>
   </tr>
   <tr>
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_8</td>
@@ -204,13 +216,13 @@ SELECT ?Source
     <td>http://rdf.ebi.ac.uk/resource/chembl/source/CHEMBL_SRC_9</td>
   </tr>
   <tr>
-    <td>b45e5d02f4e7d16710824dac9fcf3780</td>
+    <td>245056b50646a44b9b74156ba812d50f</td>
   </tr>
   <tr>
-    <td>c0762d2c501410c6ce72659d957b809b</td>
+    <td>e8ff5498c7adca0f8fbe91c13c9e4280</td>
   </tr>
   <tr>
-    <td>93f72e4f285400acbb3bfbe9e53905a5</td>
+    <td>d794f962d0069e0bb147c866f33dbd86</td>
   </tr>
   <tr>
     <td>cco:hasSource</td>

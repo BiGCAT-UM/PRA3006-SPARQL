@@ -28,6 +28,6 @@ D. Slenter's [SPARQLing Biology: a beginners course](https://bigcat-um.github.io
 
 ## References
 
-1. <a name="citeref1"></a>Fielding R. Architectural Styles and the Design of Network-based Software Architectures. 2000; Available from: https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
-2. <a name="citeref2"></a>DuCharme B. Learning SPARQL [Internet]. Available from: http://www.learningsparql.com
+1. <a name="citeref1"></a> Fielding R. Architectural Styles and the Design of Network-based Software Architectures [Internet]. 2000. Available from: https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+2. <a name="citeref2"></a> DuCharme B. Learning SPARQL [Internet]. Available from: http://www.learningsparql.com
 

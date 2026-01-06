@@ -15,6 +15,6 @@ The SIB has collected a long list of queries on [this page](https://sib-swiss.gi
 
 ## References
 
-1. <a name="citeref1"></a>Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTZ817))
-2. <a name="citeref2"></a>Missing
+1. <a name="citeref1"></a> Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://scholia.toolforge.org/doi/10.1093/BIOINFORMATICS/BTZ817))
+2. <a name="citeref2"></a> Bolleman J, Emonet V, Altenhoff AM, Bairoch A, Blatter MC, Bridge A, et al. A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications. 2024 Oct 8;  doi:[10.48550/ARXIV.2410.06010](https://doi.org/10.48550/ARXIV.2410.06010) ([Scholia](https://scholia.toolforge.org/doi/10.48550/ARXIV.2410.06010))
 

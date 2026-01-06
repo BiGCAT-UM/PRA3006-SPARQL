@@ -32,10 +32,10 @@ SELECT DISTINCT ?type WHERE {
     <td>http://wikiba.se/ontology#GeoAutoPrecision</td>
   </tr>
   <tr>
-    <td>http://wikiba.se/ontology#Property</td>
+    <td>http://www.w3.org/ns/lemon/ontolex#LexicalSense</td>
   </tr>
   <tr>
-    <td>http://www.w3.org/ns/lemon/ontolex#LexicalSense</td>
+    <td>http://wikiba.se/ontology#Property</td>
   </tr>
   <tr>
     <td>http://wikiba.se/ontology#BestRank</td>
@@ -116,6 +116,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P27</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P30</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P31</td>
   </tr>
   <tr>
@@ -185,9 +188,6 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P88</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P91</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P92</td>
   </tr>
   <tr>
@@ -227,7 +227,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P112</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P114</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P115</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P117</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P118</td>
@@ -324,306 +330,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P175</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P410</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P411</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P412</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P413</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P414</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P417</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P421</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P424</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P427</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P433</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P434</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P436</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P437</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P439</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P444</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P449</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P450</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P451</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P452</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P453</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P454</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P455</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P458</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P459</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P460</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P461</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P462</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P463</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P464</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P466</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P467</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P469</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P473</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P474</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P478</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P480</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P486</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P487</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P488</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P493</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P494</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P495</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P496</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P500</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P501</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P502</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P505</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P509</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P511</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P512</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P516</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P518</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P520</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P524</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P527</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P528</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P529</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P530</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P535</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P536</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P537</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P541</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P542</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P547</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P548</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P551</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P554</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P555</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P557</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P559</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P560</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P562</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P564</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P566</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P567</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P569</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P570</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P571</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P575</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P576</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P577</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P579</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P580</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P582</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P585</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P587</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P590</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P592</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P597</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P599</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P604</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P605</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P606</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P607</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P608</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P609</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P610</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P611</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P613</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P617</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P176</td>
@@ -746,10 +452,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P242</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P243</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P244</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P245</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P247</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P248</td>
@@ -776,6 +488,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P272</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P274</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P275</td>
   </tr>
   <tr>
@@ -792,6 +507,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P286</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P287</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P289</td>
@@ -857,9 +575,6 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P358</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P359</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P361</td>
   </tr>
   <tr>
@@ -881,6 +596,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P375</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P376</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P377</td>
   </tr>
   <tr>
@@ -894,6 +612,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P395</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P396</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P397</td>
@@ -926,25 +647,367 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P409</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P410</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P411</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P412</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P413</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P414</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P417</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P424</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P425</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P427</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P433</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P434</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P436</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P437</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P439</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P444</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P447</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P449</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P450</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P451</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P452</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P453</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P454</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P455</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P457</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P458</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P459</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P460</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P461</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P462</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P463</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P464</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P465</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P466</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P467</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P469</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P473</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P474</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P478</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P480</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P485</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P486</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P487</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P488</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P489</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P492</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P493</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P494</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P495</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P496</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P500</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P501</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P502</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P505</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P506</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P509</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P511</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P512</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P516</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P518</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P520</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P524</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P527</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P528</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P529</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P530</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P535</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P536</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P537</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P541</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P542</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P547</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P548</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P551</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P553</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P554</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P555</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P557</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P559</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P560</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P562</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P564</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P566</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P567</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P569</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P570</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P571</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P574</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P575</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P576</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P577</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P578</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P579</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P580</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P582</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P585</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P587</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P590</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P592</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P597</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P599</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P604</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P605</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P606</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P607</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P608</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P609</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P610</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P611</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P613</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P617</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P619</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P620</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P622</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P625</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P626</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P627</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P629</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P630</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P631</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P634</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P641</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P642</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P646</td>
@@ -974,10 +1037,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P662</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P664</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P667</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P669</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P670</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P672</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P674</td>
@@ -998,6 +1070,12 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P685</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P689</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P691</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P693</td>
   </tr>
   <tr>
@@ -1007,7 +1085,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P698</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P699</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P706</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P707</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P708</td>
@@ -1017,6 +1101,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P710</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P716</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P718</td>
@@ -1070,6 +1157,12 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P750</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P757</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P762</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P764</td>
   </tr>
   <tr>
@@ -1080,9 +1173,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P771</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P772</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P778</td>
@@ -1107,6 +1197,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P802</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P804</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P805</td>
@@ -1136,7 +1229,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P817</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P818</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P821</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P822</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P824</td>
@@ -1151,10 +1250,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P830</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P831</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P832</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P834</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P836</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P837</td>
@@ -1217,10 +1322,10 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P887</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P898</td>
+    <td>http://www.wikidata.org/prop/novalue/P892</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P901</td>
+    <td>http://www.wikidata.org/prop/novalue/P898</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P902</td>
@@ -1271,7 +1376,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P941</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P948</td>
+    <td>http://www.wikidata.org/prop/novalue/P942</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P945</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P946</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P950</td>
@@ -1284,9 +1395,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P958</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P959</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P960</td>
@@ -1316,6 +1424,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P974</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P990</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P991</td>
   </tr>
   <tr>
@@ -1325,7 +1436,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1001</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1005</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1007</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1014</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1016</td>
@@ -1376,6 +1493,12 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1040</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1041</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1042</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1047</td>
   </tr>
   <tr>
@@ -1383,6 +1506,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1053</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1054</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1056</td>
@@ -1421,13 +1547,22 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1082</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P1084</td>
+    <td>http://www.wikidata.org/prop/novalue/P1083</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1087</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1090</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1096</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1098</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1102</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1103</td>
@@ -1446,6 +1581,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1114</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1116</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1120</td>
@@ -1469,13 +1607,25 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1144</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1146</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1149</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1156</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1157</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1159</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1163</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1165</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1174</td>
@@ -1491,9 +1641,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1195</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P1207</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1212</td>
@@ -1529,10 +1676,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1252</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1256</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1258</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1259</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1261</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1264</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1265</td>
@@ -1548,6 +1704,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1274</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1277</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1282</td>
@@ -1592,7 +1751,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1320</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1321</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1324</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1325</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1326</td>
@@ -1602,6 +1767,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1329</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1333</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1334</td>
@@ -1658,9 +1826,6 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1373</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P1375</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1376</td>
   </tr>
   <tr>
@@ -1697,6 +1862,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1403</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1408</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1412</td>
   </tr>
   <tr>
@@ -1712,10 +1880,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1421</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1423</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1424</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1425</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1427</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1428</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1431</td>
@@ -1727,7 +1904,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1435</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1436</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1441</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1442</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1444</td>
@@ -1775,6 +1958,12 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1480</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1482</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1532</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1533</td>
   </tr>
   <tr>
@@ -1788,6 +1977,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1542</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1543</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1544</td>
@@ -1820,7 +2012,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1560</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1561</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1562</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1565</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1566</td>
@@ -1850,6 +2048,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1598</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1603</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1611</td>
   </tr>
   <tr>
@@ -1860,6 +2061,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1619</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1620</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1625</td>
@@ -1878,6 +2082,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1638</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1639</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1640</td>
@@ -1904,10 +2111,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1657</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1659</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1661</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1662</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1663</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1667</td>
@@ -1919,7 +2132,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1671</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1675</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1678</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1679</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1680</td>
@@ -1929,9 +2148,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1684</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P1685</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1686</td>
@@ -1946,6 +2162,12 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1697</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1699</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1700</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1705</td>
   </tr>
   <tr>
@@ -1955,13 +2177,22 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1708</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1709</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1712</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1714</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1716</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1717</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1726</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1728</td>
@@ -1982,7 +2213,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1748</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1754</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1762</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1769</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1772</td>
@@ -2000,7 +2237,10 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1791</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P1795</td>
+    <td>http://www.wikidata.org/prop/novalue/P1792</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1793</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1800</td>
@@ -2033,6 +2273,12 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1840</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1843</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1846</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1854</td>
   </tr>
   <tr>
@@ -2057,6 +2303,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1875</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1877</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1879</td>
   </tr>
   <tr>
@@ -2064,9 +2313,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1884</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P1885</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1889</td>
@@ -2108,10 +2354,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P1934</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1936</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P1938</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1939</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1943</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1950</td>
@@ -2127,6 +2379,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1960</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P1963</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P1970</td>
@@ -2162,7 +2417,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2003</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2004</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2009</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2010</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2013</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2017</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2020</td>
@@ -2210,6 +2477,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2049</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2051</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2052</td>
   </tr>
   <tr>
@@ -2231,7 +2501,7 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2078</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2082</td>
+    <td>http://www.wikidata.org/prop/novalue/P2079</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2091</td>
@@ -2250,6 +2520,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2098</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2100</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2101</td>
@@ -2273,6 +2546,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2127</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2136</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2144</td>
   </tr>
   <tr>
@@ -2280,6 +2556,12 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2146</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2147</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2149</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2151</td>
@@ -2294,13 +2576,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2177</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2186</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2192</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2196</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2205</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2206</td>
+    <td>http://www.wikidata.org/prop/novalue/P2210</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2218</td>
@@ -2321,6 +2609,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2243</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2253</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2257</td>
   </tr>
   <tr>
@@ -2328,6 +2619,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2271</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2275</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2281</td>
@@ -2345,16 +2639,25 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2295</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2304</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2305</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2306</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2307</td>
+    <td>http://www.wikidata.org/prop/novalue/P2310</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2312</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2313</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2317</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2321</td>
@@ -2381,7 +2684,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2341</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2342</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2344</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2347</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2348</td>
@@ -2411,7 +2720,7 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2365</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2369</td>
+    <td>http://www.wikidata.org/prop/novalue/P2368</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2370</td>
@@ -2423,7 +2732,7 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2378</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2379</td>
+    <td>http://www.wikidata.org/prop/novalue/P2381</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2385</td>
@@ -2439,6 +2748,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2389</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2390</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2397</td>
@@ -2469,6 +2781,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2436</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2438</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2440</td>
@@ -2507,6 +2822,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2500</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2501</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2505</td>
   </tr>
   <tr>
@@ -2514,6 +2832,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2509</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2515</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2517</td>
@@ -2540,10 +2861,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2541</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2545</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2546</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2547</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2550</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2554</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2555</td>
@@ -2567,16 +2897,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2567</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2568</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2572</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2578</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2581</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2582</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2587</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2588</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2595</td>
@@ -2600,6 +2933,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2606</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2620</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2624</td>
   </tr>
   <tr>
@@ -2607,6 +2943,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2631</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2632</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2635</td>
@@ -2621,6 +2960,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2643</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2650</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2652</td>
   </tr>
   <tr>
@@ -2628,9 +2970,6 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2664</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2667</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2669</td>
@@ -2667,6 +3006,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2700</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2704</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2715</td>
@@ -2708,6 +3050,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2789</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2791</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2794</td>
   </tr>
   <tr>
@@ -2721,6 +3066,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2815</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2816</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2824</td>
@@ -2738,10 +3086,10 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2836</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2843</td>
+    <td>http://www.wikidata.org/prop/novalue/P2854</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2854</td>
+    <td>http://www.wikidata.org/prop/novalue/P2855</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2858</td>
@@ -2750,22 +3098,31 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2860</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2863</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2867</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2868</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2873</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2876</td>
+    <td>http://www.wikidata.org/prop/novalue/P2875</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P2880</td>
+    <td>http://www.wikidata.org/prop/novalue/P2876</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2881</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2882</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2889</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2896</td>
@@ -2786,6 +3143,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2922</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2928</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2936</td>
   </tr>
   <tr>
@@ -2798,7 +3158,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P2944</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2949</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P2951</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2960</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2961</td>
@@ -2808,6 +3174,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2969</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P2979</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P2980</td>
@@ -2826,6 +3195,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3005</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3007</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3008</td>
@@ -2876,6 +3248,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3081</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3082</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3085</td>
   </tr>
   <tr>
@@ -2885,10 +3260,10 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3089</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3091</td>
+    <td>http://www.wikidata.org/prop/novalue/P3092</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3092</td>
+    <td>http://www.wikidata.org/prop/novalue/P3095</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3096</td>
@@ -2918,6 +3293,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3132</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3134</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3137</td>
   </tr>
   <tr>
@@ -2930,6 +3308,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3143</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3148</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3151</td>
   </tr>
   <tr>
@@ -2939,13 +3320,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3157</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3161</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3171</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3174</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3176</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3179</td>
@@ -2960,10 +3341,7 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3186</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3203</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3221</td>
+    <td>http://www.wikidata.org/prop/novalue/P3205</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3225</td>
@@ -2996,7 +3374,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3266</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3267</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3294</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3295</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3301</td>
@@ -3008,10 +3392,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3306</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3320</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3321</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3331</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3342</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3350</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3351</td>
@@ -3023,10 +3416,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3367</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3370</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3371</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3373</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3374</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3381</td>
@@ -3038,10 +3437,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3405</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3417</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3418</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3420</td>
+    <td>http://www.wikidata.org/prop/novalue/P3424</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3426</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3430</td>
@@ -3068,6 +3473,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3454</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3460</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3463</td>
   </tr>
   <tr>
@@ -3083,10 +3491,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3499</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3503</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3548</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3575</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3587</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3591</td>
@@ -3098,6 +3512,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3597</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3599</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3608</td>
   </tr>
   <tr>
@@ -3107,7 +3524,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3613</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3616</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3618</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3624</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3629</td>
@@ -3129,6 +3552,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3707</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3712</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3716</td>
@@ -3158,10 +3584,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3781</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3783</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3789</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3793</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3801</td>
+    <td>http://www.wikidata.org/prop/novalue/P3797</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3804</td>
@@ -3182,13 +3614,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3831</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3837</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3844</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3861</td>
+    <td>http://www.wikidata.org/prop/novalue/P3858</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3872</td>
+    <td>http://www.wikidata.org/prop/novalue/P3861</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3878</td>
@@ -3200,7 +3635,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3880</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3882</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3883</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3884</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3893</td>
@@ -3215,7 +3656,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3910</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P3919</td>
+    <td>http://www.wikidata.org/prop/novalue/P3911</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3916</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3922</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3924</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3925</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P3926</td>
@@ -3230,6 +3683,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3934</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3938</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3963</td>
   </tr>
   <tr>
@@ -3242,6 +3698,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P3977</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P3984</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P3999</td>
   </tr>
   <tr>
@@ -3252,6 +3711,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4024</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4033</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4046</td>
@@ -3287,6 +3749,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4140</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4150</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4152</td>
   </tr>
   <tr>
@@ -3299,19 +3764,43 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4170</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4173</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4174</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4175</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4213</td>
+    <td>http://www.wikidata.org/prop/novalue/P4184</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4204</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4217</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4219</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4224</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4233</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4240</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4241</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4247</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4250</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4253</td>
@@ -3323,634 +3812,58 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4271</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4274</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4275</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5259</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5263</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5279</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5284</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5286</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5304</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5305</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5324</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5349</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5353</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5360</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5381</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5385</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5426</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5436</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5447</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5448</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5453</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5454</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5494</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5504</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5522</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5526</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5555</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5558</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5565</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5569</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5587</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5595</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5606</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5620</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5621</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5634</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5646</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5658</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5698</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5736</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5746</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5775</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5795</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5797</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5800</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5815</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5816</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5817</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5824</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5831</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5832</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5838</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5842</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5863</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5875</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5885</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5894</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5897</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5905</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5911</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5912</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5914</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5916</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5944</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5949</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5968</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5971</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5974</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5976</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5978</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5984</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5988</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5997</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6034</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6050</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6087</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6091</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6103</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6106</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6108</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6120</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6127</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6140</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6142</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6149</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6177</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6193</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6195</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6206</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6208</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6217</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6234</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6238</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6249</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6251</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6254</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6257</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6258</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6262</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6269</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6275</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6277</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6278</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6296</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6327</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6364</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6366</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6375</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6403</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6424</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6439</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6477</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6517</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6529</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6552</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6553</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6571</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6606</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6621</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6634</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6643</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6671</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6720</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6744</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6760</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6766</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6782</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6783</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6798</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6839</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6894</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6898</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P6942</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7013</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7014</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7046</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7050</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7067</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7071</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7078</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7104</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7129</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7137</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7175</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7252</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7277</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7281</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7303</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7307</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7324</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7346</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7363</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7367</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7376</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7429</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7439</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7452</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7455</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7462</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7477</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7479</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7486</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7510</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7512</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7548</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7572</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7583</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7588</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7589</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7595</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7625</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7678</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7715</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7722</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7724</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7727</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7766</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7807</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7823</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7825</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7859</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7867</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7887</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7894</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7902</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7923</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7936</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7937</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7959</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P7975</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8010</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8011</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8013</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8017</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8029</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8031</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8032</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8046</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8047</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8081</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8084</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8179</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8202</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4276</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4282</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4284</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4285</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4300</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4314</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4330</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4353</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4354</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4379</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4387</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4390</td>
+    <td>http://www.wikidata.org/prop/novalue/P4397</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4397</td>
+    <td>http://www.wikidata.org/prop/novalue/P4404</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4432</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4434</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4446</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4467</td>
@@ -3962,13 +3875,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4477</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4479</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4488</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4510</td>
+    <td>http://www.wikidata.org/prop/novalue/P4501</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4506</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4511</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4515</td>
@@ -3977,13 +3893,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4529</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4540</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4550</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4552</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4575</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4576</td>
@@ -3992,10 +3908,31 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4577</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4584</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4602</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4608</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4612</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4614</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4626</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4633</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4638</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4640</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4652</td>
@@ -4004,10 +3941,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4656</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4657</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4665</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4666</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4669</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4692</td>
@@ -4019,7 +3962,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4710</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4724</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4733</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4742</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4743</td>
@@ -4028,10 +3977,22 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4762</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4777</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4780</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4788</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4791</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4801</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4805</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4807</td>
@@ -4061,10 +4022,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4858</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4864</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P4870</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4878</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4896</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4900</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4904</td>
@@ -4088,16 +4058,22 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P4947</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4965</td>
+    <td>http://www.wikidata.org/prop/novalue/P4966</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P4966</td>
+    <td>http://www.wikidata.org/prop/novalue/P4969</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4970</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P4971</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P4983</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5005</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5008</td>
@@ -4115,16 +4091,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P5025</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5028</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P5030</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5032</td>
+    <td>http://www.wikidata.org/prop/novalue/P5031</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5033</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5034</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5037</td>
@@ -4154,7 +4130,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P5055</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5056</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P5061</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5066</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5067</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5068</td>
@@ -4163,13 +4148,25 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P5088</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P5096</td>
+    <td>http://www.wikidata.org/prop/novalue/P5097</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5104</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5107</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5109</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5115</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5126</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5128</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5135</td>
@@ -4181,6 +4178,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P5137</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5140</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P5141</td>
   </tr>
   <tr>
@@ -4190,13 +4190,22 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P5168</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5184</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P5185</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5187</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5188</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P5191</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5192</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P5194</td>
@@ -4226,6 +4235,765 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P5247</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5259</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5263</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5270</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5279</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5284</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5286</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5304</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5305</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5324</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5349</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5353</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5360</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5385</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5396</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5401</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5418</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5426</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5427</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5436</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5447</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5448</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5453</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5454</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5461</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5471</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5494</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5514</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5522</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5526</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5529</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5555</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5558</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5565</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5569</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5582</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5587</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5595</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5606</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5620</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5634</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5647</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5658</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5694</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5698</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5707</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5736</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5746</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5775</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5784</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5797</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5800</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5815</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5816</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5817</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5823</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5831</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5832</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5842</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5863</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5872</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5875</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5885</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5894</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5897</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5911</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5912</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5914</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5916</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5920</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5933</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5944</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5949</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5968</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5971</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5972</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5974</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5978</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5984</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P5997</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6007</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6050</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6087</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6091</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6103</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6104</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6106</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6108</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6119</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6120</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6127</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6140</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6149</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6166</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6177</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6184</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6193</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6195</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6206</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6208</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6216</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6217</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6224</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6234</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6238</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6241</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6249</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6251</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6254</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6257</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6258</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6262</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6265</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6269</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6275</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6277</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6278</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6296</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6327</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6363</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6364</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6366</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6375</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6379</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6392</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6403</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6424</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6427</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6439</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6477</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6517</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6529</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6544</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6552</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6553</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6568</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6586</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6597</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6606</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6621</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6634</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6643</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6671</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6720</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6744</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6745</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6760</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6766</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6782</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6783</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6798</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6839</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6879</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6894</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6898</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6914</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6942</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6949</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6954</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6960</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6978</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P6992</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7009</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7013</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7014</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7033</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7046</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7067</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7071</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7078</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7087</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7101</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7104</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7127</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7129</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7150</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7175</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7252</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7277</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7281</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7293</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7303</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7307</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7317</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7324</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7329</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7346</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7363</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7367</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7400</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7429</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7439</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7452</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7455</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7462</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7468</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7477</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7479</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7486</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7510</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7512</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7548</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7561</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7569</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7572</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7583</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7588</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7589</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7595</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7604</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7625</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7662</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7678</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7706</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7715</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7722</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7724</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7727</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7732</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7766</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7775</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7793</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7807</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7823</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7825</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7867</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7887</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7888</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7894</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7900</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7902</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7923</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7930</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7936</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7937</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7959</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P7975</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8013</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8017</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8029</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8031</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8032</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8046</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8047</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8081</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8084</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8104</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8159</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8168</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8179</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8183</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8189</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8202</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8204</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8205</td>
   </tr>
   <tr>
@@ -4238,19 +5006,28 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8241</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8264</td>
+    <td>http://www.wikidata.org/prop/novalue/P8253</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8286</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8289</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8303</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8313</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8324</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8326</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8327</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8338</td>
@@ -4274,6 +5051,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8379</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8381</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8388</td>
   </tr>
   <tr>
@@ -4281,6 +5061,9 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8395</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8396</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8402</td>
@@ -4304,16 +5087,22 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8449</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8453</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8455</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8460</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8461</td>
+    <td>http://www.wikidata.org/prop/novalue/P8470</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8470</td>
+    <td>http://www.wikidata.org/prop/novalue/P8476</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8477</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8478</td>
@@ -4328,6 +5117,15 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8505</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8512</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8517</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8525</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8591</td>
   </tr>
   <tr>
@@ -4337,7 +5135,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8596</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8620</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8622</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8626</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8627</td>
@@ -4358,13 +5162,28 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8707</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8742</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8768</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8776</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8778</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8779</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8785</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8794</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8803</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8838</td>
@@ -4373,10 +5192,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8839</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8852</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8865</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8885</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8886</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8891</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8895</td>
@@ -4388,13 +5216,25 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P8898</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8903</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P8911</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P8948</td>
+    <td>http://www.wikidata.org/prop/novalue/P8922</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8934</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8956</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8966</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P8972</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P8990</td>
@@ -4409,13 +5249,22 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9024</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9058</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P9059</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9061</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9073</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9076</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9078</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9100</td>
@@ -4425,6 +5274,12 @@ SELECT DISTINCT ?type WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9135</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9139</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9149</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9154</td>
@@ -4451,7 +5306,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9284</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9307</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P9315</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9322</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9341</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9382</td>
@@ -4478,7 +5342,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9394</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9450</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P9486</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9508</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9515</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9520</td>
@@ -4487,13 +5360,25 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9529</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9531</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P9567</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9570</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9581</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9597</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9601</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9615</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9616</td>
@@ -4508,7 +5393,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9660</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P9688</td>
+    <td>http://www.wikidata.org/prop/novalue/P9665</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9667</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9675</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9704</td>
@@ -4520,6 +5411,9 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9715</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9721</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P9729</td>
   </tr>
   <tr>
@@ -4529,16 +5423,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9767</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P9813</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P9837</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9845</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P9885</td>
+    <td>http://www.wikidata.org/prop/novalue/P9888</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P9899</td>
+    <td>http://www.wikidata.org/prop/novalue/P9904</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P9905</td>
@@ -4565,13 +5462,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P9971</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P9984</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10040</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10050</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10051</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10067</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10112</td>
@@ -4580,10 +5480,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P10119</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10135</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10138</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P10253</td>
+    <td>http://www.wikidata.org/prop/novalue/P10152</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10225</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10261</td>
@@ -4592,13 +5498,19 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P10262</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P10283</td>
+    <td>http://www.wikidata.org/prop/novalue/P10271</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10290</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10295</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10302</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10307</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10322</td>
@@ -4610,7 +5522,16 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P10339</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10358</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10372</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10407</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10422</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10441</td>
@@ -4619,7 +5540,13 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P10451</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10463</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10467</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10502</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10551</td>
@@ -4634,28 +5561,55 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P10627</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10629</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10651</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10654</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10661</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10663</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10673</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10688</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10689</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10714</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10726</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10732</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10747</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10756</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10757</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10768</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10777</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10780</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P10808</td>
@@ -4682,10 +5636,25 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P10873</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10893</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P10978</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P10999</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11033</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11034</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11036</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11038</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11055</td>
@@ -4697,13 +5666,43 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P11068</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11070</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11075</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11079</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11108</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11118</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11130</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11228</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11230</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11245</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11250</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11263</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11266</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11291</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11297</td>
@@ -4712,19 +5711,79 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P11312</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11317</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11326</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11328</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11347</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11350</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13447</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13498</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13520</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13553</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13597</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13602</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13642</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13654</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13712</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13715</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13768</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13788</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13847</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13926</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13954</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13975</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13979</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13986</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11354</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11362</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/prop/novalue/P11408</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11420</td>
@@ -4736,16 +5795,37 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P11423</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11464</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11475</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11480</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11500</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/prop/novalue/P11621</td>
+    <td>http://www.wikidata.org/prop/novalue/P11504</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11527</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11599</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11615</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11651</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11652</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11688</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11693</td>
@@ -4757,10 +5837,34 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P11713</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11742</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11761</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11762</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11770</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11810</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11811</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11859</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P11879</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11893</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P11908</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P11942</td>
@@ -4769,16 +5873,211 @@ SELECT DISTINCT ?type WHERE {
     <td>http://www.wikidata.org/prop/novalue/P11985</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12002</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P12010</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12015</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/prop/novalue/P12026</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12050</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12053</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12054</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12086</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12089</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12096</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P12110</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/prop/novalue/P12123</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12170</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12172</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12180</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12196</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12202</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12203</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12263</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12274</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12275</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12290</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12326</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12346</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12350</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12388</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12389</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12413</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12452</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12454</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12490</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12492</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12510</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12527</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12529</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12549</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12565</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12570</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12571</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12573</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12622</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12643</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12677</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12690</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12761</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12798</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12806</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12808</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12838</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12846</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12878</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12926</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P12955</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13026</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13031</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13048</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13066</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13095</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13133</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13146</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13163</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13179</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13282</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13320</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13326</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13349</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13353</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13414</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/prop/novalue/P13418</td>
   </tr>
 </table>
 

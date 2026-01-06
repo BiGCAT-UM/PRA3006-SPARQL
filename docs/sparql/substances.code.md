@@ -40,64 +40,64 @@ WHERE {
     <td><b>molecule</b></td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL7363</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL286494</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL103214</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201580</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL82061</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201586</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL94525</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201608</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL82288</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201439</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL110989</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201575</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL75643</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201583</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL80472</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201584</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL14036</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201585</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL19662</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201587</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL28289</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201825</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL64271</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201831</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL89856</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201833</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL37830</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201834</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL37984</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3137721</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL41644</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743009</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL44091</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743012</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL62433</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743016</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL66769</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743018</td>
   </tr>
   <tr>
-    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL8108</td>
+    <td>http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743023</td>
   </tr>
 </table>
 

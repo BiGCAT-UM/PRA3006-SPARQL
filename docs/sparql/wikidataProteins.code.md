@@ -31,24 +31,12 @@ SELECT * WHERE {
     <td><b>l</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q409065</td>
-    <td>Uroporphyrinogen decarboxylase</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q409106</td>
-    <td>marker of proliferation Ki-67</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q409114</td>
-    <td>Sex determining region Y</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q409166</td>
-    <td>Coagulation factor II, thrombin</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q24190</td>
     <td>Neurotrophin 3</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q25902</td>
+    <td>chymosin</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q30530</td>
@@ -64,11 +52,23 @@ SELECT * WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q74314</td>
-    <td>Titin</td>
+    <td>titin</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q74581</td>
-    <td>Growth differentiation factor 15</td>
+    <td>http://www.wikidata.org/entity/Q418781</td>
+    <td>Catechol-O-methyltransferase</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418896</td>
+    <td>proopiomelanocortin</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418934</td>
+    <td>TNF superfamily member 11</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q419004</td>
+    <td>Cannabinoid receptor 1</td>
   </tr>
 </table>
 

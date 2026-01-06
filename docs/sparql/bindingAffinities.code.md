@@ -49,242 +49,42 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
   <tr>
     <td>Binding</td>
     <td>Ki</td>
-    <td>60.0</td>
+    <td>5000.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>Ki</td>
-    <td>1365.0</td>
+    <td>29.8</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>3100.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>0.505</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>200.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>Ki</td>
-    <td>940.0</td>
+    <td>8100.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>Ki</td>
-    <td>6.2</td>
+    <td>6500.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>Ki</td>
-    <td>220.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>202.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>136.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>107.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>153.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>21.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>185.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>895.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>330.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>213.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>75000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>3200.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>2000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>195.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>18.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>213.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>348.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>123.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>180.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>212.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>266.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>197.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>96.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>103.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>43.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>0.8</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>0.8</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>152.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>5.2</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>5600.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>240.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>1600.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>360.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>225.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>280.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>10000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>8000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>13.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>320.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>189.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>132.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>219.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>112.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>227.0</td>
+    <td>24.0</td>
   </tr>
   <tr>
     <td>Binding</td>
@@ -294,72 +94,7 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
   <tr>
     <td>Binding</td>
     <td>Ki</td>
-    <td>138.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>125.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>97.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>104.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>147.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>18.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>2000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>121.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>99.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>106.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>450.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>325.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>265.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>Ki</td>
-    <td>240.0</td>
+    <td>21000.0</td>
   </tr>
   <tr>
     <td>Binding</td>
@@ -369,12 +104,32 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>660.0</td>
+    <td>75.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>0.00087</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>280.0</td>
+    <td>3000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>0.19</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>1000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>930.0</td>
   </tr>
   <tr>
     <td>Binding</td>
@@ -383,103 +138,163 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
   </tr>
   <tr>
     <td>Binding</td>
-    <td>IC50</td>
-    <td>1400.0</td>
+    <td>Ki</td>
+    <td>55.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>3.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>20000.0</td>
+    <td>10000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>150.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>147.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>450000.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>160.0</td>
+    <td>310.0</td>
   </tr>
   <tr>
     <td>Binding</td>
-    <td>IC50</td>
-    <td>33000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>137.5</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>2.32</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>120.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>141.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>100000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>100000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>687.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>910.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
+    <td>Ki</td>
     <td>4000.0</td>
   </tr>
   <tr>
     <td>Binding</td>
-    <td>IC50</td>
-    <td>3200.0</td>
+    <td>Ki</td>
+    <td>245000.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>660.0</td>
+    <td>260.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>30500.0</td>
+    <td>11000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>480.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>20200.0</td>
+    <td>1000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>3950.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>1e+06</td>
+  </tr>
+  <tr>
+    <td>Functional</td>
+    <td>IC50</td>
+    <td>18200.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>65.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>5000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>2.1</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>8000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>193.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>230.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>3600.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>21000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>2.4</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>0.8</td>
+    <td>2500.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>85.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>110.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>650.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>2000.0</td>
+    <td>39000.0</td>
   </tr>
   <tr>
     <td>Binding</td>
-    <td>IC50</td>
-    <td>380.0</td>
+    <td>Ki</td>
+    <td>4000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>170.0</td>
   </tr>
   <tr>
     <td>Binding</td>
@@ -489,32 +304,67 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>170.0</td>
+    <td>10000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>0.75</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>96.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>1e+06</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>5000.0</td>
+    <td>669.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>5800.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
+    <td>19900.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>900.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
     <td>18.0</td>
   </tr>
   <tr>
     <td>Binding</td>
-    <td>IC50</td>
-    <td>1230.0</td>
+    <td>Ki</td>
+    <td>1100.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>11000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>1.5</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>12000.0</td>
-  </tr>
-  <tr>
-    <td>Binding</td>
-    <td>IC50</td>
-    <td>350.0</td>
+    <td>1000.0</td>
   </tr>
   <tr>
     <td>Binding</td>
@@ -523,8 +373,78 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
   </tr>
   <tr>
     <td>Binding</td>
+    <td>Ki</td>
+    <td>7000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>580.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
     <td>IC50</td>
-    <td>13000.0</td>
+    <td>440.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>100000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>8871.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>3300.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>220.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>0.96</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>56.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>101.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>0.07</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>5000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>1410.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>540000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>300.87</td>
   </tr>
   <tr>
     <td>Binding</td>
@@ -534,17 +454,97 @@ SELECT distinct ?assayLabel ?assayType ?molLabel ?bindingAffinityType ?value WHE
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>390.0</td>
+    <td>33000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>5300.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>6300.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>260.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>10000.0</td>
+    <td>48.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>9.6</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>2.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>74.0</td>
   </tr>
   <tr>
     <td>Binding</td>
     <td>IC50</td>
-    <td>130.0</td>
+    <td>44.2</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>200.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>22.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>300.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>420.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>0.04</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>450000.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>2500.0</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>3.153e+06</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>IC50</td>
+    <td>1.5</td>
+  </tr>
+  <tr>
+    <td>Binding</td>
+    <td>Ki</td>
+    <td>4.0</td>
   </tr>
 </table>
 
