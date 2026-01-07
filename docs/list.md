@@ -1,16 +1,17 @@
 # List of Databases
 
-Various projects collect <a name="tp1">SPARQL endpoint</a>s, like <a name="tp2">YummyData</a> at [yummydata.org](https://yummydata.org/) [<a href="#citeref1">1</a>]
-and [RDF Portal](https://rdfportal.org/datasets).
+Various projects collect <a name="tp1">SPARQL endpoint</a>s, like <a name="tp2">YummyData</a> at [yummydata.org](https://yummydata.org/) [<a href="#citeref1">1</a>],
+[RDF Portal](https://rdfportal.org/datasets), and [this list by Expasy](https://www.expasy.org/resources/cellosaurus-sparql-endpoint).
 Here is an alphabetically sorted list of graphical interfaces to various SPARQL endpoints:
 
 * AOP-Wiki: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) [<a href="#citeref2">2</a>] (see also [this chapter](aopwiki.md))
 * Bgee: [https://www.bgee.org/sparql/](https://www.bgee.org/sparql/) [<a href="#citeref3">3</a>]
 * Bio2RDF: [https://bio2rdf.org/sparql](https://bio2rdf.org/sparql) [<a href="#citeref4">4</a>]
-* Cellosaurus: via Wikidata (see below) [<a href="#citeref3">3</a>]
+* Cellosaurus: [https://www.expasy.org/resources/cellosaurus-sparql-endpoint](https://www.expasy.org/resources/cellosaurus-sparql-endpoint) [<a href="#citeref3">3</a>]
 * ChEMBL: [https://chemblmirror.rdf.bigcat-bioinformatics.org/](https://chemblmirror.rdf.bigcat-bioinformatics.org/) [<a href="#citeref5">5</a>,<a href="#citeref6">6</a>] (see also [this chapter](chembl.md))
 * GlyConnect: [https://glyconnect.expasy.org/sparql](https://glyconnect.expasy.org/sparql) [<a href="#citeref3">3</a>]
 * HAMAP: [https://hamap.expasy.org/sparql](https://hamap.expasy.org/sparql) [<a href="#citeref7">7</a>]
+* Identifiers.org: [https://sparql.api.identifiers.org/](https://sparql.api.identifiers.org/)
 * Integrated Database of Small Molecules (IDSM): [https://idsm.elixir-czech.cz/chemweb/](https://idsm.elixir-czech.cz/chemweb/) [<a href="#citeref8">8</a>]
 * LIPID MAPS: [https://lipidmaps.org/sparql](https://lipidmaps.org/sparql) [<a href="#citeref9">9</a>]
 * MetaNetX: [https://rdf.metanetx.org/](https://rdf.metanetx.org/) [<a href="#citeref10">10</a>]
@@ -18,6 +19,7 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * OrthoDB: [https://sparql.orthodb.org/](https://sparql.orthodb.org/) [<a href="#citeref7">7</a>]
 * neXtProt: [https://snorql.nextprot.org/](https://snorql.nextprot.org/) [<a href="#citeref11">11</a>]
 * Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<a href="#citeref3">3</a>]
+* SIBiLS: [https://www.expasy.org/resources/sibils-sparql-endpoint](https://www.expasy.org/resources/sibils-sparql-endpoint)
 * STRING: [https://sparql.string-db.org/](https://sparql.string-db.org/) [<a href="#citeref7">7</a>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/) [<a href="#citeref7">7</a>]
 * UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref12">12</a>] (see also [this chapter](uniprot.md))
